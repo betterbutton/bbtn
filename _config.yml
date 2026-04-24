@@ -3,7 +3,7 @@ title: Better Button
 description: Lots of useful knowledge conveyed with humor, just like that. 
 url: "https://betterbutton.github.io/bbtn"
 baseurl: ""   # u project page např. "/repo"
-lang: cs-CZ
+lang: en-GB
 timezone: Europe/Prague
 
 # Autor
@@ -17,6 +17,9 @@ authors:
 
 # Struktura URL
 permalink: :title
+
+# Vzhled
+theme: minima
 
 # Markdown
 markdown: kramdown
