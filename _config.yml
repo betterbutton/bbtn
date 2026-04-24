@@ -64,6 +64,7 @@ exclude:
 # Include (pokud bys měl speciální soubory)
 include:
   - export.xml
+  - _index.html
 
 # Volitelné: formát data pro šablony
 date_format: "%d. %m. %Y"
