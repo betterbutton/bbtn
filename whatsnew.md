@@ -1,0 +1,17 @@
+---
+post_id: 151371764.whatsnew
+title: "Whats.new?"
+subtitle: ""
+published: "2024-11-09T05:00:58.966Z"
+is_published: true
+---
+# Whats.new?
+> 
+
+The `.new` domain is often used as a shortcut for creating a new document. Google manages the domain as the registrar, so it's no surprise that it all started with `docs.new`, `sheets.new`, and `slides.new`. Others soon joined, so [there's quite a line of shortcuts](https://whats.new/shortcuts/). In fact, the `.new` domain has become an address shortener.
+
+While coders might appreciate `gist.new` or `pen.new`, designers will likely remember `wireframe.new`, `designs.new`, `create.new`, `lucidchart.new`, or `figma.new`, and for researchers there's `miro.new`, `survey.new`, and `xls.new`.
+
+Thanks to [Jaroslav Hlavinka](https://x.com/jsemhlavinka/status/1854431395315138985 for the tip!
+
+Which shortcut is your favorite? And which one would you appreciate instead?
