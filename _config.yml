@@ -16,7 +16,7 @@ authors:
     email: jakub@svejda-goldmann.cz
 
 # Struktura URL
-permalink: :title
+permalink: /:title
 
 # Vzhled
 theme: minima
