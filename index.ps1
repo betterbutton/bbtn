@@ -1,5 +1,5 @@
-$source = "./"
-$output = "./index.html"
+$source = "./_posts/"
+$output = "./_index.html"
 
 $files = Get-ChildItem $source -Filter *.md | Sort-Object Name
 
@@ -42,6 +42,8 @@ $html = @"
 foreach ($file in $files) {
 
     $name = [System.IO.Path]::GetFileNameWithoutExtension($file.Name)
+
+    $name = $name -replace '^\d{4}-\d{2}-\d{2}-', ''
 
     $html += "        <li><a href=""$name"">$name</a></li>`n"
 }
