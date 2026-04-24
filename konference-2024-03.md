@@ -1,0 +1,91 @@
+---
+post_id: 145540661.konference-2024-03
+title: "Conferences and Professional Events on the Web: March 2024"
+subtitle: ""
+published: "2024-06-11T15:43:06.041Z"
+is_published: true
+---
+# Conferences and Professional Events on the Web: March 2024
+> 
+
+> Continuously updated overview of conferences, community meetups, and professional events on the web, web technologies, online marketing, and web analytics in 2024.
+
+Organizing a professional conference, lecture, community meetup, or training? [Let us know!](https://tally.so/r/mV5zOE)
+
+[January](https://www.reknisioweb.cz/p/konference-2024-01) • [February](https://www.reknisioweb.cz/p/konference-2024-02) • **[March](https://www.reknisioweb.cz/p/konference-2024-03)** • [April](https://www.reknisioweb.cz/p/konference-2024-04) • [May](https://www.reknisioweb.cz/p/konference-2024-05) • [June](https://www.reknisioweb.cz/p/konference-2024-06) • [July](https://www.reknisioweb.cz/p/konference-2024-07) • [August](https://www.reknisioweb.cz/p/konference-2024-08) • [September](https://www.reknisioweb.cz/p/konference-2024-09) • [October](https://www.reknisioweb.cz/p/konference-2024-10) • [November](https://www.reknisioweb.cz/p/konference-2024-11) • [December](https://www.reknisioweb.cz/p/konference-2024-12) + **[Overview of trainings, workshops, and webinars](https://www.reknisioweb.cz/p/skoleni)**
+
+# March 2024
+
+4\. 3. **[UX Monday: Adoption of Design Systems](https://www.meetup.com/asociace-ux/events/299435690/)** (Prague + [recording](https://www.youtube.com/watch?v=1SnB9SWtibU))
+
+🎓 4. 3. [Creating Visuals with AI](https://www.uxwriterka.com/skoleni) (Online)
+
+🎓 4.—5. 3. [Google Analytics 4 Online](https://academy.taste.cz/google-analytics-4) (Online)
+
+9.—10. 3. [IndieWeb Camp](https://indieweb.org/2024/Brighton) (Brighton)
+
+🎓 11. 3. [Juicy Afternoon Webinar Cookie Apocalypse 2024](https://www.dataworkshop.cz/) (Online)
+
+🎓 12. 3. [Basics of Email Marketing: How to Send Your First Mailing?](https://www.holkyzmarketingu.cz/skoleni/zaklady-e-mail-marketingu/) (Online)
+
+🎓 12. 3. [Creativity with AI](https://inspiruj.se/kreativita) (Prague)
+
+🎓 13. 3. [Organizational Chaos](https://www.holkyzmarketingu.cz/skoleni/organizacni-porno/) (Online)
+
+13\. 3. **[\#17 Livesport Talk: Product growth & Experimentation](https://www.eventbrite.com/e/17-livesport-talk-product-growth-experimentation-tickets-837295472297)** (Prague)
+
+14\. 3. **[Ask Me Anything: Petr Novák - UI & Design Systems](https://www.meetup.com/asociace-ux/events/299609057/)** (Prague)
+
+🎓 14.—15. 3. [Google Analytics 4 Masterclass](https://academy.taste.cz/google-analytics-4-masterclass) (Online)
+
+15\. 3. [AI Insights No. 3 Event Already 510 Registrations - Free Ticket in the Link](https://www.meetup.com/beyond-design-thinking-the-next-level-of-innovation/events/299355124/) (Online)
+
+15\. 3. [AI & Judiciary: AI Instruments in Use Today and Tomorrow](https://www.meetup.com/legal-hackers-bern/events/299606907/) (Online)
+
+19\. 3. **[Law in AI](https://www.holkyzmarketingu.cz/skoleni/pravo-v-ai/)** (Online)
+
+19\. 3. **[Design Crew Talk: Panel Discussion](https://www.meetup.com/applifting-meetup-1/events/299674256/)** (Prague)
+
+19\. 3. [YouX by User Interviews. Spring Forward.](https://www.userinterviews.com/youx) (Online)
+
+**20. 3. [SEO Restart](https://www.seorestart.cz/)** (Prague + Online) — 📒 here Jakub with Martin will be speaking, with code `TICHAC20` you get 20% discount
+
+🎓 20. 3. [AI Inventory](https://inspiruj.se/inventura) (Prague)
+
+20.—21. 3. [UXCopenhagen](https://uxcopenhagen.com/) (Copenhagen + Online)
+
+21\. 3. **[Performance Meetup #1: INP, Performance Culture and more](https://www.meetup.com/webperf-cz/events/299312623/)** (Prague)
+
+**21. 3.** **[UX Day](https://www.tuesday.cz/akce/ux-day-2024/)** (Prague) — 📒 here Martin will be speaking
+
+21\. 3. [Social SEO – Not Only Google Is a Search Engine!](https://www.meetup.com/on-fire-webinare-von-morefire/events/299508969/) (Online)
+
+🎓 22. 3. [Building an Accessible Website on WordPress](https://zdrojak.cz/zpravicky/stavime-pristupny-web-na-wordpressu-pozvanka-na-webinar-22-3-2024/) (Online)
+
+23\. 3. **[PoSobota s06e03 Andromeda Assembly](https://www.posobota.cz/)** (Hradec Králové)
+
+**23. 3. [E-commerce Day](https://ecommerceday.cz/)** (Brno)
+
+🎓 23. 3. [Unleashing Possibilities: Dowell Normality Test API 🌟 - UX Living Lab](https://www.meetup.com/sales-agent-success-hub-uxlivinglab/events/298606964/) (Online)
+
+🎓 23. 3. [Build a Website in an Hour](https://events.indieweb.org/2024/03/build-a-website-in-an-hour-lUYv5DntQ3Sr) (Online)
+
+🎓 25. 3. [AI Masterclass](https://inspiruj.se/masterclass) (Prague)
+
+25\. 3. **[The History of Jest, Yarn, and Open Source at Meta with Christoph Nakazawa](https://oss.institute/events/christoph-nakazawa)** (Prague)
+
+🎓 25.—26. 3. [Google Tag Manager Online](https://academy.taste.cz/google-tag-manager) (Online)
+
+**26. 3. [TestCrunch 2024](https://www.testcrunch.cz/)** (Brno)
+
+🎓 26. 3. [Canva Magic Studio Masterclass](https://www.uxwriterka.com/skoleni) (Online)
+
+27\. 3. [AI and UX - A reality check with Jakob Nielsen](https://www.uxdesigninstitute.com/webinars/ai-and-ux-jakob-nielsen) (Online)
+
+28\. 3. **[UX Meetup Brno: Woo with Your Portfolio – A Design Critique](https://www.meetup.com/asociace-ux/events/299690840/)** (Brno)
+
+🎓 28. 3. [SEO Course for Copywriters](https://www.pavelungr.cz/skoleni/seo-pro-copywritery/) (Prague and Online)
+
+◁ [February](https://www.reknisioweb.cz/p/konference-2024-02) • **[March](https://www.reknisioweb.cz/p/konference-2024-03)** • [April](https://www.reknisioweb.cz/p/konference-2024-04) ▷
+
+![Woman speaking at a lectern in front of an audience](https://substack-post-media.s3.amazonaws.com/public/images/26982284-f670-4e52-b6ef-d1f6d2269d8e_1024x1024.png "356x356")

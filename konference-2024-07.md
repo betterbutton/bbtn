@@ -1,0 +1,33 @@
+---
+post_id: 145541757.konference-2024-07
+title: "Conferences and professional events about the web: July 2024"
+subtitle: ""
+published: "2024-06-11T16:01:08.581Z"
+is_published: true
+---
+# July 2024
+> 
+
+> Continuously updated overview of conferences, community and professional events about the web, web technologies, online marketing, and web analytics in 2024.
+
+Organizing a professional conference, lecture, community meeting, or training? [Let us know!](https://tally.so/r/mV5zOE)
+
+[January](https://www.reknisioweb.cz/p/konference-2024-01) • [February](https://www.reknisioweb.cz/p/konference-2024-02) • [March](https://www.reknisioweb.cz/p/konference-2024-03) • [April](https://www.reknisioweb.cz/p/konference-2024-04) • [May](https://www.reknisioweb.cz/p/konference-2024-05) • [June](https://www.reknisioweb.cz/p/konference-2024-06) • **[July](https://www.reknisioweb.cz/p/konference-2024-07)** • [August](https://www.reknisioweb.cz/p/konference-2024-08) • [September](https://www.reknisioweb.cz/p/konference-2024-09) • [October](https://www.reknisioweb.cz/p/konference-2024-10) • [November](https://www.reknisioweb.cz/p/konference-2024-11) • [December](https://www.reknisioweb.cz/p/konference-2024-12) + **[Overview of trainings, workshops, and webinars](https://www.reknisioweb.cz/p/skoleni)**
+
+# July 2024
+
+10 July [Stephanie Walter: How to check and document your design accessibility?](https://friends.figma.com/events/details/figma-design-accessibility-presents-how-to-check-and-document-your-design-accessibility-stephanie-walter/) (Online)
+
+16 July [Dark pattern: how to design ethically](https://www.eventbrite.at/e/dark-pattern-ako-navrhovat-eticky-tickets-935421550037) (Bratislava)
+
+16 July [UX Graz Meetup](https://www.meetup.com/uxgraz/events/300265797/) (Graz & Online)
+
+26. 
+
+30 July [UX Vienna Evening Meetup](https://www.meetup.com/uxvienna/events/297192981/) (Vienna)
+
+31 July [Engineering, Product, and Design Meetup: Fireside chat with Hubert Palán](https://talkbase.io/event/engineering-product-and-design-meetup/productboard) (Prague)
+
+◁ [June](https://www.reknisioweb.cz/p/konference-2024-06) • **[July](https://www.reknisioweb.cz/p/konference-2024-07)** • [August](https://www.reknisioweb.cz/p/konference-2024-08) ▷
+
+![A woman speaking at a lectern in front of an audience](https://substack-post-media.s3.amazonaws.com/public/images/26982284-f670-4e52-b6ef-d1f6d2269d8e_1024x1024.png "356x356")

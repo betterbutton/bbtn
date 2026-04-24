@@ -1,0 +1,89 @@
+---
+post_id: 145540520.konference-2024-02
+title: "Web Conferences and Professional Events: February 2024"
+subtitle: ""
+published: "2024-06-11T15:40:10.541Z"
+is_published: true
+---
+# Web Conferences and Professional Events: February 2024
+> 
+
+> An continuously updated overview of conferences, community meetups, and professional events about the web, web technologies, online marketing, and web analytics in 2024.
+
+Organizing a professional conference, lecture, community meetup, or training? [Let us know!](https://tally.so/r/mV5zOE)
+
+[January](https://www.reknisioweb.cz/p/konference-2024-01) • **[February](https://www.reknisioweb.cz/p/konference-2024-02)** • [March](https://www.reknisioweb.cz/p/konference-2024-03) • [April](https://www.reknisioweb.cz/p/konference-2024-04) • [May](https://www.reknisioweb.cz/p/konference-2024-05) • [June](https://www.reknisioweb.cz/p/konference-2024-06) • [July](https://www.reknisioweb.cz/p/konference-2024-07) • [August](https://www.reknisioweb.cz/p/konference-2024-08) • [September](https://www.reknisioweb.cz/p/konference-2024-09) • [October](https://www.reknisioweb.cz/p/konference-2024-10) • [November](https://www.reknisioweb.cz/p/konference-2024-11) • [December](https://www.reknisioweb.cz/p/konference-2024-12) + **[Overview of trainings, workshops, and webinars](https://www.reknisioweb.cz/p/skoleni)**
+
+# February 2024
+
+2\. 2. **[Product Tank Prague (beers, peers, AI)](https://www.meetup.com/producttank-prague/events/298699839/)** (Prague)
+
+5\. 2. **[UX Monday: Democratizing user research](https://www.meetup.com/asociace-ux/events/298561583/)** (Prague)
+
+6\. 2. [UX Research: How to uncover hidden stories](https://www.eventbrite.at/e/ux-research-ako-odhalit-skryte-pribehy-tickets-809706462827) (Bratislava)
+
+6\. 2. **[Training: OpenAI GPT & ChatGPT, MS Copilot, and other AI tools](https://www.kapler.cz/ai-skoleni/)** (Prague)
+
+🎓 7. 2. [Midjourney for Beginners](https://www.online21.cz/webinar-midjourney/) (Online)
+
+🎓 7.—8. 2. [Training: OpenAI GPT & ChatGPT, MS Copilot, and other AI tools](https://www.kapler.cz/ai-skoleni/) (Online)
+
+**8. 2.** **[E-Commerce Prague](https://www.ecommerceprague.cz/)** (Prague)
+
+8\. 2. **[Ask Me Anything: Special from the UX Association](https://www.meetup.com/asociace-ux/events/298711341/)** (Prague) – live podcast recording
+
+🎓 9. 2. [Training: OpenAI GPT & ChatGPT, MS Copilot, and other AI tools](https://www.kapler.cz/ai-skoleni/) (Prague)
+
+🎓 10. 2. [Training: OpenAI GPT & ChatGPT, MS Copilot, and other AI tools](https://www.kapler.cz/ai-skoleni/) (Prague)
+
+🎓 13. 2. [Technical tools and workflows for subtitling and transcription](https://www.theseus.cz/technicke-nastroje-a-pracovni-postupy-pro-titulkovani-a-prepis-pozvanka-na-webinar-13-2-2024/) (Online)
+
+🎓 13. 2. [Training: OpenAI GPT & ChatGPT, MS Copilot, and other AI tools](https://www.kapler.cz/ai-skoleni/) (Brno)
+
+14\. 2. **[Frontendisti: Meetup at Seznam.cz](https://www.meetup.com/frontendisti/events/298870805/)** (Prague)
+
+**15. 2. [AI Restart](https://www.airestart.cz/)** (Prague)
+
+15\. 2. **[UX Mastermind: Design Operations in Practice](https://www.meetup.com/asociace-ux/events/298354272/)** (Prague) – open experience sharing in a closed group
+
+🎓 16. 2. [Training: OpenAI GPT & ChatGPT, MS Copilot, and other AI tools](https://www.kapler.cz/ai-skoleni/) (Hlučín)
+
+🎓 17. 2. [Training: OpenAI GPT & ChatGPT, MS Copilot, and other AI tools](https://www.kapler.cz/ai-skoleni/) (Hlučín)
+
+20\. 2. [Design Systems at Scale - Processes, Roadmap, and Vision](https://www.meetup.com/uxgraz/events/298660423/) (Online)
+
+20\. 2. **[UX Meetup Brno: Design tokens and why you should use them!](https://www.meetup.com/asociace-ux/events/299096405/)** (Brno)
+
+20\. 2. [Digital copywriting: How to be the golden fish in the sea of text](https://www.eventbrite.at/e/digitalny-copywriting-ako-byt-zlatou-rybkou-v-mori-textu-tickets-825116865757) (Bratislava)
+
+20.—22. 2. [axe-con](https://www.deque.com/axe-con/schedule/?tz=Europe%2FPrague) (Online)
+
+**20. —22. 2. [Marketing Festival](https://www.marketingfestival.cz/)** (Brno)
+
+🎓 21. 2.—6. 6. [No-code Bootcamp](https://bootcamp.workflow.ooo/) (Online)
+
+21\. 2. **[Better Button](https://www.projectman.cz/akce-skoleni/jak-si-rict-o-web)** (Prague) — 📒 evening with Jakub and Martin
+
+🎓 26. 2. [Free 1-hour webinar: Consent Bar 2024](https://www.dataworkshop.cz/) (Online)
+
+26\. 2. **[DesingOps Tour: Culture & ceremonies](https://www.meetup.com/asociace-ux/events/298859499/)** (Prague)
+
+26\. 2. [UX Austauschrunde](https://www.eventbrite.at/e/ux-austauschrunde-tickets-816254247427) (Dresden)
+
+🎓 26. 2. [The Magic of Advanced Email Marketing Online](https://academy.taste.cz/kouzlo-pokrocileho-emailingu) (Online)
+
+26.—29. 2. [Web Summit Qatar](https://qatar.websummit.com/) (Doha)
+
+**27.—28. 2.** **[Czech On-line Expo](https://www.czechonlineexpo.cz/)** (Prague) — 📒 Marin speaks here
+
+27.—29. 2. [HUCAPP: Human-Computer Interaction Theory and Application](https://hucapp.scitevents.org/Home.aspx) (Rome)
+
+27.—29. 2. [ProductWorld](https://productworld.co/) (Online)
+
+28\. 2. **[Design Digest: How Does Lean UX Enhance Designer Agility?](https://www.meetup.com/asociace-ux/events/298931072/)** (Brno)
+
+28\. 2. **[AI developers go for a beer](https://www.facebook.com/events/372878735463280)** (Prague)
+
+◁ [January](https://www.reknisioweb.cz/p/konference-2024-01) • **[February](https://www.reknisioweb.cz/p/konference-2024-02)** • [March](https://www.reknisioweb.cz/p/konference-2024-03) ▷
+
+![Woman speaking at a podium in front of an audience](https://substack-post-media.s3.amazonaws.com/public/images/26982284-f670-4e52-b6ef-d1f6d2269d8e_1024x1024.png "356x356")

@@ -1,0 +1,45 @@
+---
+post_id: 145542207.konference-2024-12
+title: "Web Conferences and Professional Events: December 2024"
+subtitle: ""
+published: "2024-06-11T16:13:48.603Z"
+is_published: true
+---
+# Web Conferences and Professional Events: December 2024
+> 
+
+> An continuously updated overview of conferences, community meetups, and professional events about the web, web technologies, online marketing, and web analytics in 2024.
+
+Organizing a professional conference, lecture, community meetup, or training? [Let us know!](https://tally.so/r/mV5zOE)
+
+[January](https://www.reknisioweb.cz/p/konference-2024-01) • [February](https://www.reknisioweb.cz/p/konference-2024-02) • [March](https://www.reknisioweb.cz/p/konference-2024-03) • [April](https://www.reknisioweb.cz/p/konference-2024-04) • [May](https://www.reknisioweb.cz/p/konference-2024-05) • [June](https://www.reknisioweb.cz/p/konference-2024-06) • [July](https://www.reknisioweb.cz/p/konference-2024-07) • [August](https://www.reknisioweb.cz/p/konference-2024-08) • [September](https://www.reknisioweb.cz/p/konference-2024-09) • [October](https://www.reknisioweb.cz/p/konference-2024-10) • [November](https://www.reknisioweb.cz/p/konference-2024-11) • **[December](https://www.reknisioweb.cz/p/konference-2024-12)** • [Year 2025](https://www.reknisioweb.cz/p/konference-2025) + **[Overview of trainings, workshops, and webinars](https://www.reknisioweb.cz/p/skoleni)**
+
+# December 2024
+
+2\. 12. **[UX Monday: Christmas Roundtable](https://www.meetup.com/asociace-ux/events/304538165/)** (Prague)
+
+5\. 12. [Tool Talks Mini-Conference 2024](https://lu.ma/xwor1wkb) (Online)
+
+6\. 12. [UxWien Mornings](https://www.meetup.com/uxvienna/events/304196728/) (Vienna)
+
+9\. 12. [Level Up Your Application & Interview Game Webinar](https://www.eventbrite.com/e/level-up-your-application-interview-game-webinar-tickets-1080284904229) (Online)
+
+10\. 12. [UX Vienna Evening Meetup: AI, but make it user-friendly](https://www.meetup.com/uxvienna/events/301299513/) (Vienna)
+
+10\. 12. **[Women in IT](https://www.meetup.com/women-in-it/events/304778536/)** (Prague)
+
+🎄 11. 12. **[Christmas Meetup – Frontendisti.cz](https://www.meetup.com/frontendisti/events/304707233)** (Brno)
+
+11\. 12. [How to Digitize Your Business and Access Grants](https://www.meetup.com/unnits/events/304809692/) (Prague)
+
+11\. 12. [Researching why customers churn (and how to reduce it)](https://airtimeux.com/pages/webinars/researching-why-customers-churn-and-how-to-reduce-it) (Online)
+
+🎄 17. 12. [UX Mas 2024](https://www.meetup.com/uxgraz/events/299696148/) (Styria)
+
+18\. 12. **[Pyvo Prague \#163](https://www.meetup.com/pyvo-prague-python-meetup/events/302195056/)** (Prague)
+
+20\. 12. **[Upside Down Podcast LIVE \#3 with Rikim Fridrich and Petr Burian](https://talkbase.io/event/vzhuru-dolu-podcast-zive-3/productboard#spk--59cde256-baf2-4d23-9b60-65552cd5fd68)** (Prague)
+
+◁ [November](https://www.reknisioweb.cz/p/konference-2024-11) • **[December](https://www.reknisioweb.cz/p/konference-2024-12)** • [Year 2025](https://www.reknisioweb.cz/p/konference-2025) ▷
+
+![Woman speaking at a lectern in front of an audience](https://substack-post-media.s3.amazonaws.com/public/images/2b02acf0-2e08-41eb-bf4d-432f5c56c00f_1002x1002.png "344x344")
