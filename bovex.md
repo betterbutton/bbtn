@@ -1,0 +1,25 @@
+---
+post_id: 146072226.bovex
+title: "BoVeX is the successor to TeX for typographically correct typesetting"
+subtitle: ""
+published: "2024-06-28T19:50:07.649Z"
+is_published: true
+---
+# BoVeX is the successor to TeX for typographically correct typesetting
+> 
+
+Maybe you thought the best way to get back at someone is to show them letter pair spacing (Martine, just say: [kerning](https://www.explainxkcd.com/wiki/index.php/1015:_Kerning)). But [typography is full of quirks](https://jednoznakovky.cz/) including panchards, widows, rivers, orphans, ligatures, proper spaces, and dashes, quotes…
+
+Tom Murphy VII. is a computer scientist with [OCD](https://cs.wikipedia.org/wiki/Obsedantn%C4%9B-kompulzivn%C3%AD_porucha) who focuses on typography and fonts. *“I am the detail guy.”* He admires the computer typesetting system TeX by [Donald E. Knuth](https://cs.wikipedia.org/wiki/Donald_Ervin_Knuth). Professor Knuth is also obsessed with details. It is said that he created TeX when the publisher returned the typeset first edition of his book [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) and he was unhappy with how it turned out. When the book was later published, he established a [reward fund](https://www-cs-faculty.stanford.edu/~knuth/news08.html) for readers who find errors in the book. To motivate faster corrections, [the reward decreases over time](https://www-cs-faculty.stanford.edu/~knuth/boss.html).
+
+    \newcommand{\TeX}{T\kern-.1667em\lower.5ex\hbox{E}\kern-.125emX}
+
+    This\ is\ the\ \TeX\ logo.
+
+Back to Tom Murphy! Tom Murphy thought that while TeX is divine, it isn't always used by sane people. He decided to incorporate Knuth's algorithms for computer typesetting and machine learning. (Say: artificial intelligence!) The result is a new [typesetting algorithm, BoVeX](http://tom7.org/bovex/), which also keeps an eye on typographic quirks, and also this video with a criminal plot.
+
+# An error occurred.
+
+JavaScript cannot be executed.
+
+(Photo from the trailer: [Bret Lama](https://unsplash.com/@sepiatone?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-number-of-different-type-of-letters-OfR7Ht1mTOc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash))

@@ -1,0 +1,18 @@
+---
+post_id: 146162964.meta-dma
+title: "Meta accused of violating DMA for its 'pay or consent' model"
+subtitle: ""
+published: "2024-07-01T12:28:50.180Z"
+is_published: true
+---
+# Meta accused of violating DMA for its 'pay or consent' model
+> 
+
+[The European Commission has accused the company Meta](https://www.euractiv.com/section/data-privacy/news/european-commission-accuses-meta-of-violating-digital-competition-rules-with-pay-or-ok-model/) (Facebook, Instagram, WhatsApp…) of violating the rules of digital competition (DMA) due to the *pay or consent* model. This model, introduced in November 2023, offers users in the EU a choice between consenting to the use of personal data for targeted advertising and paying for an ad-free environment.
+
+> „Our preliminary view is that Meta’s advertising model fails to comply with the Digital Markets Act.“
+> **— Margrethe Vestager, Executive Vice-President of the Commission responsible for competition policy [in the press release](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3582)**
+
+The Commission claims that Meta does not offer an option for less personalized ads nor allows free consent to the use of personal data. The investigation is to be concluded in March 2025. Meta argues that its model is in line with the decision of the European Court of Justice. The Commission suggests that adding a third, free option with less personalized ads could solve the problem.
+
+(Image in the teaser: [Mariia Shalabaieva](https://unsplash.com/@maria_shalabaieva?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) from [Unsplash](https://unsplash.com/photos/logo-WR6qHgdWS-Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash))
