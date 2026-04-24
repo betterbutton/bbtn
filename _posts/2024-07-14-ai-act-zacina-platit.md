@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-14 12:18:31 +02:00
-slug: ai-act-zacina-platit
+slug: "ai-act-zacina-platit"
 post_id: 146596018.ai-act-zacina-platit
 title: "The European AI Regulation will come into effect on August 2nd"
 description: ""

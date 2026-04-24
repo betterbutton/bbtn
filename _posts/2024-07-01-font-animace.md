@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-01 07:50:04 +02:00
-slug: font-animace
+slug: "font-animace"
 post_id: 146092304.font-animace
 title: "A font you don't write with, but animate with."
 description: ""

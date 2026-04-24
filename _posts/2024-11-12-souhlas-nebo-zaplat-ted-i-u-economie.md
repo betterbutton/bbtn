@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-12 09:00:00 +01:00
-slug: souhlas-nebo-zaplat-ted-i-u-economie
+slug: "souhlas-nebo-zaplat-ted-i-u-economie"
 post_id: 151541983.souhlas-nebo-zaplat-ted-i-u-economie
 title: "Consent or Pay Now Also at Economia"
 description: ""

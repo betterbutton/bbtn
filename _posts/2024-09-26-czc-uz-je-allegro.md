@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-26 20:00:00 +02:00
-slug: czc-uz-je-allegro
+slug: "czc-uz-je-allegro"
 post_id: 149420047.czc-uz-je-allegro
 title: "CZC.cz is now Allegro"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-14 07:01:21 +02:00
-slug: neverejna-domena-internal
+slug: "neverejna-domena-internal"
 post_id: 147684968.neverejna-domena-internal
 title: "Private domains will be .internal"
 description: ""

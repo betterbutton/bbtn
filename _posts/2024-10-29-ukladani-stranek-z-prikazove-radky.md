@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-29 09:01:00 +01:00
-slug: ukladani-stranek-z-prikazove-radky
+slug: "ukladani-stranek-z-prikazove-radky"
 post_id: 150858833.ukladani-stranek-z-prikazove-radky
 title: "Saving Web Pages from the Command Line"
 description: ""

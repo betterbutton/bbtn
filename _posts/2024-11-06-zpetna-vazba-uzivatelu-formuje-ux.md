@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-06 17:39:39 +01:00
-slug: zpetna-vazba-uzivatelu-formuje-ux
+slug: "zpetna-vazba-uzivatelu-formuje-ux"
 post_id: 151279759.zpetna-vazba-uzivatelu-formuje-ux
 title: "User Feedback Shapes UX Design"
 description: ""

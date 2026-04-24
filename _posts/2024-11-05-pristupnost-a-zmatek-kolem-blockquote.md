@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-05 10:01:24 +01:00
-slug: pristupnost-a-zmatek-kolem-blockquote
+slug: "pristupnost-a-zmatek-kolem-blockquote"
 post_id: 151185493.pristupnost-a-zmatek-kolem-blockquote
 title: "Accessibility and Confusion Around <blockquote> in HTML5"
 description: ""

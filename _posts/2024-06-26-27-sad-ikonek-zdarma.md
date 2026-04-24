@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-26 14:31:21 +02:00
-slug: 27-sad-ikonek-zdarma
+slug: "27-sad-ikonek-zdarma"
 post_id: 146008470.27-sad-ikonek-zdarma
 title: "27 Great Free Icon Sets for Your Project"
 description: ""

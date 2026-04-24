@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-30 10:56:19 +02:00
-slug: generace-alfa-one-login-ma-potiz
+slug: "generace-alfa-one-login-ma-potiz"
 post_id: 149597901.generace-alfa-one-login-ma-potiz
 title: "British Government's One Login Faces Issues with Generation Alpha"
 description: ""

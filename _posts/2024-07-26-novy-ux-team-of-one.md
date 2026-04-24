@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-26 08:01:23 +02:00
-slug: novy-ux-team-of-one
+slug: "novy-ux-team-of-one"
 post_id: 146987302.novy-ux-team-of-one
 title: "Leah Buley and Joe Natoli: New UX Team of One"
 description: ""

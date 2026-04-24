@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-15 08:01:28 +02:00
-slug: pruvodce-pristupnosti-pisma
+slug: "pruvodce-pristupnosti-pisma"
 post_id: 146560929.pruvodce-pristupnosti-pisma
 title: "Font Accessibility Guide"
 description: ""

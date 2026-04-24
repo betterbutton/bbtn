@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-18 15:55:00 +02:00
-slug: figma-slavi-dvanactiny
+slug: "figma-slavi-dvanactiny"
 post_id: 147844467.figma-slavi-dvanactiny
 title: "Figma celebrates twelfth anniversary"
 description: ""

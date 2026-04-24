@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-22 09:01:34 +02:00
-slug: moflin-ai-mazlik-s-vlastni-osobnosti
+slug: "moflin-ai-mazlik-s-vlastni-osobnosti"
 post_id: 150506496.moflin-ai-mazlik-s-vlastni-osobnosti
 title: "Moflin: AI pet with its own personality and emotions"
 description: ""

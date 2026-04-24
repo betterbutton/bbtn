@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-03 08:01:52 +01:00
-slug: jan-rezac-proc-male-e-shopy-bojuji
+slug: "jan-rezac-proc-male-e-shopy-bojuji"
 post_id: 151076566.jan-rezac-proc-male-e-shopy-bojuji
 title: "Jan Řezáč: Why Small E-shops Fight for Survival"
 description: ""

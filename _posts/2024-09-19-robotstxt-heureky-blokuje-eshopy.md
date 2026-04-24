@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-19 10:52:17 +02:00
-slug: robotstxt-heureky-blokuje-eshopy
+slug: "robotstxt-heureky-blokuje-eshopy"
 post_id: 149091688.robotstxt-heureky-blokuje-eshopy
 title: "Heureka blocks links to e-shops for robots"
 description: ""

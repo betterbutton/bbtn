@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-22 12:54:54 +02:00
-slug: ilincev-clanky-mi-generuji-poptavku
+slug: "ilincev-clanky-mi-generuji-poptavku"
 post_id: 147997086.ilincev-clanky-mi-generuji-poptavku
 title: "Ondřej Ilinčev: Articles Generate Ten or More Inquiries for Me"
 description: ""

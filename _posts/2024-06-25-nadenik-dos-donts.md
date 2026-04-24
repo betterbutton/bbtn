@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-25 12:45:26 +02:00
-slug: nadenik-dos-donts
+slug: "nadenik-dos-donts"
 post_id: 145976461.nadenik-dos-donts
 title: "Nádeník is preparing Yes × No samples for design"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-31 07:01:14 +02:00
-slug: threads-uz-jsou-ve-fediverse-jen
+slug: "threads-uz-jsou-ve-fediverse-jen"
 post_id: 148260841.threads-uz-jsou-ve-fediverse-jen
 title: "Threads are already in the Fediverse. Just not in the EU."
 description: ""

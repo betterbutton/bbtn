@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 07:00:00 +02:00
-slug: kognitivni-psychologie-v-ux
+slug: "kognitivni-psychologie-v-ux"
 post_id: 150252651.kognitivni-psychologie-v-ux
 title: "Using Cognitive Psychology for Effective UX Strategies"
 description: ""

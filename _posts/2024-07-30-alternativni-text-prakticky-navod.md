@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-30 07:00:18 +02:00
-slug: alternativni-text-prakticky-navod
+slug: "alternativni-text-prakticky-navod"
 post_id: 147013836.alternativni-text-prakticky-navod
 title: "Alternative text: Practical Guide for Accessible Content"
 description: ""

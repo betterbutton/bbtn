@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-11 09:48:53 +02:00
-slug: nepouzivejte-placeholder-misto-popisku
+slug: "nepouzivejte-placeholder-misto-popisku"
 post_id: 148756499.nepouzivejte-placeholder-misto-popisku
 title: "Don't use placeholder instead of form field label"
 description: ""

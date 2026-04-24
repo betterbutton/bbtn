@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-24 07:01:00 +02:00
-slug: 5-figma-pluginu
+slug: "5-figma-pluginu"
 post_id: 148015364.5-figma-pluginu
 title: "5 Figma Plugins That Save Time and Effort"
 description: ""

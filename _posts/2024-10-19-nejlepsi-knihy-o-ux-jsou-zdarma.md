@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-19 08:01:31 +02:00
-slug: nejlepsi-knihy-o-ux-jsou-zdarma
+slug: "nejlepsi-knihy-o-ux-jsou-zdarma"
 post_id: 150294781.nejlepsi-knihy-o-ux-jsou-zdarma
 title: "Best UX Books for Free"
 description: ""

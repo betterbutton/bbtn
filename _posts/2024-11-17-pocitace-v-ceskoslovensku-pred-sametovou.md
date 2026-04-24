@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-17 11:12:00 +01:00
-slug: pocitace-v-ceskoslovensku-pred-sametovou
+slug: "pocitace-v-ceskoslovensku-pred-sametovou"
 post_id: 151761279.pocitace-v-ceskoslovensku-pred-sametovou
 title: "Computers in Czechoslovakia before the Velvet Revolution"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-02 09:55:22 +02:00
-slug: portal-stavebnika
+slug: "portal-stavebnika"
 post_id: 146195887.portal-stavebnika
 title: "Ministry for Local Development Launches Builder's Portal"
 description: ""

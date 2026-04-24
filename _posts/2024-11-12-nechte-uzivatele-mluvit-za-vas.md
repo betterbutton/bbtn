@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-12 10:01:30 +01:00
-slug: nechte-uzivatele-mluvit-za-vas
+slug: "nechte-uzivatele-mluvit-za-vas"
 post_id: 151542436.nechte-uzivatele-mluvit-za-vas
 title: "Let Users Speak for You"
 description: ""

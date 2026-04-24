@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-05 11:56:34 +02:00
-slug: skoncil-srpnovy-google-core-update
+slug: "skoncil-srpnovy-google-core-update"
 post_id: 148526394.skoncil-srpnovy-google-core-update
 title: "August Google Search Core Update Has Concluded"
 description: ""

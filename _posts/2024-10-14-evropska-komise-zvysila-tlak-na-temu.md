@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-14 09:02:46 +02:00
-slug: evropska-komise-zvysila-tlak-na-temu
+slug: "evropska-komise-zvysila-tlak-na-temu"
 post_id: 150180704.evropska-komise-zvysila-tlak-na-temu
 title: "European Commission increased pressure on Temu"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-02 08:01:21 +02:00
-slug: metoda-5-proc
+slug: "metoda-5-proc"
 post_id: 149680919.metoda-5-proc
 title: "The 5 Why Method Will Make You Better Designers"
 description: ""

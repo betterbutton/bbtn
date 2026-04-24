@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-29 07:01:02 +02:00
-slug: kurz-design-systemu
+slug: "kurz-design-systemu"
 post_id: 147011027.kurz-design-systemu
 title: "Introduction to Design Systems – a course by Figma"
 description: ""

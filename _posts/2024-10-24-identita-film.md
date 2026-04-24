@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-24 07:01:12 +02:00
-slug: identita-film
+slug: "identita-film"
 post_id: 150509537.identita-film
 title: "From Bata to Digital: 150 Years of Czech Graphic Design in Film"
 description: ""

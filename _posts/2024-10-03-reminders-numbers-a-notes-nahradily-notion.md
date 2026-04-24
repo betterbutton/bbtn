@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-03 10:35:59 +02:00
-slug: reminders-numbers-a-notes-nahradily-notion
+slug: "reminders-numbers-a-notes-nahradily-notion"
 post_id: 149746409.reminders-numbers-a-notes-nahradily-notion
 title: "How Reminders, Numbers and Notes Replaced Notion"
 description: ""

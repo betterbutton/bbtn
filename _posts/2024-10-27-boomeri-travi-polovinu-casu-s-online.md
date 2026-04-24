@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-27 08:01:29 +01:00
-slug: boomeri-travi-polovinu-casu-s-online
+slug: "boomeri-travi-polovinu-casu-s-online"
 post_id: 150522459.boomeri-travi-polovinu-casu-s-online
 title: "Baby Boomers spend half their time with online media"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-02 09:33:03 +02:00
-slug: petice-za-digitalni-transformaci-statu
+slug: "petice-za-digitalni-transformaci-statu"
 post_id: 149698622.petice-za-digitalni-transformaci-statu
 title: "Petition: Experts call on Prime Minister Fiala to ensure the continuation of the state's digital transformation with a focus on users"
 description: ""

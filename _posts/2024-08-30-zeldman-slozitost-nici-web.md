@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-30 06:01:19 +02:00
-slug: zeldman-slozitost-nici-web
+slug: "zeldman-slozitost-nici-web"
 post_id: 148245026.zeldman-slozitost-nici-web
 title: "Zeldman: How Complexity Destroys the Web and What to Do About It"
 description: ""

@@ -69,7 +69,7 @@ Get-ChildItem -Path $folder -Filter *.md | ForEach-Object {
     }
 
     if (-not $hasSlug) {
-        $newLines += "slug: $slug"
+        $newLines += "slug: `"$slug`""
     }
 
     $finalFM = ($newLines + $lines) -join "`n"

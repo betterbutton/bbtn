@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-01 10:08:08 +02:00
-slug: pulkert-30-hodin
+slug: "pulkert-30-hodin"
 post_id: 146157148.pulkert-30-hodin
 title: "Dalibor Pulkert: 30 hours to your own business"
 description: ""

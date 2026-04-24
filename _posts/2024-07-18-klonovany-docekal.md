@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-18 08:01:39 +02:00
-slug: klonovany-docekal
+slug: "klonovany-docekal"
 post_id: 146712313.klonovany-docekal
 title: "Cloned Dočekal: What Did the Experiment Bring?"
 description: ""

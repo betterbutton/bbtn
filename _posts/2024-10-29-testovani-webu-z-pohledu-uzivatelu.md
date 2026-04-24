@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-29 10:00:52 +01:00
-slug: testovani-webu-z-pohledu-uzivatelu
+slug: "testovani-webu-z-pohledu-uzivatelu"
 post_id: 150858457.testovani-webu-z-pohledu-uzivatelu
 title: "Testing websites from the perspective of users with visual impairments"
 description: ""

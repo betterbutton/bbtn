@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-26 08:01:14 +02:00
-slug: jak-internet-zabil-kvalitni-design
+slug: "jak-internet-zabil-kvalitni-design"
 post_id: 150512183.jak-internet-zabil-kvalitni-design
 title: "How the internet killed quality design"
 description: ""

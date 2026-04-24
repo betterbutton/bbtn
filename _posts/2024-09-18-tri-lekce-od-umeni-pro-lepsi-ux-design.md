@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-18 07:01:02 +02:00
-slug: tri-lekce-od-umeni-pro-lepsi-ux-design
+slug: "tri-lekce-od-umeni-pro-lepsi-ux-design"
 post_id: 149010750.tri-lekce-od-umeni-pro-lepsi-ux-design
 title: "Three Lessons from Art for Better UX Design"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-28 06:00:53 +02:00
-slug: okamzite-nacteni-stranek-se-speculation
+slug: "okamzite-nacteni-stranek-se-speculation"
 post_id: 148147197.okamzite-nacteni-stranek-se-speculation
 title: "Instant Page Loading with Speculation Rules API"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-15 20:26:32 +02:00
-slug: instalateri-designerum
+slug: "instalateri-designerum"
 post_id: 145675304.instalateri-designerum
 title: "Scott Berkun: Even the best designs will remain on paper if you don't secure support for them"
 description: ""

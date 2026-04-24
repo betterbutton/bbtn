@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-20 20:03:04 +02:00
-slug: rasty-turek-cinkatko
+slug: "rasty-turek-cinkatko"
 post_id: 149168119.rasty-turek-cinkatko
 title: "Rasty Turek: How does a founder differ from a manager?"
 description: ""

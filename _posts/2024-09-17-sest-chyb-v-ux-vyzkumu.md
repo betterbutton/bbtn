@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-17 10:05:26 +02:00
-slug: sest-chyb-v-ux-vyzkumu
+slug: "sest-chyb-v-ux-vyzkumu"
 post_id: 148995623.sest-chyb-v-ux-vyzkumu
 title: "Six UX Research Mistakes You Can Easily Avoid"
 description: ""

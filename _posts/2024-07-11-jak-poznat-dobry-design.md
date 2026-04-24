@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-11 08:01:24 +02:00
-slug: jak-poznat-dobry-design
+slug: "jak-poznat-dobry-design"
 post_id: 146488946.jak-poznat-dobry-design
 title: "Is it good design, or just a pretty picture?"
 description: ""

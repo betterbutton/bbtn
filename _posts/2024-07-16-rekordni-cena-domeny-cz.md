@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-16 07:01:18 +02:00
-slug: rekordni-cena-domeny-cz
+slug: "rekordni-cena-domeny-cz"
 post_id: 146640396.rekordni-cena-domeny-cz
 title: "Domain auctions have a new record: 152,077 CZK"
 description: ""

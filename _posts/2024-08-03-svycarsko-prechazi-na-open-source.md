@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-03 09:00:56 +02:00
-slug: svycarsko-prechazi-na-open-source
+slug: "svycarsko-prechazi-na-open-source"
 post_id: 147012967.svycarsko-prechazi-na-open-source
 title: "Switzerland is transitioning to open source software in public administration"
 description: ""

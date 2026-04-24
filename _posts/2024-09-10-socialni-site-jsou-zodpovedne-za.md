@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-10 14:21:13 +02:00
-slug: socialni-site-jsou-zodpovedne-za
+slug: "socialni-site-jsou-zodpovedne-za"
 post_id: 148722412.socialni-site-jsou-zodpovedne-za
 title: "Social media are responsible for algorithmic recommendations"
 description: ""

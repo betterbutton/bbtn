@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-28 07:00:53 +02:00
-slug: first-party-google-tag
+slug: "first-party-google-tag"
 post_id: 147006801.first-party-google-tag
 title: "Guide to Setting Up First-Party Mode for Google Tag"
 description: ""

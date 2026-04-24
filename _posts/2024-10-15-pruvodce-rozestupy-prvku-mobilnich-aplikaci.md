@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-15 08:03:13 +02:00
-slug: pruvodce-rozestupy-prvku-mobilnich-aplikaci
+slug: "pruvodce-rozestupy-prvku-mobilnich-aplikaci"
 post_id: 150204146.pruvodce-rozestupy-prvku-mobilnich-aplikaci
 title: "Perfect Element Spacing in Mobile Apps"
 description: ""

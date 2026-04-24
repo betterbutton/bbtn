@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-08 07:01:00 +02:00
-slug: roblox-se-meni-v-trziste
+slug: "roblox-se-meni-v-trziste"
 post_id: 149910574.roblox-se-meni-v-trziste
 title: "Roblox is transforming into a marketplace"
 description: ""

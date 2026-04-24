@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-06 10:22:33 +01:00
-slug: python-predstihl-javascript-v-cetnosti
+slug: "python-predstihl-javascript-v-cetnosti"
 post_id: 151259415.python-predstihl-javascript-v-cetnosti
 title: "Python overtook Javascript in usage frequency on GitHub"
 description: ""

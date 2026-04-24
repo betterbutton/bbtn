@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-05 12:22:42 +02:00
-slug: co-by-melo-zahrnovat-designerske
+slug: "co-by-melo-zahrnovat-designerske"
 post_id: 148526974.co-by-melo-zahrnovat-designerske
 title: "What should design education include, version 2024"
 description: ""

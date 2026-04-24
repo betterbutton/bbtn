@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-16 08:00:00 +01:00
-slug: nenutte-uzivatele-stahnout-dalsi
+slug: "nenutte-uzivatele-stahnout-dalsi"
 post_id: 151718399.nenutte-uzivatele-stahnout-dalsi
 title: "Don't force users to download another app"
 description: ""

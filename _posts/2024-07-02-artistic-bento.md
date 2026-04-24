@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-02 10:04:39 +02:00
-slug: artistic-bento
+slug: "artistic-bento"
 post_id: 146196011.artistic-bento
 title: "Is artistic bento the new visual trend in web design?"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-06 12:50:05 +02:00
-slug: honza-sladek-budoucnost-vyvoje-s-ai
+slug: "honza-sladek-budoucnost-vyvoje-s-ai"
 post_id: 149871304.honza-sladek-budoucnost-vyvoje-s-ai
 title: "Honza Sládek: The Future of Development is Less Code, More Consultations"
 description: ""

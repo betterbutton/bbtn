@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-20 08:02:09 +02:00
-slug: uskali-disabled-buttonu
+slug: "uskali-disabled-buttonu"
 post_id: 150266705.uskali-disabled-buttonu
 title: "Pitfalls of Disabled Buttons"
 description: ""

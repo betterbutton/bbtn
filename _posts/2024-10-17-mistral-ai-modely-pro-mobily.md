@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 10:01:47 +02:00
-slug: mistral-ai-modely-pro-mobily
+slug: "mistral-ai-modely-pro-mobily"
 post_id: 150316371.mistral-ai-modely-pro-mobily
 title: "Mistral introduces AI models for mobiles and laptops"
 description: ""

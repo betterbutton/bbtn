@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-25 08:00:39 +02:00
-slug: projdete-se-historii-internetu-na
+slug: "projdete-se-historii-internetu-na"
 post_id: 150511439.projdete-se-historii-internetu-na
 title: "Explore the history of the internet at Web Design Museum"
 description: ""

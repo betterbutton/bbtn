@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-02 06:00:00 +02:00
-slug: jak-aplikovat-teorii-detekce-signalu
+slug: "jak-aplikovat-teorii-detekce-signalu"
 post_id: 148203908.jak-aplikovat-teorii-detekce-signalu
 title: "How to Apply Signal Detection Theory in User Research"
 description: ""

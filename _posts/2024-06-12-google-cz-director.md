@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-12 16:50:00 +02:00
-slug: google-cz-director
+slug: "google-cz-director"
 post_id: 145546639.google-cz-director
 title: "Google is looking for a successor to Taťána le Moigne to lead the Czech branch"
 description: ""

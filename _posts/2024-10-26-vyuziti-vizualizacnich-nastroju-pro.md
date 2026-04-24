@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-26 09:01:20 +02:00
-slug: vyuziti-vizualizacnich-nastroju-pro
+slug: "vyuziti-vizualizacnich-nastroju-pro"
 post_id: 150513002.vyuziti-vizualizacnich-nastroju-pro
 title: "Utilization of Visualization Tools for UX/UI Designers"
 description: ""

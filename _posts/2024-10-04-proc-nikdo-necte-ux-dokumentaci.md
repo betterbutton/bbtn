@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-04 07:02:37 +02:00
-slug: proc-nikdo-necte-ux-dokumentaci
+slug: "proc-nikdo-necte-ux-dokumentaci"
 post_id: 149682295.proc-nikdo-necte-ux-dokumentaci
 title: "Why Does No One Read Your Design Documentation?"
 description: ""

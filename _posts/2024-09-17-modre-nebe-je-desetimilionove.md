@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-17 00:16:15 +02:00
-slug: modre-nebe-je-desetimilionove
+slug: "modre-nebe-je-desetimilionove"
 post_id: 148982020.modre-nebe-je-desetimilionove
 title: "Bluesky is Ten Million"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-28 22:21:06 +02:00
-slug: llama-font
+slug: "llama-font"
 post_id: 146090846.llama-font
 title: "LLaMa.ttf is a font with artificial intelligence. It writes itself."
 description: ""

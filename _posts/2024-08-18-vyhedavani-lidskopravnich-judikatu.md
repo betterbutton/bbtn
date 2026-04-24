@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-18 14:23:30 +02:00
-slug: vyhedavani-lidskopravnich-judikatu
+slug: "vyhedavani-lidskopravnich-judikatu"
 post_id: 147842755.vyhedavani-lidskopravnich-judikatu
 title: "Searching Human Rights Judgments"
 description: ""

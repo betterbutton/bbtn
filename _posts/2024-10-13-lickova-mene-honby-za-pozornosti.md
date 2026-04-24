@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-13 13:58:42 +02:00
-slug: lickova-mene-honby-za-pozornosti
+slug: "lickova-mene-honby-za-pozornosti"
 post_id: 150170503.lickova-mene-honby-za-pozornosti
 title: "Ličková: Less Chasing for Attention and More Content"
 description: ""

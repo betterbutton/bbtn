@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-05 09:01:19 +01:00
-slug: 10-kroku-pro-uspesny-kickoff-meeting
+slug: "10-kroku-pro-uspesny-kickoff-meeting"
 post_id: 151185078.10-kroku-pro-uspesny-kickoff-meeting
 title: "10 Steps for a Successful Kickoff Meeting"
 description: ""

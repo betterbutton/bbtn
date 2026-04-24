@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-20 06:00:52 +01:00
-slug: americke-ministerstvo-spravedlnosti
+slug: "americke-ministerstvo-spravedlnosti"
 post_id: 151849820.americke-ministerstvo-spravedlnosti
 title: "US Department of Justice forces Google to sell Chrome"
 description: ""

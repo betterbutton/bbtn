@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-17 08:01:49 +01:00
-slug: tri-urovne-hodnoceni-od-googlu-dokument
+slug: "tri-urovne-hodnoceni-od-googlu-dokument"
 post_id: 151759158.tri-urovne-hodnoceni-od-googlu-dokument
 title: "Three Levels of Evaluation by Google: Document, Domain, and Authorities"
 description: ""

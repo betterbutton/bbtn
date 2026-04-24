@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-02 09:01:30 +02:00
-slug: design-thinking-klic-k-inovativnim
+slug: "design-thinking-klic-k-inovativnim"
 post_id: 149681444.design-thinking-klic-k-inovativnim
 title: "Design Thinking: Key to Innovative Solutions"
 description: ""

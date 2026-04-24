@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-17 07:01:07 +02:00
-slug: seo-ai-vs-clovek
+slug: "seo-ai-vs-clovek"
 post_id: 146689256.seo-ai-vs-clovek
 title: "Does it matter for SEO whether content is created by a human?"
 description: ""

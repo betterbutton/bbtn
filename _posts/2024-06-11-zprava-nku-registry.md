@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-11 21:20:02 +02:00
-slug: zprava-nku-registry
+slug: "zprava-nku-registry"
 post_id: 145547912.zprava-nku-registry
 title: "Supreme Audit Office audited management of basic registers"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-06 10:45:56 +01:00
-slug: ai-prinasi-revoluci-do-ux
+slug: "ai-prinasi-revoluci-do-ux"
 post_id: 151260053.ai-prinasi-revoluci-do-ux
 title: "AI Brings Revolution to UX"
 description: ""

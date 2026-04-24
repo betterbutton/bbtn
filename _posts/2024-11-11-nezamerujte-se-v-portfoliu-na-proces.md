@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-11 06:01:14 +01:00
-slug: nezamerujte-se-v-portfoliu-na-proces
+slug: "nezamerujte-se-v-portfoliu-na-proces"
 post_id: 151476100.nezamerujte-se-v-portfoliu-na-proces
 title: "Don't Focus on Process in Your Portfolio, But on Results"
 description: ""

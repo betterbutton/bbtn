@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-02 08:00:59 +02:00
-slug: google-search-podporuje-avif
+slug: "google-search-podporuje-avif"
 post_id: 148332262.google-search-podporuje-avif
 title: "Google Search Now Supports AVIF"
 description: ""

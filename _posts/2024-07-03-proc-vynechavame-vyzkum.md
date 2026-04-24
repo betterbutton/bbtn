@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-03 23:43:28 +02:00
-slug: proc-vynechavame-vyzkum
+slug: "proc-vynechavame-vyzkum"
 post_id: 146260790.proc-vynechavame-vyzkum
 title: "Why do we skip the user research phase?"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-07 10:01:17 +01:00
-slug: klicove-metriky-ux
+slug: "klicove-metriky-ux"
 post_id: 151300747.klicove-metriky-ux
 title: "Key UX Metrics"
 description: ""

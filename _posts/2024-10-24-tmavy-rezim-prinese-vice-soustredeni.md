@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-24 06:01:11 +02:00
-slug: tmavy-rezim-prinese-vice-soustredeni
+slug: "tmavy-rezim-prinese-vice-soustredeni"
 post_id: 150509310.tmavy-rezim-prinese-vice-soustredeni
 title: "Dark mode will bring more concentration and productivity"
 description: ""

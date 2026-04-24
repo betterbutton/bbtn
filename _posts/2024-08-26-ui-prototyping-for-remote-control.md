@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-26 08:01:47 +02:00
-slug: ui-prototyping-for-remote-control
+slug: "ui-prototyping-for-remote-control"
 post_id: 148101863.ui-prototyping-for-remote-control
 title: "UI Prototyping with Remote Control"
 description: ""

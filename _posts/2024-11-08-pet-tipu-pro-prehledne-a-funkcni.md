@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-08 08:02:01 +01:00
-slug: pet-tipu-pro-prehledne-a-funkcni
+slug: "pet-tipu-pro-prehledne-a-funkcni"
 post_id: 151302222.pet-tipu-pro-prehledne-a-funkcni
 title: "Five tips for clear and functional categories"
 description: ""

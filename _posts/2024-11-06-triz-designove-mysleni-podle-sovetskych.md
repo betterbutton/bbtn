@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-06 09:38:15 +01:00
-slug: triz-designove-mysleni-podle-sovetskych
+slug: "triz-designove-mysleni-podle-sovetskych"
 post_id: 151258240.triz-designove-mysleni-podle-sovetskych
 title: "TRIZ: Design Thinking According to Soviet Engineers"
 description: ""

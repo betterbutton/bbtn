@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-27 07:00:47 +02:00
-slug: privacy-sandbox-results
+slug: "privacy-sandbox-results"
 post_id: 147031658.privacy-sandbox-results
 title: "What the Disabling of 3rd-Party Cookies in Chrome Brought to Advertising Campaign Numbers"
 description: ""

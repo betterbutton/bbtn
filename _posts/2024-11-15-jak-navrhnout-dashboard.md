@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-15 07:01:42 +01:00
-slug: jak-navrhnout-dashboard
+slug: "jak-navrhnout-dashboard"
 post_id: 151674005.jak-navrhnout-dashboard
 title: "How to design a clear and effective dashboard"
 description: ""

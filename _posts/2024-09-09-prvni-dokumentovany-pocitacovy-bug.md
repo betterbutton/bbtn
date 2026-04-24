@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-09 19:02:10 +02:00
-slug: prvni-dokumentovany-pocitacovy-bug
+slug: "prvni-dokumentovany-pocitacovy-bug"
 post_id: 148684292.prvni-dokumentovany-pocitacovy-bug
 title: "First documented computer bug"
 description: ""

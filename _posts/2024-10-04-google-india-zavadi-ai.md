@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-04 09:02:49 +02:00
-slug: google-india-zavadi-ai
+slug: "google-india-zavadi-ai"
 post_id: 149749717.google-india-zavadi-ai
 title: "Google dives into India with big AI"
 description: ""

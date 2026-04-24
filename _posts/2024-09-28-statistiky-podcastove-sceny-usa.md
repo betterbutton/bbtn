@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-28 06:03:51 +02:00
-slug: statistiky-podcastove-sceny-usa
+slug: "statistiky-podcastove-sceny-usa"
 post_id: 149489867.statistiky-podcastove-sceny-usa
 title: "US Podcast Scene Statistics"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-11 10:30:10 +02:00
-slug: blunarova-rozhovor
+slug: "blunarova-rozhovor"
 post_id: 146490048.blunarova-rozhovor
 title: "Blunárová: With AI, I have more time for strategy"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-15 10:01:52 +01:00
-slug: barevny-prostor-hsl-jako-nejlepsi
+slug: "barevny-prostor-hsl-jako-nejlepsi"
 post_id: 151674981.barevny-prostor-hsl-jako-nejlepsi
 title: "HSL Color Space as the Best Friend of Designers"
 description: ""

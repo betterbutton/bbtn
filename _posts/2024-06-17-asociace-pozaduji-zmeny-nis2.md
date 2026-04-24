@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-17 12:02:40 +02:00
-slug: asociace-pozaduji-zmeny-nis2
+slug: "asociace-pozaduji-zmeny-nis2"
 post_id: 145717223.asociace-pozaduji-zmeny-nis2
 title: "Business associations demand changes to the draft cyber security law"
 description: ""

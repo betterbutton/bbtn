@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-22 13:32:49 +02:00
-slug: monokultura-prohlizecu-kazi-web
+slug: "monokultura-prohlizecu-kazi-web"
 post_id: 147997473.monokultura-prohlizecu-kazi-web
 title: "Browser monoculture ruins the web"
 description: ""

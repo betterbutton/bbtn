@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-25 07:01:31 +02:00
-slug: affinity-sleva
+slug: "affinity-sleva"
 post_id: 146961712.affinity-sleva
 title: "Affinity gives 50% summer discount"
 description: ""

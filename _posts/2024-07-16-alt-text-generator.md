@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-16 09:01:19 +02:00
-slug: alt-text-generator
+slug: "alt-text-generator"
 post_id: 146631881.alt-text-generator
 title: "Image Alt Text Generator"
 description: ""

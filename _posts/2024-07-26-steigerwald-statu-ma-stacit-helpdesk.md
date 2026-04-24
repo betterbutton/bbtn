@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-26 07:30:49 +02:00
-slug: steigerwald-statu-ma-stacit-helpdesk
+slug: "steigerwald-statu-ma-stacit-helpdesk"
 post_id: 147014229.steigerwald-statu-ma-stacit-helpdesk
 title: "Steigerwald: For the State, Portals and Applications Have Their Place, a Helpdesk Suffices"
 description: ""

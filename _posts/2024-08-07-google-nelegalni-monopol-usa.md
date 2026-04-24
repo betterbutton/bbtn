@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-07 10:08:23 +02:00
-slug: google-nelegalni-monopol-usa
+slug: "google-nelegalni-monopol-usa"
 post_id: 147439802.google-nelegalni-monopol-usa
 title: "USA: Court Declares Google an Illegal Monopolist"
 description: ""

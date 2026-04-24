@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-17 17:01:31 +02:00
-slug: vice-nez-100-zdroju-pro-obsahove
+slug: "vice-nez-100-zdroju-pro-obsahove"
 post_id: 148998688.vice-nez-100-zdroju-pro-obsahove
 title: "More than 100 resources for content professionals"
 description: ""

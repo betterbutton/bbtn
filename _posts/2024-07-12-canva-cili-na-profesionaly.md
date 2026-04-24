@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-12 08:01:34 +02:00
-slug: canva-cili-na-profesionaly
+slug: "canva-cili-na-profesionaly"
 post_id: 146524471.canva-cili-na-profesionaly
 title: "Canva is targeting professional designers. Is it good enough yet?"
 description: ""

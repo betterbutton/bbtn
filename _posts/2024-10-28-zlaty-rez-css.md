@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-28 10:01:58 +01:00
-slug: zlaty-rez-css
+slug: "zlaty-rez-css"
 post_id: 150798977.zlaty-rez-css
 title: "The Golden Ratio in CSS"
 description: ""

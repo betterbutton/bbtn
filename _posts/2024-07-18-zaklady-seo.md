@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-18 09:43:46 +02:00
-slug: zaklady-seo
+slug: "zaklady-seo"
 post_id: 146741830.zaklady-seo
 title: "Basic Orientation in SEO and a Few Fun Memories"
 description: ""

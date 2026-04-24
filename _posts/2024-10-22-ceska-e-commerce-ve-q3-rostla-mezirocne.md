@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-22 11:01:53 +02:00
-slug: ceska-e-commerce-ve-q3-rostla-mezirocne
+slug: "ceska-e-commerce-ve-q3-rostla-mezirocne"
 post_id: 150520290.ceska-e-commerce-ve-q3-rostla-mezirocne
 title: "Czech e-commerce in Q3 grew year-on-year by 5 percent"
 description: ""

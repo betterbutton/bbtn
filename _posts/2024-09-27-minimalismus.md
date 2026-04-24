@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-27 08:01:04 +02:00
-slug: minimalismus
+slug: "minimalismus"
 post_id: 149461536.minimalismus
 title: "Web Minimalism"
 description: ""

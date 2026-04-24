@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 09:00:40 +02:00
-slug: pruvodce-uzivatelskym-vyzkumem
+slug: "pruvodce-uzivatelskym-vyzkumem"
 post_id: 150260915.pruvodce-uzivatelskym-vyzkumem
 title: "A Simple Guide to Effective User Research"
 description: ""

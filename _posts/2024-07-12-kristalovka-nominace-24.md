@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-12 14:41:17 +02:00
-slug: kristalovka-nominace-24
+slug: "kristalovka-nominace-24"
 post_id: 146541200.kristalovka-nominace-24
 title: "Crystal Magnifying Glass 2024 is Collecting Nominations"
 description: ""

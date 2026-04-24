@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-29 08:00:55 +02:00
-slug: jak-mluvit-s-lidmi-na-sitich
+slug: "jak-mluvit-s-lidmi-na-sitich"
 post_id: 147032278.jak-mluvit-s-lidmi-na-sitich
 title: "How to Talk to People on Social Networks – Vyhnánková and Losekoot"
 description: ""

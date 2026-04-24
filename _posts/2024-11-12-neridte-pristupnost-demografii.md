@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-12 08:32:27 +01:00
-slug: neridte-pristupnost-demografii
+slug: "neridte-pristupnost-demografii"
 post_id: 151541466.neridte-pristupnost-demografii
 title: "Don't Drive Accessibility by Demographics"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-24 12:01:27 +02:00
-slug: facesjs-generator-avataru
+slug: "facesjs-generator-avataru"
 post_id: 146934796.facesjs-generator-avataru
 title: "Faces.js: profile picture generator"
 description: ""

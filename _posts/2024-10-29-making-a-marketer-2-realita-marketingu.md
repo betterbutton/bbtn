@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-29 08:00:48 +01:00
-slug: making-a-marketer-2-realita-marketingu
+slug: "making-a-marketer-2-realita-marketingu"
 post_id: 150857590.making-a-marketer-2-realita-marketingu
 title: "Making a Marketer 2: The unvarnished reality of marketing"
 description: ""

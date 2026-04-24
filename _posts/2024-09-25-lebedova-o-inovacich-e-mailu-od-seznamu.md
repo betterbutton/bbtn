@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-25 09:08:53 +02:00
-slug: lebedova-o-inovacich-e-mailu-od-seznamu
+slug: "lebedova-o-inovacich-e-mailu-od-seznamu"
 post_id: 149383723.lebedova-o-inovacich-e-mailu-od-seznamu
 title: "WebTop100: Lebedová on Innovations in Email from Seznam"
 description: ""

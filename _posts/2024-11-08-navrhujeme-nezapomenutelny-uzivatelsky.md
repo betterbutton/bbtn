@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-08 11:02:19 +01:00
-slug: navrhujeme-nezapomenutelny-uzivatelsky
+slug: "navrhujeme-nezapomenutelny-uzivatelsky"
 post_id: 151303049.navrhujeme-nezapomenutelny-uzivatelsky
 title: "Designing an Unforgettable User Experience"
 description: ""

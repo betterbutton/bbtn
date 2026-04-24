@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-02 14:16:13 +02:00
-slug: translate-110-jazyku
+slug: "translate-110-jazyku"
 post_id: 146196298.translate-110-jazyku
 title: "Google Translate Can Handle a Hundred More Languages"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-03 12:43:35 +02:00
-slug: gmail-karty-s-rychlou-akci
+slug: "gmail-karty-s-rychlou-akci"
 post_id: 149750691.gmail-karty-s-rychlou-akci
 title: "Gmail adds new cards for quick email actions"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-04 13:43:11 +02:00
-slug: identita-pribeh-ceskeho-grafickeho
+slug: "identita-pribeh-ceskeho-grafickeho"
 post_id: 148487805.identita-pribeh-ceskeho-grafickeho
 title: "Identity: The Story of Czech Graphic Design in a New Monograph"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-03 17:17:05 +02:00
-slug: podezrele-sms-ohlaste-na-linku-7726
+slug: "podezrele-sms-ohlaste-na-linku-7726"
 post_id: 149762823.podezrele-sms-ohlaste-na-linku-7726
 title: "Report suspicious SMS to 7726"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-14 06:01:01 +01:00
-slug: v-roce-2025-sjednoti-domena-govcz
+slug: "v-roce-2025-sjednoti-domena-govcz"
 post_id: 151590411.v-roce-2025-sjednoti-domena-govcz
 title: "In 2025, the GOV.CZ domain will unify the websites of state institutions"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-23 14:00:04 +02:00
-slug: ux-researcher-playlist
+slug: "ux-researcher-playlist"
 post_id: 146914969.ux-researcher-playlist
 title: "Say it with a song: UX Researcher"
 description: ""

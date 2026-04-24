@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-11 10:24:23 +02:00
-slug: antimonopolni-urad-proveruje-seznamcz
+slug: "antimonopolni-urad-proveruje-seznamcz"
 post_id: 148756996.antimonopolni-urad-proveruje-seznamcz
 title: "Antitrust Authority probes Seznam.cz"
 description: ""

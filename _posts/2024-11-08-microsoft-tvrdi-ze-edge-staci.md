@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-08 07:01:36 +01:00
-slug: microsoft-tvrdi-ze-edge-staci
+slug: "microsoft-tvrdi-ze-edge-staci"
 post_id: 151301845.microsoft-tvrdi-ze-edge-staci
 title: "Microsoft claims Edge is sufficient"
 description: ""

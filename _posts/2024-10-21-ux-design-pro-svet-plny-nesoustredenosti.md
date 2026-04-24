@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-21 08:01:36 +02:00
-slug: ux-design-pro-svet-plny-nesoustredenosti
+slug: "ux-design-pro-svet-plny-nesoustredenosti"
 post_id: 150314994.ux-design-pro-svet-plny-nesoustredenosti
 title: "UX design for a world full of distraction"
 description: ""

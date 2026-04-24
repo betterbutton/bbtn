@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-29 20:27:51 +02:00
-slug: personalizace-a-hledani-cesta-k-vyssim
+slug: "personalizace-a-hledani-cesta-k-vyssim"
 post_id: 149572419.personalizace-a-hledani-cesta-k-vyssim
 title: "Personalization and Search: The Path to Higher E-shop Sales According to Roman Dušek"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-02 08:01:09 +02:00
-slug: pristupnost-typografie
+slug: "pristupnost-typografie"
 post_id: 147013646.pristupnost-typografie
 title: "Typography and Accessibility: Design for 1.1 Billion People"
 description: ""

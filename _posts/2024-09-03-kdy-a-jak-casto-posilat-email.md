@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-03 08:01:31 +02:00
-slug: kdy-a-jak-casto-posilat-email
+slug: "kdy-a-jak-casto-posilat-email"
 post_id: 148373114.kdy-a-jak-casto-posilat-email
 title: "When and how often to send a newsletter"
 description: ""

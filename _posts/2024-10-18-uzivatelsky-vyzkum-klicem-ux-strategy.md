@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-18 09:00:59 +02:00
-slug: uzivatelsky-vyzkum-klicem-ux-strategy
+slug: "uzivatelsky-vyzkum-klicem-ux-strategy"
 post_id: 150265826.uzivatelsky-vyzkum-klicem-ux-strategy
 title: "Why User Research is Key to a Successful UX Strategy"
 description: ""

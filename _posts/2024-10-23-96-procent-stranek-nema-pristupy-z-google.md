@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-23 10:00:08 +02:00
-slug: 96-procent-stranek-nema-pristupy-z-google
+slug: "96-procent-stranek-nema-pristupy-z-google"
 post_id: 150555176.96-procent-stranek-nema-pristupy-z-google
 title: "On 96.55 percent of pages, no one comes from Google"
 description: ""

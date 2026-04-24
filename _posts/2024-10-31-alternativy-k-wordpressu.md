@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-31 07:00:52 +01:00
-slug: alternativy-k-wordpressu
+slug: "alternativy-k-wordpressu"
 post_id: 150864824.alternativy-k-wordpressu
 title: "Alternatives to WordPress"
 description: ""

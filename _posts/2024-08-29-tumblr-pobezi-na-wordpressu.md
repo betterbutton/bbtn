@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-29 18:33:26 +02:00
-slug: tumblr-pobezi-na-wordpressu
+slug: "tumblr-pobezi-na-wordpressu"
 post_id: 148271347.tumblr-pobezi-na-wordpressu
 title: "Tumblr Will Run on WordPress"
 description: ""

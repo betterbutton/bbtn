@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-22 06:01:11 +02:00
-slug: rss-jak-funguje-a-proc-ho-jeste-vyuzivat
+slug: "rss-jak-funguje-a-proc-ho-jeste-vyuzivat"
 post_id: 150318452.rss-jak-funguje-a-proc-ho-jeste-vyuzivat
 title: "RSS: How It Works and Why You Should Still Use It"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-18 10:01:25 +01:00
-slug: efektivni-vyzkumny-plan-krok-za-krokem
+slug: "efektivni-vyzkumny-plan-krok-za-krokem"
 post_id: 151795714.efektivni-vyzkumny-plan-krok-za-krokem
 title: "Effective Research Plan Step by Step"
 description: ""

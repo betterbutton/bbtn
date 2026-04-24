@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-30 09:38:06 +02:00
-slug: ctu-zadotuje-5g-signal-ve-vlacich
+slug: "ctu-zadotuje-5g-signal-ve-vlacich"
 post_id: 149596382.ctu-zadotuje-5g-signal-ve-vlacich
 title: "ČTÚ funds 5G signal in trains"
 description: ""

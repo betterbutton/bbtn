@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-02 09:45:44 +02:00
-slug: chyba-openssh
+slug: "chyba-openssh"
 post_id: 146195719.chyba-openssh
 title: "Bug in OpenSSH can lead to remote code execution"
 description: ""

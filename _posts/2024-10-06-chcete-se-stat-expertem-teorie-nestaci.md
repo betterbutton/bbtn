@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-06 12:09:21 +02:00
-slug: chcete-se-stat-expertem-teorie-nestaci
+slug: "chcete-se-stat-expertem-teorie-nestaci"
 post_id: 149870870.chcete-se-stat-expertem-teorie-nestaci
 title: "Do you want to become an expert? Theory is not enough."
 description: ""

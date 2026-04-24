@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-06 06:00:00 +02:00
-slug: zasedl-expertni-panel-kristalove-lupy
+slug: "zasedl-expertni-panel-kristalove-lupy"
 post_id: 148620688.zasedl-expertni-panel-kristalove-lupy
 title: "Crystal Magnifying Glass 2024 to Award Influencers for the First Time"
 description: ""

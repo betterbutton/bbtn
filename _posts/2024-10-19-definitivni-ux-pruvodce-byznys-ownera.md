@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-19 07:01:19 +02:00
-slug: definitivni-ux-pruvodce-byznys-ownera
+slug: "definitivni-ux-pruvodce-byznys-ownera"
 post_id: 150266091.definitivni-ux-pruvodce-byznys-ownera
 title: "Definitive UX Guide for Business Owners"
 description: ""

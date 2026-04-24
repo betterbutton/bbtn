@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-23 14:13:11 +02:00
-slug: google-3rd-party-cookies-zmena
+slug: "google-3rd-party-cookies-zmena"
 post_id: 146915287.google-3rd-party-cookies-zmena
 title: "Google and 3rd-party cookies: course correction or new trick?"
 description: ""

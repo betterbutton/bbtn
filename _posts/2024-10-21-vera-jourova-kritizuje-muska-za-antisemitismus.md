@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-21 10:30:15 +02:00
-slug: vera-jourova-kritizuje-muska-za-antisemitismus
+slug: "vera-jourova-kritizuje-muska-za-antisemitismus"
 post_id: 150506113.vera-jourova-kritizuje-muska-za-antisemitismus
 title: "Věra Jourová criticizes Elon Musk for antisemitism on platform X"
 description: ""

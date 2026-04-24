@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-21 10:01:15 +02:00
-slug: kde-najit-schopne-designery
+slug: "kde-najit-schopne-designery"
 post_id: 147955247.kde-najit-schopne-designery
 title: "Where to Find Skilled Designers"
 description: ""

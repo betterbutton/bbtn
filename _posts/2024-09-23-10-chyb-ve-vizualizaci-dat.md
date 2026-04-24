@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-23 13:27:58 +02:00
-slug: 10-chyb-ve-vizualizaci-dat
+slug: "10-chyb-ve-vizualizaci-dat"
 post_id: 149287394.10-chyb-ve-vizualizaci-dat
 title: "10 Data Visualization Mistakes That Can Catch You Off Guard"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-16 19:07:20 +02:00
-slug: prezentace-measurecamp-24
+slug: "prezentace-measurecamp-24"
 post_id: 148970303.prezentace-measurecamp-24
 title: "MeasureCamp ’24 Presentation"
 description: ""

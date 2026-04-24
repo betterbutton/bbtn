@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-14 10:58:54 +01:00
-slug: vyhledavace-ecosia-a-qwant-vyzyvaji
+slug: "vyhledavace-ecosia-a-qwant-vyzyvaji"
 post_id: 151641119.vyhledavace-ecosia-a-qwant-vyzyvaji
 title: "Ecosia and Qwant Search Engines Challenge Google"
 description: ""

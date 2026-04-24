@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-25 22:19:00 +02:00
-slug: searchgpt-waitlist
+slug: "searchgpt-waitlist"
 post_id: 147011965.searchgpt-waitlist
 title: "ChatGPT gets search"
 description: ""

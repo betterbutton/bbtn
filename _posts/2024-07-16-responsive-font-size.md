@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-16 08:01:16 +02:00
-slug: responsive-font-size
+slug: "responsive-font-size"
 post_id: 146561322.responsive-font-size
 title: "A Trick for Setting Font Responsiveness"
 description: ""

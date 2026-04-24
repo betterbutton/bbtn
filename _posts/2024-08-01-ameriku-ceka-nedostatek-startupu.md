@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-01 07:00:54 +02:00
-slug: ameriku-ceka-nedostatek-startupu
+slug: "ameriku-ceka-nedostatek-startupu"
 post_id: 147029020.ameriku-ceka-nedostatek-startupu
 title: "America faces a shortage of startups"
 description: ""

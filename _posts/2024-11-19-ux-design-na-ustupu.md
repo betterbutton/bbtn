@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-19 11:01:13 +01:00
-slug: ux-design-na-ustupu
+slug: "ux-design-na-ustupu"
 post_id: 151850006.ux-design-na-ustupu
 title: "UX design in decline"
 description: ""

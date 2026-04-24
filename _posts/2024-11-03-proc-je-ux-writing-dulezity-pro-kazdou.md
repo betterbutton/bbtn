@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-03 10:01:24 +01:00
-slug: proc-je-ux-writing-dulezity-pro-kazdou
+slug: "proc-je-ux-writing-dulezity-pro-kazdou"
 post_id: 151078845.proc-je-ux-writing-dulezity-pro-kazdou
 title: "Why is UX writing important for every application?"
 description: ""

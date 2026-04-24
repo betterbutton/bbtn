@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-26 08:01:50 +02:00
-slug: kristalovka-2024-hlasovani
+slug: "kristalovka-2024-hlasovani"
 post_id: 149420297.kristalovka-2024-hlasovani
 title: "Crystal Loupe 2024 Voting Has Started"
 description: ""

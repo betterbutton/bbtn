@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-09 22:13:02 +02:00
-slug: proc-ux-vyzkumnici-nemaji-radi-dotazniky
+slug: "proc-ux-vyzkumnici-nemaji-radi-dotazniky"
 post_id: 148698241.proc-ux-vyzkumnici-nemaji-radi-dotazniky
 title: "Why UX Researchers Don't Like Surveys"
 description: ""

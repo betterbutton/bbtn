@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-17 10:01:49 +01:00
-slug: jak-efektivne-skalovat-research-ops
+slug: "jak-efektivne-skalovat-research-ops"
 post_id: 151760294.jak-efektivne-skalovat-research-ops
 title: "How to Effectively Scale Research Ops with Kate Towsey"
 description: ""

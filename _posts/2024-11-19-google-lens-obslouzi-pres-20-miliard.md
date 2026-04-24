@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-19 09:01:17 +01:00
-slug: google-lens-obslouzi-pres-20-miliard
+slug: "google-lens-obslouzi-pres-20-miliard"
 post_id: 151849442.google-lens-obslouzi-pres-20-miliard
 title: "Google Lens handles over 20 billion queries monthly"
 description: ""

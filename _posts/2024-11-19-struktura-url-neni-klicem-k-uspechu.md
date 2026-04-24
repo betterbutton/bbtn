@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-19 07:01:35 +01:00
-slug: struktura-url-neni-klicem-k-uspechu
+slug: "struktura-url-neni-klicem-k-uspechu"
 post_id: 151848604.struktura-url-neni-klicem-k-uspechu
 title: "URL Structure Is Not the Key to SEO Success"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-10 14:58:44 +02:00
-slug: google-blokuje-registrace-z-ruskych
+slug: "google-blokuje-registrace-z-ruskych"
 post_id: 148724081.google-blokuje-registrace-z-ruskych
 title: "Google blocks registrations from Russian phone numbers"
 description: ""

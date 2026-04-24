@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-01 07:00:55 +02:00
-slug: trendy-ux-pro-rok-2025
+slug: "trendy-ux-pro-rok-2025"
 post_id: 149599808.trendy-ux-pro-rok-2025
 title: "What UX Will Bring in 2025"
 description: ""

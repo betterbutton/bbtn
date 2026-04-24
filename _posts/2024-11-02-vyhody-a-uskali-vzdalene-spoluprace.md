@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-02 11:01:36 +01:00
-slug: vyhody-a-uskali-vzdalene-spoluprace
+slug: "vyhody-a-uskali-vzdalene-spoluprace"
 post_id: 151052770.vyhody-a-uskali-vzdalene-spoluprace
 title: "Advantages and Pitfalls of Remote Collaboration in UX"
 description: ""

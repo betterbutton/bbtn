@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-02 07:01:02 +02:00
-slug: 5-principu-cinskeho-ux
+slug: "5-principu-cinskeho-ux"
 post_id: 146988004.5-principu-cinskeho-ux
 title: "Five Principles of Chinese UX Design by Juliette Xing"
 description: ""

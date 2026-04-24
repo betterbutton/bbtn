@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-08 09:01:25 +02:00
-slug: efekt-matneho-skla-glassmorfismus
+slug: "efekt-matneho-skla-glassmorfismus"
 post_id: 149941706.efekt-matneho-skla-glassmorfismus
 title: "The Frosted Glass Effect: Glassmorphism. Will it be the trend of 2025?"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-13 18:32:55 +02:00
-slug: erika-hall-navrhari-jako-hrdinove
+slug: "erika-hall-navrhari-jako-hrdinove"
 post_id: 150178272.erika-hall-navrhari-jako-hrdinove
 title: "Hall: Designers as Heroes, or Shaping the Future with Design"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-18 09:01:36 +01:00
-slug: stav-ux-mobilnich-aplikaci-v-roce
+slug: "stav-ux-mobilnich-aplikaci-v-roce"
 post_id: 151795546.stav-ux-mobilnich-aplikaci-v-roce
 title: "State of UX in Mobile Apps in 2024 and Their Most Common Errors"
 description: ""

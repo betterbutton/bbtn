@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-01 18:06:57 +02:00
-slug: hospodarky-po-czccz-skonci-v-allegru
+slug: "hospodarky-po-czccz-skonci-v-allegru"
 post_id: 148350100.hospodarky-po-czccz-skonci-v-allegru
 title: "Business News: After CZC.cz, Mall.cz Will Also End Up in Allegro"
 description: ""

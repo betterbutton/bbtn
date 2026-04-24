@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-17 10:38:28 +02:00
-slug: jak-prekonat-odpor-k-ux-vyzkumu
+slug: "jak-prekonat-odpor-k-ux-vyzkumu"
 post_id: 148996801.jak-prekonat-odpor-k-ux-vyzkumu
 title: "How to Overcome Resistance to UX Research"
 description: ""

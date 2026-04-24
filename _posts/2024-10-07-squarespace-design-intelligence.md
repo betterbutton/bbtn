@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-07 09:00:54 +02:00
-slug: squarespace-design-intelligence
+slug: "squarespace-design-intelligence"
 post_id: 149906688.squarespace-design-intelligence
 title: "Squarespace Trains Its AI Tools with an Emphasis on Taste and Customization"
 description: ""

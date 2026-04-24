@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-16 18:44:45 +02:00
-slug: seznam-reaguje-na-prohlaseni-antimonopolniho
+slug: "seznam-reaguje-na-prohlaseni-antimonopolniho"
 post_id: 148969769.seznam-reaguje-na-prohlaseni-antimonopolniho
 title: "Seznam reacts to the antitrust office statement"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-23 13:43:02 +02:00
-slug: kladeni-otazek-v-designu
+slug: "kladeni-otazek-v-designu"
 post_id: 146914617.kladeni-otazek-v-designu
 title: "The Art of Asking Questions in Design"
 description: ""

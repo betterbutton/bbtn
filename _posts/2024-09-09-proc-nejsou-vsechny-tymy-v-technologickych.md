@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-09 22:30:06 +02:00
-slug: proc-nejsou-vsechny-tymy-v-technologickych
+slug: "proc-nejsou-vsechny-tymy-v-technologickych"
 post_id: 148699560.proc-nejsou-vsechny-tymy-v-technologickych
 title: "Why aren't all teams in tech companies truly product teams?"
 description: ""

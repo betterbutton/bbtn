@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-19 07:00:08 +02:00
-slug: dark-patterns-gallery
+slug: "dark-patterns-gallery"
 post_id: 146745673.dark-patterns-gallery
 title: "Dark Patterns Gallery"
 description: ""

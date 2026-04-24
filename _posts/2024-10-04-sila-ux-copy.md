@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-04 06:00:00 +02:00
-slug: sila-ux-copy
+slug: "sila-ux-copy"
 post_id: 149748482.sila-ux-copy
 title: "The Power of UX Copy: How Small Words Change the User Experience"
 description: ""

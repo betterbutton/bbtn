@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-25 08:01:11 +02:00
-slug: google-smartphone-bot
+slug: "google-smartphone-bot"
 post_id: 146962234.google-smartphone-bot
 title: "Google now crawls websites only with smartphone bots"
 description: ""

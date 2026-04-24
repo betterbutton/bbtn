@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-02 10:01:33 +01:00
-slug: apple-kupuje-pixelmator
+slug: "apple-kupuje-pixelmator"
 post_id: 151052434.apple-kupuje-pixelmator
 title: "Apple acquires creator of photo editor Pixelmator"
 description: ""

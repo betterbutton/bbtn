@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-12 10:31:04 +01:00
-slug: v-designu-potrebujeme-autenticke
+slug: "v-designu-potrebujeme-autenticke"
 post_id: 151542564.v-designu-potrebujeme-autenticke
 title: "We need authentic leaders in design"
 description: ""

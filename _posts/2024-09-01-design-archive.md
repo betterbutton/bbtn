@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-01 07:01:38 +02:00
-slug: design-archive
+slug: "design-archive"
 post_id: 148179763.design-archive
 title: "Design Treasures in the Internet Archive"
 description: ""

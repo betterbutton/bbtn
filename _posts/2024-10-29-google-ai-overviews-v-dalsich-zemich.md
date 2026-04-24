@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-29 11:02:00 +01:00
-slug: google-ai-overviews-v-dalsich-zemich
+slug: "google-ai-overviews-v-dalsich-zemich"
 post_id: 150880405.google-ai-overviews-v-dalsich-zemich
 title: "Google's AI Overviews in Search Are Coming to 100+ Countries. No, Not the EU."
 description: ""

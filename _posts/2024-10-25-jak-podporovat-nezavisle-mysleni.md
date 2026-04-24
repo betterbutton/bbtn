@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-25 06:00:42 +02:00
-slug: jak-podporovat-nezavisle-mysleni
+slug: "jak-podporovat-nezavisle-mysleni"
 post_id: 150510890.jak-podporovat-nezavisle-mysleni
 title: "How to Support Independent Thinking in a Team"
 description: ""

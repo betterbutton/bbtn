@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-14 11:37:03 +01:00
-slug: jak-vznikly-nielsenovy-heuristiky
+slug: "jak-vznikly-nielsenovy-heuristiky"
 post_id: 151642132.jak-vznikly-nielsenovy-heuristiky
 title: "How Nielsen's Usability Heuristics Came to Be"
 description: ""

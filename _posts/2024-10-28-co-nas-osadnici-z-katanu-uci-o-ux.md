@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-28 11:02:55 +01:00
-slug: co-nas-osadnici-z-katanu-uci-o-ux
+slug: "co-nas-osadnici-z-katanu-uci-o-ux"
 post_id: 150799610.co-nas-osadnici-z-katanu-uci-o-ux
 title: "What Settlers of Catan Teaches Us About UX"
 description: ""

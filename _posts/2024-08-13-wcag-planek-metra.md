@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-13 23:02:10 +02:00
-slug: wcag-planek-metra
+slug: "wcag-planek-metra"
 post_id: 147682457.wcag-planek-metra
 title: "Web accessibility clearly as a metro map"
 description: ""

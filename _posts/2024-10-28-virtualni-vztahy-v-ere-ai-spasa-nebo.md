@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-28 08:01:24 +01:00
-slug: virtualni-vztahy-v-ere-ai-spasa-nebo
+slug: "virtualni-vztahy-v-ere-ai-spasa-nebo"
 post_id: 150798213.virtualni-vztahy-v-ere-ai-spasa-nebo
 title: "Virtual relationships in the AI era: Salvation or threat?"
 description: ""

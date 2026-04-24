@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-15 06:02:15 +02:00
-slug: bezpecnost-ocima-michala-spacka
+slug: "bezpecnost-ocima-michala-spacka"
 post_id: 150203390.bezpecnost-ocima-michala-spacka
 title: "Security Through the Eyes of Michal Špaček: 2FA, Passwords, and Bug Reporting"
 description: ""

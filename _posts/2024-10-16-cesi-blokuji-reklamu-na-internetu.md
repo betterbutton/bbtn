@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-16 10:27:43 +02:00
-slug: cesi-blokuji-reklamu-na-internetu
+slug: "cesi-blokuji-reklamu-na-internetu"
 post_id: 150295910.cesi-blokuji-reklamu-na-internetu
 title: "Nearly 40% of us avoid internet ads"
 description: ""

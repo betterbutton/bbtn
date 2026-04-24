@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 08:00:56 +02:00
-slug: denik-ux-stazisty
+slug: "denik-ux-stazisty"
 post_id: 150258175.denik-ux-stazisty
 title: "UX Intern Diary"
 description: ""

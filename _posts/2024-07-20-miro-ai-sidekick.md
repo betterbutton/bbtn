@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-20 07:01:03 +02:00
-slug: miro-ai-sidekick
+slug: "miro-ai-sidekick"
 post_id: 146801627.miro-ai-sidekick
 title: "Miro: AI as Another Team Member"
 description: ""

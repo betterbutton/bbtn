@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-13 11:01:08 +01:00
-slug: zaklady-tvorby-wireframu
+slug: "zaklady-tvorby-wireframu"
 post_id: 151564098.zaklady-tvorby-wireframu
 title: "Basics of Wireframing"
 description: ""

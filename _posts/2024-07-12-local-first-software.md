@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-12 09:01:18 +02:00
-slug: local-first-software
+slug: "local-first-software"
 post_id: 146524839.local-first-software
 title: "Local first software"
 description: ""

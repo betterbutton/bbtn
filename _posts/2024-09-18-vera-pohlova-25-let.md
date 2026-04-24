@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-18 09:11:48 +02:00
-slug: vera-pohlova-25-let
+slug: "vera-pohlova-25-let"
 post_id: 149043057.vera-pohlova-25-let
 title: "These scandals just annoy everyone after 25 years"
 description: ""

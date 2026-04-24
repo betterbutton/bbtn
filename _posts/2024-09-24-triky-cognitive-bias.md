@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-24 06:01:08 +02:00
-slug: triky-cognitive-bias
+slug: "triky-cognitive-bias"
 post_id: 149295293.triky-cognitive-bias
 title: "Are you familiar with web tricks based on cognitive bias?"
 description: ""

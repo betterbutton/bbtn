@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-11 12:37:39 +01:00
-slug: seo-experti-o-novem-search-gpt-a
+slug: "seo-experti-o-novem-search-gpt-a"
 post_id: 151496437.seo-experti-o-novem-search-gpt-a
 title: "SEO experts on the new search GPT and its possibilities"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-24 08:00:54 +02:00
-slug: ux-design-krok-za-krokem-bezplatny
+slug: "ux-design-krok-za-krokem-bezplatny"
 post_id: 148014014.ux-design-krok-za-krokem-bezplatny
 title: "UX design step by step: Free course from IBM"
 description: ""

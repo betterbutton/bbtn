@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-23 12:18:31 +02:00
-slug: male-upravy-vylepsily-volbycz
+slug: "male-upravy-vylepsily-volbycz"
 post_id: 149285181.male-upravy-vylepsily-volbycz
 title: "How small improvements enhanced the volby.cz website"
 description: ""

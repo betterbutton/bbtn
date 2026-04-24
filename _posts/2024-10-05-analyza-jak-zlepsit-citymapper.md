@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-05 09:00:08 +02:00
-slug: analyza-jak-zlepsit-citymapper
+slug: "analyza-jak-zlepsit-citymapper"
 post_id: 149752886.analyza-jak-zlepsit-citymapper
 title: "Analysis: How Citymapper Could Improve Urban Transit Experience"
 description: ""

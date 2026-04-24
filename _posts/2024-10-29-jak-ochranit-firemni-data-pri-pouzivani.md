@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-29 07:01:31 +01:00
-slug: jak-ochranit-firemni-data-pri-pouzivani
+slug: "jak-ochranit-firemni-data-pri-pouzivani"
 post_id: 150854717.jak-ochranit-firemni-data-pri-pouzivani
 title: "How to Protect Company Data When Using ChatGPT"
 description: ""

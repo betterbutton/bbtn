@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-16 07:01:21 +01:00
-slug: kdy-pridat-komponentu-do-design-systemu
+slug: "kdy-pridat-komponentu-do-design-systemu"
 post_id: 151717837.kdy-pridat-komponentu-do-design-systemu
 title: "When to add a component to the design system"
 description: ""

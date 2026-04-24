@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-10 01:25:54 +02:00
-slug: jak-na-vyzkum-od-stolu
+slug: "jak-na-vyzkum-od-stolu"
 post_id: 146451399.jak-na-vyzkum-od-stolu
 title: "Desk Research, and How to Do It"
 description: ""

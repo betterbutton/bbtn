@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-23 20:49:11 +02:00
-slug: alexej-soldatov-za-mrizemi
+slug: "alexej-soldatov-za-mrizemi"
 post_id: 146927423.alexej-soldatov-za-mrizemi
 title: "Father of the Russian Internet Behind Bars"
 description: ""

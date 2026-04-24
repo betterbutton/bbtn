@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-04 10:01:14 +02:00
-slug: sleduje-firefox-uzivatele-nebo-chrani
+slug: "sleduje-firefox-uzivatele-nebo-chrani"
 post_id: 149771820.sleduje-firefox-uzivatele-nebo-chrani
 title: "Is Firefox tracking users or protecting them?"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-10 01:33:44 +02:00
-slug: trenovani-ai-figma
+slug: "trenovani-ai-figma"
 post_id: 146451794.trenovani-ai-figma
 title: "Do you want Figma to train AI on your work?"
 description: ""

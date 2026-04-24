@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-25 09:00:37 +02:00
-slug: z-boxu-bez-aplikace
+slug: "z-boxu-bez-aplikace"
 post_id: 146963248.z-boxu-bez-aplikace
 title: "Z-Boxes No Longer Require the Packeta App"
 description: ""

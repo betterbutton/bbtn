@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-22 10:00:48 +02:00
-slug: automaticky-provoz-zkresluje-statistiky-mailingu
+slug: "automaticky-provoz-zkresluje-statistiky-mailingu"
 post_id: 150518701.automaticky-provoz-zkresluje-statistiky-mailingu
 title: "Automated Systems Skew Email Campaign Statistics"
 description: ""

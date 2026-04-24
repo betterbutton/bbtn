@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-06 10:01:16 +01:00
-slug: jak-v-designu-najit-naplneni-a-hodnotu
+slug: "jak-v-designu-najit-naplneni-a-hodnotu"
 post_id: 151259092.jak-v-designu-najit-naplneni-a-hodnotu
 title: "How to Find Fulfillment and Value in Design"
 description: ""

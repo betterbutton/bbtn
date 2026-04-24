@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-12 19:18:58 +02:00
-slug: takovy-byl-frontkon-2024
+slug: "takovy-byl-frontkon-2024"
 post_id: 150143906.takovy-byl-frontkon-2024
 title: "Jan Polzer: Such Was FrontKon 2024"
 description: ""

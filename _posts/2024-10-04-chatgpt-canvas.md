@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-04 09:30:00 +02:00
-slug: chatgpt-canvas
+slug: "chatgpt-canvas"
 post_id: 149796365.chatgpt-canvas
 title: "ChatGPT Introduces Canvas: More Effective Writing and Coding"
 description: ""

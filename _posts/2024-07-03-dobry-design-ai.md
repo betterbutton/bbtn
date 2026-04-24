@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-03 22:56:03 +02:00
-slug: dobry-design-ai
+slug: "dobry-design-ai"
 post_id: 146259288.dobry-design-ai
 title: "What is good design in the era of artificial intelligence"
 description: ""

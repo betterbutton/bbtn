@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-04 10:02:09 +01:00
-slug: potrebujeme-designovou-kritiku-jak
+slug: "potrebujeme-designovou-kritiku-jak"
 post_id: 151081878.potrebujeme-designovou-kritiku-jak
 title: "We need design critique. How to do it right?"
 description: ""

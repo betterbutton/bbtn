@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-30 07:01:04 +02:00
-slug: akce-o-webu-v-zari-2024
+slug: "akce-o-webu-v-zari-2024"
 post_id: 148180508.akce-o-webu-v-zari-2024
 title: "Web Event in September 2024"
 description: ""

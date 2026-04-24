@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-07 07:01:03 +02:00
-slug: internetovy-manifest-po-15-letech
+slug: "internetovy-manifest-po-15-letech"
 post_id: 147876195.internetovy-manifest-po-15-letech
 title: "Internet Manifest Still Relevant After 15 Years"
 description: ""

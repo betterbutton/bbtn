@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-11 16:26:37 +02:00
-slug: google-celi-soudu-kvuli-monopolu
+slug: "google-celi-soudu-kvuli-monopolu"
 post_id: 148758623.google-celi-soudu-kvuli-monopolu
 title: "Google faces a lawsuit due to monopoly. Again. This time on the advertising market."
 description: ""

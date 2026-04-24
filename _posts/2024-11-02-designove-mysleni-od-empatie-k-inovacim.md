@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-02 06:01:16 +01:00
-slug: designove-mysleni-od-empatie-k-inovacim
+slug: "designove-mysleni-od-empatie-k-inovacim"
 post_id: 151007661.designove-mysleni-od-empatie-k-inovacim
 title: "Design Thinking from Empathy to Innovation"
 description: ""

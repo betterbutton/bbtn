@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-01 12:11:18 +02:00
-slug: microsoft-pod-drobnohledem-kvuli
+slug: "microsoft-pod-drobnohledem-kvuli"
 post_id: 149655338.microsoft-pod-drobnohledem-kvuli
 title: "Microsoft under scrutiny due to dominance in cloud and AI"
 description: ""

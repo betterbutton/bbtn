@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-27 06:00:59 +02:00
-slug: sef-telegramu-durov-zadrzen-ve-francii
+slug: "sef-telegramu-durov-zadrzen-ve-francii"
 post_id: 148139260.sef-telegramu-durov-zadrzen-ve-francii
 title: "Telegram CEO Durov detained in France, investigation continues"
 description: ""

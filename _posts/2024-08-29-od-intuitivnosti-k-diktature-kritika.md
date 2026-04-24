@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-29 07:00:01 +02:00
-slug: od-intuitivnosti-k-diktature-kritika
+slug: "od-intuitivnosti-k-diktature-kritika"
 post_id: 148162901.od-intuitivnosti-k-diktature-kritika
 title: "From Intuitiveness to Dictatorship: Critique of Modern UIs"
 description: ""

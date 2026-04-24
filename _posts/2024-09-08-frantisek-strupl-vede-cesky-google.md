@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-08 08:00:24 +02:00
-slug: frantisek-strupl-vede-cesky-google
+slug: "frantisek-strupl-vede-cesky-google"
 post_id: 148623724.frantisek-strupl-vede-cesky-google
 title: "František Štrupl Leads Czech Google"
 description: ""

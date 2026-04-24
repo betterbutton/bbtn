@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-04 07:01:50 +01:00
-slug: design-system-day-posiluje-komunitu
+slug: "design-system-day-posiluje-komunitu"
 post_id: 151080346.design-system-day-posiluje-komunitu
 title: "Design System Day strengthens the GOV.UK community"
 description: ""

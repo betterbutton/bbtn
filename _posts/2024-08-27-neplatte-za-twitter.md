@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-27 09:01:30 +02:00
-slug: neplatte-za-twitter
+slug: "neplatte-za-twitter"
 post_id: 148146070.neplatte-za-twitter
 title: "Dočekal: Don't Pay for Twitter"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-19 20:32:32 +02:00
-slug: rusko-zarizlo-youtube-google-prijmy
+slug: "rusko-zarizlo-youtube-google-prijmy"
 post_id: 147892988.rusko-zarizlo-youtube-google-prijmy
 title: "Russia has cut off YouTube, Google AdSense revenues"
 description: ""

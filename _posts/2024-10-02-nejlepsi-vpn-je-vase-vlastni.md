@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-02 07:00:58 +02:00
-slug: nejlepsi-vpn-je-vase-vlastni
+slug: "nejlepsi-vpn-je-vase-vlastni"
 post_id: 149655050.nejlepsi-vpn-je-vase-vlastni
 title: "The Best VPN Is Your Own"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-30 07:01:29 +01:00
-slug: udan-metriky-rustu-startupu
+slug: "udan-metriky-rustu-startupu"
 post_id: 150891633.udan-metriky-rustu-startupu
 title: "Miroslav Uďan: The Most Important Metrics for Startup Growth and Investment"
 description: ""

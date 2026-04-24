@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-27 20:40:20 +02:00
-slug: friends-of-figma-cz
+slug: "friends-of-figma-cz"
 post_id: 146055726.friends-of-figma-cz
 title: "Friends of Figma has a Czech branch"
 description: ""

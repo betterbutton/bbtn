@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-23 11:00:39 +02:00
-slug: foursquare-v-prosinci-skonci
+slug: "foursquare-v-prosinci-skonci"
 post_id: 150555430.foursquare-v-prosinci-skonci
 title: "Foursquare will end in December"
 description: ""

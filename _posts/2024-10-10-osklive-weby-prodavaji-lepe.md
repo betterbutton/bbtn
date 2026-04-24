@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-10 13:13:58 +02:00
-slug: osklive-weby-prodavaji-lepe
+slug: "osklive-weby-prodavaji-lepe"
 post_id: 150047103.osklive-weby-prodavaji-lepe
 title: "Ugly websites sell better"
 description: ""

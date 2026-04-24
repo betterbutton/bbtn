@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-30 11:19:24 +02:00
-slug: historie-viru
+slug: "historie-viru"
 post_id: 146128738.historie-viru
 title: "Altair: Fascinating Similarities Between Digital and Biological Threats"
 description: ""

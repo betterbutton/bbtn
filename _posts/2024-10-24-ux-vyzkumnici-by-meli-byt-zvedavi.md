@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-24 08:01:23 +02:00
-slug: ux-vyzkumnici-by-meli-byt-zvedavi
+slug: "ux-vyzkumnici-by-meli-byt-zvedavi"
 post_id: 150510645.ux-vyzkumnici-by-meli-byt-zvedavi
 title: "UX researchers should be curious like journalists"
 description: ""

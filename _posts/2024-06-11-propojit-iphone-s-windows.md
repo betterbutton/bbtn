@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-11 21:12:42 +02:00
-slug: propojit-iphone-s-windows
+slug: "propojit-iphone-s-windows"
 post_id: 145547855.propojit-iphone-s-windows
 title: "Notifications, iMessage, and calls from iPhone can now be received even on Windows 11"
 description: ""

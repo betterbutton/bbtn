@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-14 16:01:19 +02:00
-slug: platili-byste-za-vyhledavani
+slug: "platili-byste-za-vyhledavani"
 post_id: 148885175.platili-byste-za-vyhledavani
 title: "Would you pay for search? "
 description: ""

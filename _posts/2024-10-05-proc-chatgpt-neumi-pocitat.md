@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-05 06:01:03 +02:00
-slug: proc-chatgpt-neumi-pocitat
+slug: "proc-chatgpt-neumi-pocitat"
 post_id: 149751755.proc-chatgpt-neumi-pocitat
 title: "Why is ChatGPT bad at math? "
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-19 06:01:05 +02:00
-slug: html-pro-zacatecniky
+slug: "html-pro-zacatecniky"
 post_id: 150312912.html-pro-zacatecniky
 title: "HTML for beginners"
 description: ""

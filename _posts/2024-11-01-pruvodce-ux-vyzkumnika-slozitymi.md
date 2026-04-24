@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-01 11:02:13 +01:00
-slug: pruvodce-ux-vyzkumnika-slozitymi
+slug: "pruvodce-ux-vyzkumnika-slozitymi"
 post_id: 151007532.pruvodce-ux-vyzkumnika-slozitymi
 title: "UX Researcher's Guide to Complex Projects"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-29 09:01:16 +02:00
-slug: apek-cervnovy-boom-v-nakupu-on-line
+slug: "apek-cervnovy-boom-v-nakupu-on-line"
 post_id: 147037490.apek-cervnovy-boom-v-nakupu-on-line
 title: "APEK: June boom in online service purchases"
 description: ""

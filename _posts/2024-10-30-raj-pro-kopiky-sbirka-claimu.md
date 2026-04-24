@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-30 08:01:13 +01:00
-slug: raj-pro-kopiky-sbirka-claimu
+slug: "raj-pro-kopiky-sbirka-claimu"
 post_id: 150880933.raj-pro-kopiky-sbirka-claimu
 title: "Paradise for Headlines: Collection of Claims"
 description: ""

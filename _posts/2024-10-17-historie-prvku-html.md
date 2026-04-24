@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 06:00:58 +02:00
-slug: historie-prvku-html
+slug: "historie-prvku-html"
 post_id: 150252148.historie-prvku-html
 title: "The Historical Development of HTML Elements at a Glance"
 description: ""

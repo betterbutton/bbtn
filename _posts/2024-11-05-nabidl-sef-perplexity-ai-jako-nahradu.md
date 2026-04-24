@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-05 07:00:45 +01:00
-slug: nabidl-sef-perplexity-ai-jako-nahradu
+slug: "nabidl-sef-perplexity-ai-jako-nahradu"
 post_id: 151180558.nabidl-sef-perplexity-ai-jako-nahradu
 title: "Did Perplexity AI CEO offer to replace striking New York Times employees?"
 description: ""

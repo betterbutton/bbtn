@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-25 08:01:21 +02:00
-slug: pujde-seznam-na-prazskou-burzu
+slug: "pujde-seznam-na-prazskou-burzu"
 post_id: 148087488.pujde-seznam-na-prazskou-burzu
 title: "Will Seznam Go to the Prague Stock Exchange?"
 description: ""

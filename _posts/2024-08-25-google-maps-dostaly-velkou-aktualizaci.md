@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-25 09:01:44 +02:00
-slug: google-maps-dostaly-velkou-aktualizaci
+slug: "google-maps-dostaly-velkou-aktualizaci"
 post_id: 148088179.google-maps-dostaly-velkou-aktualizaci
 title: "Google Maps has received a major update"
 description: ""

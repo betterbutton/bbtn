@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-24 10:01:23 +02:00
-slug: roi-kampani-za-hranicemi-cisel
+slug: "roi-kampani-za-hranicemi-cisel"
 post_id: 150621327.roi-kampani-za-hranicemi-cisel
 title: "ROI: Measure campaign success beyond the numbers"
 description: ""

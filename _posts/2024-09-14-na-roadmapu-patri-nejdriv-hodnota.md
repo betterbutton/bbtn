@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-14 00:26:13 +02:00
-slug: na-roadmapu-patri-nejdriv-hodnota
+slug: "na-roadmapu-patri-nejdriv-hodnota"
 post_id: 148870377.na-roadmapu-patri-nejdriv-hodnota
 title: "Value before features on the roadmap"
 description: ""

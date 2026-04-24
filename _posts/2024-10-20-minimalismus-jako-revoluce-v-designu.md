@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-20 09:00:43 +02:00
-slug: minimalismus-jako-revoluce-v-designu
+slug: "minimalismus-jako-revoluce-v-designu"
 post_id: 150313430.minimalismus-jako-revoluce-v-designu
 title: "Minimalism as a Revolution in Design"
 description: ""

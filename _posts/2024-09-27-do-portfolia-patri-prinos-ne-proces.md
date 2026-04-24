@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-27 06:01:13 +02:00
-slug: do-portfolia-patri-prinos-ne-proces
+slug: "do-portfolia-patri-prinos-ne-proces"
 post_id: 149457082.do-portfolia-patri-prinos-ne-proces
 title: "It's the Value That Belongs in a Portfolio, Not the Process"
 description: ""

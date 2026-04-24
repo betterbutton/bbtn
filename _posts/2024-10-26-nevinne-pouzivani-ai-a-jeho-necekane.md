@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-26 11:01:54 +02:00
-slug: nevinne-pouzivani-ai-a-jeho-necekane
+slug: "nevinne-pouzivani-ai-a-jeho-necekane"
 post_id: 150658324.nevinne-pouzivani-ai-a-jeho-necekane
 title: "Innocent Use of AI and Its Unexpected Consequences"
 description: ""

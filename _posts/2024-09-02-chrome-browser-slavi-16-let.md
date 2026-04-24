@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-02 07:00:00 +02:00
-slug: chrome-browser-slavi-16-let
+slug: "chrome-browser-slavi-16-let"
 post_id: 148216833.chrome-browser-slavi-16-let
 title: "Chrome browser turns 16"
 description: ""

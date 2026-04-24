@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-01 06:00:49 +02:00
-slug: statistika-do-kvalitativniho-vyzkumu-nepatri
+slug: "statistika-do-kvalitativniho-vyzkumu-nepatri"
 post_id: 149599297.statistika-do-kvalitativniho-vyzkumu-nepatri
 title: "Statistical Significance Does Not Belong in Qualitative Research"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-11 21:25:48 +02:00
-slug: kyberskola
+slug: "kyberskola"
 post_id: 145548117.kyberskola
 title: "The CyberSchool project offers schools packages for teaching cybersecurity."
 description: ""

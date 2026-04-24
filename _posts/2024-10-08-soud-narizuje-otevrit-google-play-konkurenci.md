@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-08 10:01:26 +02:00
-slug: soud-narizuje-otevrit-google-play-konkurenci
+slug: "soud-narizuje-otevrit-google-play-konkurenci"
 post_id: 149942080.soud-narizuje-otevrit-google-play-konkurenci
 title: "American court orders Google to open Play Store to competition"
 description: ""

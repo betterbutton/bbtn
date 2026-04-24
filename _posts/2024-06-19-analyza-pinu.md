@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-19 12:07:03 +02:00
-slug: analyza-pinu
+slug: "analyza-pinu"
 post_id: 145787719.analyza-pinu
 title: "You can guess 10% of PINs on the first try"
 description: ""

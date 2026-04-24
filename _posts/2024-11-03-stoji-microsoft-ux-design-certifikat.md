@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-03 07:01:18 +01:00
-slug: stoji-microsoft-ux-design-certifikat
+slug: "stoji-microsoft-ux-design-certifikat"
 post_id: 151076835.stoji-microsoft-ux-design-certifikat
 title: "Is the Microsoft UX Design Certificate Worth It?"
 description: ""

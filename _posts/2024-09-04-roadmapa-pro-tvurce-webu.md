@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-04 07:01:14 +02:00
-slug: roadmapa-pro-tvurce-webu
+slug: "roadmapa-pro-tvurce-webu"
 post_id: 148374091.roadmapa-pro-tvurce-webu
 title: "Roadmap for Web Creators"
 description: ""

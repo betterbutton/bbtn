@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-21 11:00:34 +02:00
-slug: reknete-problem-ne-reseni
+slug: "reknete-problem-ne-reseni"
 post_id: 147955746.reknete-problem-ne-reseni
 title: "Tell me what problem you're solving, not what solution you need"
 description: ""

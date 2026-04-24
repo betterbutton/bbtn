@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-01 10:01:40 +01:00
-slug: slerka-internet-jak-jsme-ho-znali-skoncil
+slug: "slerka-internet-jak-jsme-ho-znali-skoncil"
 post_id: 151007149.slerka-internet-jak-jsme-ho-znali-skoncil
 title: "Šlerka: Internet is entering a new era with AI dominance"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-02 09:01:10 +02:00
-slug: dokumentace-designovych-rozhodnuti
+slug: "dokumentace-designovych-rozhodnuti"
 post_id: 147034763.dokumentace-designovych-rozhodnuti
 title: "Documentation of design decisions"
 description: ""

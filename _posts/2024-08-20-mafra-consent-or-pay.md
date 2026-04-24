@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-20 13:35:08 +02:00
-slug: mafra-consent-or-pay
+slug: "mafra-consent-or-pay"
 post_id: 147918654.mafra-consent-or-pay
 title: "Mafra is preparing 'consent or pay'"
 description: ""

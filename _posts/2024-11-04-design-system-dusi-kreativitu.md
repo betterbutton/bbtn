@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-04 11:02:05 +01:00
-slug: design-system-dusi-kreativitu
+slug: "design-system-dusi-kreativitu"
 post_id: 151082252.design-system-dusi-kreativitu
 title: "Design system stifles creativity"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-18 06:01:17 +02:00
-slug: ux-research-benchmark-2024
+slug: "ux-research-benchmark-2024"
 post_id: 148998100.ux-research-benchmark-2024
 title: "UX Research Maturity Benchmark 2024"
 description: ""

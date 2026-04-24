@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-23 07:00:57 +02:00
-slug: dipsy-ma-kladnou-roi
+slug: "dipsy-ma-kladnou-roi"
 post_id: 148016642.dipsy-ma-kladnou-roi
 title: "eGov: DiPSy now has a positive ROI"
 description: ""

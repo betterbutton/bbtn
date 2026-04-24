@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-14 08:02:17 +02:00
-slug: eu-chat-control
+slug: "eu-chat-control"
 post_id: 150170076.eu-chat-control
 title: "EU Chat Control: Protecting Children vs. User Privacy"
 description: ""

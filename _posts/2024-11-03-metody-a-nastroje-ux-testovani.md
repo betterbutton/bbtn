@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-03 09:01:21 +01:00
-slug: metody-a-nastroje-ux-testovani
+slug: "metody-a-nastroje-ux-testovani"
 post_id: 151077001.metody-a-nastroje-ux-testovani
 title: "Methods and Tools of UX Testing"
 description: ""

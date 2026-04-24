@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-25 09:01:21 +02:00
-slug: ux-office-hours-klic-ke-zlepseni
+slug: "ux-office-hours-klic-ke-zlepseni"
 post_id: 150511684.ux-office-hours-klic-ke-zlepseni
 title: "UX Office Hours: A Key to Improving Design Influence in Large Teams"
 description: ""

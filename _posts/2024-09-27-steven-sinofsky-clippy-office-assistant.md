@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-27 09:30:03 +02:00
-slug: steven-sinofsky-clippy-office-assistant
+slug: "steven-sinofsky-clippy-office-assistant"
 post_id: 149480187.steven-sinofsky-clippy-office-assistant
 title: "Steven Sinofsky: How Mr. Clippy paved the way for today's AI"
 description: ""

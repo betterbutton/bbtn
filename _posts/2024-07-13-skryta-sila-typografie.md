@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-13 08:01:40 +02:00
-slug: skryta-sila-typografie
+slug: "skryta-sila-typografie"
 post_id: 146559718.skryta-sila-typografie
 title: "The Hidden Power of Typography"
 description: ""

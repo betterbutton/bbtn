@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-02 22:17:35 +02:00
-slug: figma-vypnula-ai
+slug: "figma-vypnula-ai"
 post_id: 146218472.figma-vypnula-ai
 title: "Figma disabled the AI feature Make Design"
 description: ""

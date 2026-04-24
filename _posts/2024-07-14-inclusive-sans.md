@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-14 08:01:00 +02:00
-slug: inclusive-sans
+slug: "inclusive-sans"
 post_id: 146560048.inclusive-sans
 title: "Inclusive Sans – what makes a font accessible"
 description: ""

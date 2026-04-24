@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-13 17:51:00 +02:00
-slug: holas-postavi-se-seo-jeste-na-nohy
+slug: "holas-postavi-se-seo-jeste-na-nohy"
 post_id: 150177160.holas-postavi-se-seo-jeste-na-nohy
 title: "Holas: Will SEO Get Back on Its Feet, or Is It the End?"
 description: ""

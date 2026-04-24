@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-20 07:01:46 +02:00
-slug: jak-funguje-infrastruktura-ai-vyhledavani
+slug: "jak-funguje-infrastruktura-ai-vyhledavani"
 post_id: 150306344.jak-funguje-infrastruktura-ai-vyhledavani
 title: "How the AI search infrastructure works in Figma"
 description: ""

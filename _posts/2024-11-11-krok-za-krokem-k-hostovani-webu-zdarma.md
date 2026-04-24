@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-11 12:48:47 +01:00
-slug: krok-za-krokem-k-hostovani-webu-zdarma
+slug: "krok-za-krokem-k-hostovani-webu-zdarma"
 post_id: 151496718.krok-za-krokem-k-hostovani-webu-zdarma
 title: "Step by Step to Free Web Hosting on GitHub"
 description: ""

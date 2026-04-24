@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-19 06:01:11 +02:00
-slug: obrazkove-fonty-gentype
+slug: "obrazkove-fonty-gentype"
 post_id: 149080974.obrazkove-fonty-gentype
 title: "Custom Picture Fonts"
 description: ""

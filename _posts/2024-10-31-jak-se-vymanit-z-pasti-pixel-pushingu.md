@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-31 08:01:33 +01:00
-slug: jak-se-vymanit-z-pasti-pixel-pushingu
+slug: "jak-se-vymanit-z-pasti-pixel-pushingu"
 post_id: 150892087.jak-se-vymanit-z-pasti-pixel-pushingu
 title: "How to escape the pixel trap and increase your authority"
 description: ""

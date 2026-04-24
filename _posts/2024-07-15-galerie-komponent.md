@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-15 09:00:57 +02:00
-slug: galerie-komponent
+slug: "galerie-komponent"
 post_id: 146598472.galerie-komponent
 title: "Component gallery with examples from hundreds of design systems"
 description: ""

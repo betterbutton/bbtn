@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-14 11:10:59 +01:00
-slug: zvyrazneny-obrys-prvku-pri-zamereni
+slug: "zvyrazneny-obrys-prvku-pri-zamereni"
 post_id: 151641583.zvyrazneny-obrys-prvku-pri-zamereni
 title: "Highlighted Focus Outline Improves Navigation Usability"
 description: ""

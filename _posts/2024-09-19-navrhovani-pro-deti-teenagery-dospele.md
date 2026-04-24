@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-19 08:01:21 +02:00
-slug: navrhovani-pro-deti-teenagery-dospele
+slug: "navrhovani-pro-deti-teenagery-dospele"
 post_id: 149082078.navrhovani-pro-deti-teenagery-dospele
 title: "Designing for children, teenagers, adults, and seniors"
 description: ""

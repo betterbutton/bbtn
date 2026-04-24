@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-17 10:18:09 +02:00
-slug: amazon-rusi-praci-z-domova
+slug: "amazon-rusi-praci-z-domova"
 post_id: 148996235.amazon-rusi-praci-z-domova
 title: "Amazon mandates return to office"
 description: ""

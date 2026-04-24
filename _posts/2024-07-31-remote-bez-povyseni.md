@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-31 09:00:42 +02:00
-slug: remote-bez-povyseni
+slug: "remote-bez-povyseni"
 post_id: 147028743.remote-bez-povyseni
 title: "Working remotely? You won't get promoted."
 description: ""

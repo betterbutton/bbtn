@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-23 06:01:23 +02:00
-slug: bluesky-roste-uzivatele-prchaji-z-twitteru
+slug: "bluesky-roste-uzivatele-prchaji-z-twitteru"
 post_id: 150508512.bluesky-roste-uzivatele-prchaji-z-twitteru
 title: "Bluesky is Soaring: Users Flee X After Controversial Changes"
 description: ""

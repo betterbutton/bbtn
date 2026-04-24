@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-17 19:01:19 +02:00
-slug: departure-mono-lo-fi-pixelovy-font
+slug: "departure-mono-lo-fi-pixelovy-font"
 post_id: 149000219.departure-mono-lo-fi-pixelovy-font
 title: "Departure Mono: Lo-Fi pixel font"
 description: ""

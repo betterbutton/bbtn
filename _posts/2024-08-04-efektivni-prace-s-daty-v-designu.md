@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-04 07:00:24 +02:00
-slug: efektivni-prace-s-daty-v-designu
+slug: "efektivni-prace-s-daty-v-designu"
 post_id: 147015596.efektivni-prace-s-daty-v-designu
 title: "Effective Data Work in Design"
 description: ""

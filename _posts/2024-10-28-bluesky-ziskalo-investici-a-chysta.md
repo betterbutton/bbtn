@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-28 07:01:45 +01:00
-slug: bluesky-ziskalo-investici-a-chysta
+slug: "bluesky-ziskalo-investici-a-chysta"
 post_id: 150705418.bluesky-ziskalo-investici-a-chysta
 title: "Bluesky secures investment and plans subscription rollout"
 description: ""

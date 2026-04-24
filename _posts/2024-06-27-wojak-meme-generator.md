@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-27 14:02:55 +02:00
-slug: wojak-meme-generator
+slug: "wojak-meme-generator"
 post_id: 146040263.wojak-meme-generator
 title: "AI generates image memes"
 description: ""

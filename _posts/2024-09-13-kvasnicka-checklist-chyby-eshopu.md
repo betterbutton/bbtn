@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-13 23:42:43 +02:00
-slug: kvasnicka-checklist-chyby-eshopu
+slug: "kvasnicka-checklist-chyby-eshopu"
 post_id: 148869215.kvasnicka-checklist-chyby-eshopu
 title: "Kvasnička: Most Common Mistakes of Czechoslovak E-Shops"
 description: ""

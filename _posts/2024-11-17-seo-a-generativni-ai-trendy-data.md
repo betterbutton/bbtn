@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-17 06:00:54 +01:00
-slug: seo-a-generativni-ai-trendy-data
+slug: "seo-a-generativni-ai-trendy-data"
 post_id: 151719356.seo-a-generativni-ai-trendy-data
 title: "SEO and Generative AI: Trends, Data, and Strategies Through the Eyes of Pavel Ungr"
 description: ""

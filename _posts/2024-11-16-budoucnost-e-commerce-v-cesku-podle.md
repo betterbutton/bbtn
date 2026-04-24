@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-16 10:00:16 +01:00
-slug: budoucnost-e-commerce-v-cesku-podle
+slug: "budoucnost-e-commerce-v-cesku-podle"
 post_id: 151718954.budoucnost-e-commerce-v-cesku-podle
 title: "The Future of E-commerce in the Czech Republic According to Honza Kvasnička"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-22 08:01:31 +02:00
-slug: zapojeni-introvertu-na-workshopech
+slug: "zapojeni-introvertu-na-workshopech"
 post_id: 150265561.zapojeni-introvertu-na-workshopech
 title: "Engaging Introverts in Workshops"
 description: ""

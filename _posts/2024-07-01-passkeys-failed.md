@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-01 10:58:05 +02:00
-slug: passkeys-failed
+slug: "passkeys-failed"
 post_id: 146157938.passkeys-failed
 title: "Passkeys – Promising Technology or Missed Opportunity?"
 description: ""

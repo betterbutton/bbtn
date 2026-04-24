@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-24 11:01:25 +02:00
-slug: nova-vizualni-identita-mozilla-navrat
+slug: "nova-vizualni-identita-mozilla-navrat"
 post_id: 150625978.nova-vizualni-identita-mozilla-navrat
 title: "Mozilla's New Visual Identity: A Return to Early Internet Aesthetics"
 description: ""

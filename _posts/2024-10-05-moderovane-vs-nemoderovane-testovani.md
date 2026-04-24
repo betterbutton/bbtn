@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-05 08:00:49 +02:00
-slug: moderovane-vs-nemoderovane-testovani
+slug: "moderovane-vs-nemoderovane-testovani"
 post_id: 149752527.moderovane-vs-nemoderovane-testovani
 title: "Moderated vs. Unmoderated Testing: When to Use Which?"
 description: ""

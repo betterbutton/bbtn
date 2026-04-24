@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-02 09:01:15 +01:00
-slug: soutez-na-jednotny-vizualni-styl-ceska
+slug: "soutez-na-jednotny-vizualni-styl-ceska"
 post_id: 151050347.soutez-na-jednotny-vizualni-styl-ceska
 title: "The government has announced a competition for a unified visual style for the state administration"
 description: ""

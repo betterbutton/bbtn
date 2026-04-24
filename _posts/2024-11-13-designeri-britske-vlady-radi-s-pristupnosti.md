@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-13 09:01:54 +01:00
-slug: designeri-britske-vlady-radi-s-pristupnosti
+slug: "designeri-britske-vlady-radi-s-pristupnosti"
 post_id: 151563096.designeri-britske-vlady-radi-s-pristupnosti
 title: "Designers from the UK Government's design community advise on content accessibility"
 description: ""

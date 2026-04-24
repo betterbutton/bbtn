@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-03 11:01:14 +01:00
-slug: muze-empatie-promenit-vas-kazdodenni
+slug: "muze-empatie-promenit-vas-kazdodenni"
 post_id: 151079051.muze-empatie-promenit-vas-kazdodenni
 title: "Can empathy transform your daily life?"
 description: ""

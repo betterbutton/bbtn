@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-16 09:00:59 +02:00
-slug: ifdeal-crowdfunding
+slug: "ifdeal-crowdfunding"
 post_id: 150251539.ifdeal-crowdfunding
 title: "If…deal – new Czech crowdfunding"
 description: ""

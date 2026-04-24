@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-21 14:45:22 +02:00
-slug: google-vypina-adblock
+slug: "google-vypina-adblock"
 post_id: 150513313.google-vypina-adblock
 title: "Google disables adblock"
 description: ""

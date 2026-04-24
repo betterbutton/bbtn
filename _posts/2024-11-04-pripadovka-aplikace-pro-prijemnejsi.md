@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-04 06:01:20 +01:00
-slug: pripadovka-aplikace-pro-prijemnejsi
+slug: "pripadovka-aplikace-pro-prijemnejsi"
 post_id: 151080514.pripadovka-aplikace-pro-prijemnejsi
 title: "Case Study: Application for a More Pleasant Library Visit"
 description: ""

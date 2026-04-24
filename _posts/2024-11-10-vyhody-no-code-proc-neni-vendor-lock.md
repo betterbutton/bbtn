@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-10 10:44:33 +01:00
-slug: vyhody-no-code-proc-neni-vendor-lock
+slug: "vyhody-no-code-proc-neni-vendor-lock"
 post_id: 151448809.vyhody-no-code-proc-neni-vendor-lock
 title: "Advantages of no-code: Why vendor lock-in isn't a threat"
 description: ""

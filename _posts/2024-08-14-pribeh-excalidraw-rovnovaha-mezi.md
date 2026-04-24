@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-14 09:01:50 +02:00
-slug: pribeh-excalidraw-rovnovaha-mezi
+slug: "pribeh-excalidraw-rovnovaha-mezi"
 post_id: 147685904.pribeh-excalidraw-rovnovaha-mezi
 title: "The Story of Excalidraw: Balance Between Simplicity and User Value"
 description: ""

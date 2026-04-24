@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-16 10:56:19 +02:00
-slug: antimonopolni-razie-v-seznamu
+slug: "antimonopolni-razie-v-seznamu"
 post_id: 150296560.antimonopolni-razie-v-seznamu
 title: "Antitrust Authority Raids Seznam"
 description: ""

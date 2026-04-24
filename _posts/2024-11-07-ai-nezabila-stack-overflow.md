@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-07 11:01:10 +01:00
-slug: ai-nezabila-stack-overflow
+slug: "ai-nezabila-stack-overflow"
 post_id: 151300920.ai-nezabila-stack-overflow
 title: "AI Didn't Kill Stack Overflow"
 description: ""

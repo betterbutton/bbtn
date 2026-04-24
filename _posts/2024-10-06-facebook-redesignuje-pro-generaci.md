@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-06 12:18:47 +02:00
-slug: facebook-redesignuje-pro-generaci
+slug: "facebook-redesignuje-pro-generaci"
 post_id: 149871044.facebook-redesignuje-pro-generaci
 title: "Facebook redesigns for Generation Z"
 description: ""

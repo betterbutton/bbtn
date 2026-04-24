@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-07 10:00:35 +02:00
-slug: kaliforsky-zakon-vyzaduje-uvest-zdroje-ai
+slug: "kaliforsky-zakon-vyzaduje-uvest-zdroje-ai"
 post_id: 149907620.kaliforsky-zakon-vyzaduje-uvest-zdroje-ai
 title: "AI companies are quietly ignoring the new California legislation"
 description: ""

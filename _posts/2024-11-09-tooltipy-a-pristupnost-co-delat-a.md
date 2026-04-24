@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-09 10:00:32 +01:00
-slug: tooltipy-a-pristupnost-co-delat-a
+slug: "tooltipy-a-pristupnost-co-delat-a"
 post_id: 151394701.tooltipy-a-pristupnost-co-delat-a
 title: "Tooltips and Accessibility: What to Do and What to Avoid"
 description: ""

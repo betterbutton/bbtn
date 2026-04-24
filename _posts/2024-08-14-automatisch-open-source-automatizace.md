@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-14 10:01:02 +02:00
-slug: automatisch-open-source-automatizace
+slug: "automatisch-open-source-automatizace"
 post_id: 147687012.automatisch-open-source-automatizace
 title: "Open source alternative for automation"
 description: ""

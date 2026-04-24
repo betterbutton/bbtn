@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-26 09:01:55 +02:00
-slug: telegram-da-uradum-data-uzivatelu
+slug: "telegram-da-uradum-data-uzivatelu"
 post_id: 149420459.telegram-da-uradum-data-uzivatelu
 title: "End of anonymity: Telegram will share data with authorities"
 description: ""

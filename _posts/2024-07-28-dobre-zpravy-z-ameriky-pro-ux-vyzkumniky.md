@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-28 08:00:51 +02:00
-slug: dobre-zpravy-z-ameriky-pro-ux-vyzkumniky
+slug: "dobre-zpravy-z-ameriky-pro-ux-vyzkumniky"
 post_id: 147029169.dobre-zpravy-z-ameriky-pro-ux-vyzkumniky
 title: "Good news from America for UX researchers"
 description: ""

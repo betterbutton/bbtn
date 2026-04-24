@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-11 12:01:06 +02:00
-slug: dolejsova-ochrana-spotrebitele
+slug: "dolejsova-ochrana-spotrebitele"
 post_id: 146500159.dolejsova-ochrana-spotrebitele
 title: "Petra Dolejšová: Reviews, Discounts, Button Text and Guarantees vs. Consumer Protection"
 description: ""

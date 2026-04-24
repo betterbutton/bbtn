@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-21 09:01:46 +02:00
-slug: dark-patterns-vs-eticke-ux
+slug: "dark-patterns-vs-eticke-ux"
 post_id: 150315364.dark-patterns-vs-eticke-ux
 title: "Dark patterns vs. ethical UX"
 description: ""

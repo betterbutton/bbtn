@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-01 09:00:55 +02:00
-slug: yelp-podal-antimonopolni-zalobu-proti
+slug: "yelp-podal-antimonopolni-zalobu-proti"
 post_id: 148349781.yelp-podal-antimonopolni-zalobu-proti
 title: "Yelp filed an antitrust lawsuit against Google"
 description: ""

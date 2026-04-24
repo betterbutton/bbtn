@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-07 06:00:58 +01:00
-slug: substack-motivuje-k-instalaci-aplikace
+slug: "substack-motivuje-k-instalaci-aplikace"
 post_id: 151298845.substack-motivuje-k-instalaci-aplikace
 title: "Substack incentivizes app installation with free subscription"
 description: ""

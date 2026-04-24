@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-31 06:00:51 +01:00
-slug: navrhovani-pristupnych-webu-pro-uzivatele
+slug: "navrhovani-pristupnych-webu-pro-uzivatele"
 post_id: 150885813.navrhovani-pristupnych-webu-pro-uzivatele
 title: "Designing Accessible Websites for Users with Cognitive Limitations"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 08:41:52 +02:00
-slug: twitter-nespada-pod-dma
+slug: "twitter-nespada-pod-dma"
 post_id: 150342945.twitter-nespada-pod-dma
 title: "Twitter's users have dwindled: It no longer falls under DMA regulation"
 description: ""

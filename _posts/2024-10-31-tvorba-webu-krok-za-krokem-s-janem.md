@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-31 10:01:33 +01:00
-slug: tvorba-webu-krok-za-krokem-s-janem
+slug: "tvorba-webu-krok-za-krokem-s-janem"
 post_id: 150893057.tvorba-webu-krok-za-krokem-s-janem
 title: "Website Creation Step by Step with Jan Štráfelda"
 description: ""

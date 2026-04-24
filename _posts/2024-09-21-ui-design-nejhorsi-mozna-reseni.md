@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-21 12:18:18 +02:00
-slug: ui-design-nejhorsi-mozna-reseni
+slug: "ui-design-nejhorsi-mozna-reseni"
 post_id: 149198304.ui-design-nejhorsi-mozna-reseni
 title: "UI Design: The Worst Possible Solution"
 description: ""

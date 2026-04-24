@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-26 06:00:27 +02:00
-slug: vyber-knih-o-ux-designu
+slug: "vyber-knih-o-ux-designu"
 post_id: 149419447.vyber-knih-o-ux-designu
 title: "Selection of books on UX design, research, and accessibility by Stéphanie Walter"
 description: ""

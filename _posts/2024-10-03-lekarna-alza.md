@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-03 19:32:26 +02:00
-slug: lekarna-alza
+slug: "lekarna-alza"
 post_id: 149770542.lekarna-alza
 title: "Alza began selling over-the-counter drugs"
 description: ""

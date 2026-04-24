@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-03 11:27:10 +02:00
-slug: jak-vznikalo-rozhrani-figma-ui3
+slug: "jak-vznikalo-rozhrani-figma-ui3"
 post_id: 149747864.jak-vznikalo-rozhrani-figma-ui3
 title: "How the New UI3 Interface for Figma Was Created"
 description: ""

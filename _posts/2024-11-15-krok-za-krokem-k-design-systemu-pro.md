@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-15 08:00:00 +01:00
-slug: krok-za-krokem-k-design-systemu-pro
+slug: "krok-za-krokem-k-design-systemu-pro"
 post_id: 151674588.krok-za-krokem-k-design-systemu-pro
 title: "Step by Step to a Multi-Brand Design System"
 description: ""

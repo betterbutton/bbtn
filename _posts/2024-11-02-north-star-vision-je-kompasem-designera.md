@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-02 07:01:05 +01:00
-slug: north-star-vision-je-kompasem-designera
+slug: "north-star-vision-je-kompasem-designera"
 post_id: 151007840.north-star-vision-je-kompasem-designera
 title: "North Star Vision is a designer's compass"
 description: ""

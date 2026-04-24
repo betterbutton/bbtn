@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-07 08:33:00 +02:00
-slug: navrhovani-pro-nevyrcene-touhy
+slug: "navrhovani-pro-nevyrcene-touhy"
 post_id: 149906321.navrhovani-pro-nevyrcene-touhy
 title: "Designing for Unspoken Desires"
 description: ""

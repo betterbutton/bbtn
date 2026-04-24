@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-13 13:42:30 +02:00
-slug: identita-vystava-ceskeho-grafickeho-designu
+slug: "identita-vystava-ceskeho-grafickeho-designu"
 post_id: 150170077.identita-vystava-ceskeho-grafickeho-designu
 title: "Project Identity: Exhibition of Czech Graphic Design"
 description: ""

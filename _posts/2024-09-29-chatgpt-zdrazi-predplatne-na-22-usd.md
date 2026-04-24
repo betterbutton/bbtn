@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-29 19:49:15 +02:00
-slug: chatgpt-zdrazi-predplatne-na-22-usd
+slug: "chatgpt-zdrazi-predplatne-na-22-usd"
 post_id: 149569389.chatgpt-zdrazi-predplatne-na-22-usd
 title: "TechCrunch: ChatGPT Plus to raise prices to cover losses"
 description: ""

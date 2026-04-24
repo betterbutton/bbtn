@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-03 08:00:59 +02:00
-slug: metriky-pro-design-system
+slug: "metriky-pro-design-system"
 post_id: 147009497.metriky-pro-design-system
 title: "Metrics for Design System"
 description: ""

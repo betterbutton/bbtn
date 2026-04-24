@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-24 09:00:16 +02:00
-slug: urady-varuji-pred-predatorskymi-e
+slug: "urady-varuji-pred-predatorskymi-e"
 post_id: 148017254.urady-varuji-pred-predatorskymi-e
 title: "Authorities warn against predatory e-shops"
 description: ""

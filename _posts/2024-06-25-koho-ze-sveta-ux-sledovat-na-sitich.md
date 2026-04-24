@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-25 18:14:28 +02:00
-slug: koho-ze-sveta-ux-sledovat-na-sitich
+slug: "koho-ze-sveta-ux-sledovat-na-sitich"
 post_id: 145986055.koho-ze-sveta-ux-sledovat-na-sitich
 title: "Who to Follow in the UX World on Social Networks"
 description: ""

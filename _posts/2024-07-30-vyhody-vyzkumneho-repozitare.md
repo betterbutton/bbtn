@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-30 08:01:08 +02:00
-slug: vyhody-vyzkumneho-repozitare
+slug: "vyhody-vyzkumneho-repozitare"
 post_id: 146986439.vyhody-vyzkumneho-repozitare
 title: "Benefits of Using a Research Repository"
 description: ""

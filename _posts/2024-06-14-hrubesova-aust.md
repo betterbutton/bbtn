@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-14 22:52:25 +02:00
-slug: hrubesova-aust
+slug: "hrubesova-aust"
 post_id: 145653183.hrubesova-aust
 title: "Hrubešová: Getting paid podcasts from Forendors onto Spotify took a week. Communication took a year."
 description: ""

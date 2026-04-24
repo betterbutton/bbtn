@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-12 11:01:57 +01:00
-slug: rozdil-mezi-vyhledavanim-a-filtry
+slug: "rozdil-mezi-vyhledavanim-a-filtry"
 post_id: 151542867.rozdil-mezi-vyhledavanim-a-filtry
 title: "The difference between search and filters"
 description: ""

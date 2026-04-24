@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-23 13:08:58 +02:00
-slug: polzer-search-console-staci
+slug: "polzer-search-console-staci"
 post_id: 149286908.polzer-search-console-staci
 title: "Polzer: Search Console Data Is Enough For Me, I Don't Need Other SEO Tools"
 description: ""

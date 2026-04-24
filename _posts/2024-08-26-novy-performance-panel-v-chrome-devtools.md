@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-26 07:01:23 +02:00
-slug: novy-performance-panel-v-chrome-devtools
+slug: "novy-performance-panel-v-chrome-devtools"
 post_id: 148101640.novy-performance-panel-v-chrome-devtools
 title: "New Performance panel in Chrome DevTools"
 description: ""

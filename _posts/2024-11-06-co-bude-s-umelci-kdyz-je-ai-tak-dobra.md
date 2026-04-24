@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-06 18:11:53 +01:00
-slug: co-bude-s-umelci-kdyz-je-ai-tak-dobra
+slug: "co-bude-s-umelci-kdyz-je-ai-tak-dobra"
 post_id: 151281294.co-bude-s-umelci-kdyz-je-ai-tak-dobra
 title: "What will happen to artists when AI is so good?"
 description: ""

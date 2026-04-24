@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-30 09:01:08 +01:00
-slug: jak-se-stat-ux-vyzkumnikem-bez-diplomu
+slug: "jak-se-stat-ux-vyzkumnikem-bez-diplomu"
 post_id: 150883641.jak-se-stat-ux-vyzkumnikem-bez-diplomu
 title: "How to become a UX researcher without a degree"
 description: ""

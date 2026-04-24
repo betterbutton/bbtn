@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-25 11:01:31 +02:00
-slug: adobe-uvolnuje-aplikaci-pro-malovani
+slug: "adobe-uvolnuje-aplikaci-pro-malovani"
 post_id: 150699569.adobe-uvolnuje-aplikaci-pro-malovani
 title: "Adobe makes painting app Fresco free in battle against Procreate"
 description: ""

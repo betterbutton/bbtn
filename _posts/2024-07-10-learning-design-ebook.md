@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-10 00:52:05 +02:00
-slug: learning-design-ebook
+slug: "learning-design-ebook"
 post_id: 146450689.learning-design-ebook
 title: "New ebook on learning design in Czech"
 description: ""

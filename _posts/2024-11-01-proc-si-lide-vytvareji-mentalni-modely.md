@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-01 06:00:34 +01:00
-slug: proc-si-lide-vytvareji-mentalni-modely
+slug: "proc-si-lide-vytvareji-mentalni-modely"
 post_id: 150999884.proc-si-lide-vytvareji-mentalni-modely
 title: "Mental Models: Why People Develop Superstitions When Using Technology"
 description: ""

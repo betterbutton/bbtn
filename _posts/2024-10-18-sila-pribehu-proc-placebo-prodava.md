@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-18 07:01:12 +02:00
-slug: sila-pribehu-proc-placebo-prodava
+slug: "sila-pribehu-proc-placebo-prodava"
 post_id: 150348956.sila-pribehu-proc-placebo-prodava
 title: "The Power of Stories: Why Placebo Sells Better Than Reality"
 description: ""

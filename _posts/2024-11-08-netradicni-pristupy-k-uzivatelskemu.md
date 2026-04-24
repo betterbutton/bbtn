@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-08 09:01:43 +01:00
-slug: netradicni-pristupy-k-uzivatelskemu
+slug: "netradicni-pristupy-k-uzivatelskemu"
 post_id: 151302583.netradicni-pristupy-k-uzivatelskemu
 title: "Unconventional Approaches to User Research"
 description: ""

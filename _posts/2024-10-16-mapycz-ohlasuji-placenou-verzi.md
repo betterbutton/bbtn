@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-16 20:07:54 +02:00
-slug: mapycz-ohlasuji-placenou-verzi
+slug: "mapycz-ohlasuji-placenou-verzi"
 post_id: 150317743.mapycz-ohlasuji-placenou-verzi
 title: "Mapy.cz Announce Paid Version"
 description: ""

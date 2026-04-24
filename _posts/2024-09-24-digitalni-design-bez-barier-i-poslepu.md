@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-24 09:13:52 +02:00
-slug: digitalni-design-bez-barier-i-poslepu
+slug: "digitalni-design-bez-barier-i-poslepu"
 post_id: 149335853.digitalni-design-bez-barier-i-poslepu
 title: "Digital Design Without Barriers on Poslepu with Tereza Kosnarová Venerová"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-19 09:01:50 +02:00
-slug: super-mario-bros-uci-hrace-beze-slov
+slug: "super-mario-bros-uci-hrace-beze-slov"
 post_id: 150295317.super-mario-bros-uci-hrace-beze-slov
 title: "Super Mario Bros. Teaches Players Without Words"
 description: ""

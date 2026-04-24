@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-26 09:01:19 +02:00
-slug: relume-ai-wireframe
+slug: "relume-ai-wireframe"
 post_id: 148102917.relume-ai-wireframe
 title: "AI Relume Creates a Sitemap and Wireframe"
 description: ""

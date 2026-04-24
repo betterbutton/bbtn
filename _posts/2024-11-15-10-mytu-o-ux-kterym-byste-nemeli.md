@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-15 11:01:49 +01:00
-slug: 10-mytu-o-ux-kterym-byste-nemeli
+slug: "10-mytu-o-ux-kterym-byste-nemeli"
 post_id: 151675198.10-mytu-o-ux-kterym-byste-nemeli
 title: "10 UX Myths You Shouldn't Believe"
 description: ""

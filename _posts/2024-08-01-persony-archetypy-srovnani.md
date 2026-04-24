@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-01 09:00:54 +02:00
-slug: persony-archetypy-srovnani
+slug: "persony-archetypy-srovnani"
 post_id: 147029435.persony-archetypy-srovnani
 title: "Personas and Archetypes in Your Project"
 description: ""

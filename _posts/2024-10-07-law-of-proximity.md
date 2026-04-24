@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-07 09:44:46 +02:00
-slug: law-of-proximity
+slug: "law-of-proximity"
 post_id: 149907785.law-of-proximity
 title: "Improved User Experience with the Law of Proximity"
 description: ""

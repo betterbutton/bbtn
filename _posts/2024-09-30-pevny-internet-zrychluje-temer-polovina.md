@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-30 10:20:40 +02:00
-slug: pevny-internet-zrychluje-temer-polovina
+slug: "pevny-internet-zrychluje-temer-polovina"
 post_id: 149597615.pevny-internet-zrychluje-temer-polovina
 title: "Fixed internet is accelerating, nearly half have 100 Mbit/s"
 description: ""

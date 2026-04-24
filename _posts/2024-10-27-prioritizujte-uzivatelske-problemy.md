@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-27 11:02:28 +01:00
-slug: prioritizujte-uzivatelske-problemy
+slug: "prioritizujte-uzivatelske-problemy"
 post_id: 150626756.prioritizujte-uzivatelske-problemy
 title: "Prioritize user problems using a severity scale"
 description: ""

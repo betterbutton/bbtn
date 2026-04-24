@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-01 08:01:36 +01:00
-slug: apple-ztraci-dech-v-zavode-o-ai
+slug: "apple-ztraci-dech-v-zavode-o-ai"
 post_id: 151006270.apple-ztraci-dech-v-zavode-o-ai
 title: "Apple is falling behind in the AI innovation race"
 description: ""

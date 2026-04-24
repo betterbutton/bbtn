@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-25 10:00:54 +02:00
-slug: illustrator-ai-bez-promptu
+slug: "illustrator-ai-bez-promptu"
 post_id: 146963461.illustrator-ai-bez-promptu
 title: "Illustrator changes the game: AI generation without prompts"
 description: ""

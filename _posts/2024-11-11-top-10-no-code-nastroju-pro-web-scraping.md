@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-11 00:13:04 +01:00
-slug: top-10-no-code-nastroju-pro-web-scraping
+slug: "top-10-no-code-nastroju-pro-web-scraping"
 post_id: 151476227.top-10-no-code-nastroju-pro-web-scraping
 title: "Top 10 no-code tools for web scraping"
 description: ""

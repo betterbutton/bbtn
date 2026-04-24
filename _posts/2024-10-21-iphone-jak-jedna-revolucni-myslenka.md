@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-21 14:35:12 +02:00
-slug: iphone-jak-jedna-revolucni-myslenka
+slug: "iphone-jak-jedna-revolucni-myslenka"
 post_id: 150513174.iphone-jak-jedna-revolucni-myslenka
 title: "iPhone: How One Revolutionary Idea Reversed Steve Jobs' Decision"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-30 09:01:19 +02:00
-slug: doctorow-myspace-demokratizace-designu
+slug: "doctorow-myspace-demokratizace-designu"
 post_id: 147014677.doctorow-myspace-demokratizace-designu
 title: "Doctorow: Myspace Shaped Authentic Communities"
 description: ""

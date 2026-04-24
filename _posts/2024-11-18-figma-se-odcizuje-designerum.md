@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-18 11:01:59 +01:00
-slug: figma-se-odcizuje-designerum
+slug: "figma-se-odcizuje-designerum"
 post_id: 151796131.figma-se-odcizuje-designerum
 title: "Figma is Alienating Designers"
 description: ""

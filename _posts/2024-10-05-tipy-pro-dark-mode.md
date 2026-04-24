@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-05 07:00:03 +02:00
-slug: tipy-pro-dark-mode
+slug: "tipy-pro-dark-mode"
 post_id: 149752063.tipy-pro-dark-mode
 title: "Practical Tips for Dark Mode Design"
 description: ""

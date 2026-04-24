@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-13 06:01:20 +01:00
-slug: ux-vyzkum-pro-generativni-ai
+slug: "ux-vyzkum-pro-generativni-ai"
 post_id: 151544097.ux-vyzkum-pro-generativni-ai
 title: "UX Research for Generative AI"
 description: ""

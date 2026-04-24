@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-27 07:01:32 +02:00
-slug: jak-jsem-diky-ai-vytvoril-figma-plugin
+slug: "jak-jsem-diky-ai-vytvoril-figma-plugin"
 post_id: 149459580.jak-jsem-diky-ai-vytvoril-figma-plugin
 title: "István Jakab: How I Built a Figma Plugin in a Jiffy Thanks to AI"
 description: ""

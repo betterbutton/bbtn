@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-08 08:01:40 +02:00
-slug: 7-ux-designovych-principu
+slug: "7-ux-designovych-principu"
 post_id: 149940741.7-ux-designovych-principu
 title: "Seven Fundamental Design Principles"
 description: ""

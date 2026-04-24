@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-16 07:00:48 +02:00
-slug: fczbkk-o-vyvoji-javascriptu
+slug: "fczbkk-o-vyvoji-javascriptu"
 post_id: 150259938.fczbkk-o-vyvoji-javascriptu
 title: "On JavaScript Development with Riki Friedrich"
 description: ""

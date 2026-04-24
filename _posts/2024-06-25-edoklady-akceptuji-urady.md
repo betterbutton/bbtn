@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-25 17:52:09 +02:00
-slug: edoklady-akceptuji-urady
+slug: "edoklady-akceptuji-urady"
 post_id: 145977189.edoklady-akceptuji-urady
 title: "From July, eDocuments will be accepted by authorities, courts, and police."
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-29 06:01:12 +01:00
-slug: je-cas-venovat-se-detailum-a-cas
+slug: "je-cas-venovat-se-detailum-a-cas"
 post_id: 150852004.je-cas-venovat-se-detailum-a-cas
 title: "It's Time to Focus on Details and Time to Let Them Be"
 description: ""

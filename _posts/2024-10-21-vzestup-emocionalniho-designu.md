@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-21 07:00:51 +02:00
-slug: vzestup-emocionalniho-designu
+slug: "vzestup-emocionalniho-designu"
 post_id: 150314415.vzestup-emocionalniho-designu
 title: "The Rise of Emotional Design"
 description: ""

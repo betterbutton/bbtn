@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-07 09:01:19 +01:00
-slug: content-design-kde-se-potkava-ux
+slug: "content-design-kde-se-potkava-ux"
 post_id: 151300515.content-design-kde-se-potkava-ux
 title: "Content design: Where UX and Content Meet"
 description: ""

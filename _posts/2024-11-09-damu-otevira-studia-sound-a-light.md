@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-09 07:01:02 +01:00
-slug: damu-otevira-studia-sound-a-light
+slug: "damu-otevira-studia-sound-a-light"
 post_id: 151373112.damu-otevira-studia-sound-a-light
 title: "DAMU is launching sound and light design studios"
 description: ""

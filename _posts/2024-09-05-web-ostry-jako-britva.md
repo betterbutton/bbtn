@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-05 12:10:44 +02:00
-slug: web-ostry-jako-britva
+slug: "web-ostry-jako-britva"
 post_id: 148526683.web-ostry-jako-britva
 title: "Sharp Decade of Jan Řezáč"
 description: ""

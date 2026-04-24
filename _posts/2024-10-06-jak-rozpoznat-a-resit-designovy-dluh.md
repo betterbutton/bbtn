@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-06 12:03:47 +02:00
-slug: jak-rozpoznat-a-resit-designovy-dluh
+slug: "jak-rozpoznat-a-resit-designovy-dluh"
 post_id: 149870811.jak-rozpoznat-a-resit-designovy-dluh
 title: "How to Recognize and Solve Design Debt"
 description: ""

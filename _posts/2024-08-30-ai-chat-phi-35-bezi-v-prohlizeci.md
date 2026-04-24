@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-30 08:01:28 +02:00
-slug: ai-chat-phi-35-bezi-v-prohlizeci
+slug: "ai-chat-phi-35-bezi-v-prohlizeci"
 post_id: 148198673.ai-chat-phi-35-bezi-v-prohlizeci
 title: "AI model running directly in the browser?"
 description: ""

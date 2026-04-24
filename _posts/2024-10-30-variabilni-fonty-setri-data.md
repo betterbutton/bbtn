@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-30 10:01:28 +01:00
-slug: variabilni-fonty-setri-data
+slug: "variabilni-fonty-setri-data"
 post_id: 150885120.variabilni-fonty-setri-data
 title: "Do variable fonts save data compared to regular fonts?"
 description: ""

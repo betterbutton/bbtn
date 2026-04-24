@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-25 10:07:32 +02:00
-slug: pisma-starych-domovnich-ceduli
+slug: "pisma-starych-domovnich-ceduli"
 post_id: 149384711.pisma-starych-domovnich-ceduli
 title: "Fonts of Old House Number Plates"
 description: ""

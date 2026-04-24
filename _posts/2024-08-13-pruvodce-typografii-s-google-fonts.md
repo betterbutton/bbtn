@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-13 22:50:43 +02:00
-slug: pruvodce-typografii-s-google-fonts
+slug: "pruvodce-typografii-s-google-fonts"
 post_id: 147681490.pruvodce-typografii-s-google-fonts
 title: "Guide to Typography with Google Fonts"
 description: ""

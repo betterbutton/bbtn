@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-31 06:00:53 +02:00
-slug: 1-mb-dat-predstavuje-20-g-emisi-co
+slug: "1-mb-dat-predstavuje-20-g-emisi-co"
 post_id: 148160816.1-mb-dat-predstavuje-20-g-emisi-co
 title: "1 MB of data represents up to 20 g of CO₂ emissions"
 description: ""

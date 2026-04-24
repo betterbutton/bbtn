@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-15 13:39:08 +02:00
-slug: wired-elements
+slug: "wired-elements"
 post_id: 145655149.wired-elements
 title: "Wired Elements – a library of web components in the style of hand-drawn wireframes"
 description: ""

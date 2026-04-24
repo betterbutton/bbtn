@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-01 08:00:40 +02:00
-slug: ux-mikro-audity
+slug: "ux-mikro-audity"
 post_id: 146989708.ux-mikro-audity
 title: "UX micro-audits key to success of digital products"
 description: ""

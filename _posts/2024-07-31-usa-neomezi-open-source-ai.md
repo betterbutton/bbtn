@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-31 10:01:33 +02:00
-slug: usa-neomezi-open-source-ai
+slug: "usa-neomezi-open-source-ai"
 post_id: 147169991.usa-neomezi-open-source-ai
 title: "White House Does Not Plan to Limit Open-Source AI"
 description: ""

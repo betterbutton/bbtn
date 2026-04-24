@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-27 11:02:23 +01:00
-slug: 49-americkych-startupu-se-stalo-jednorozci
+slug: "49-americkych-startupu-se-stalo-jednorozci"
 post_id: 150705256.49-americkych-startupu-se-stalo-jednorozci
 title: "49 American startups became unicorns. Which ones do you know?"
 description: ""

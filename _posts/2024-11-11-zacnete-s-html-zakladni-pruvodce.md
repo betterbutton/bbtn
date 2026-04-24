@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-11 09:02:05 +01:00
-slug: zacnete-s-html-zakladni-pruvodce
+slug: "zacnete-s-html-zakladni-pruvodce"
 post_id: 151477017.zacnete-s-html-zakladni-pruvodce
 title: "Get Started with HTML: A Basic Guide for Beginners"
 description: ""

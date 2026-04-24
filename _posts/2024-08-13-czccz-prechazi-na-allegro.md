@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-13 23:19:24 +02:00
-slug: czccz-prechazi-na-allegro
+slug: "czccz-prechazi-na-allegro"
 post_id: 147682912.czccz-prechazi-na-allegro
 title: "CZC.cz is ending: e-shop moves to Allegro marketplace"
 description: ""

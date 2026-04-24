@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-19 08:01:31 +01:00
-slug: odkazujte-primo-na-text-na-webovych
+slug: "odkazujte-primo-na-text-na-webovych"
 post_id: 151848713.odkazujte-primo-na-text-na-webovych
 title: "Link directly to text on web pages"
 description: ""

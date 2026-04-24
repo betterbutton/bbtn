@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-03 14:17:41 +02:00
-slug: deaf-friendly
+slug: "deaf-friendly"
 post_id: 146237220.deaf-friendly
 title: "(updated) Sign language is another language version of the website"
 description: ""

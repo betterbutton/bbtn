@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-31 09:01:36 +01:00
-slug: vyvoj-herni-ui-a-vyber-databaze
+slug: "vyvoj-herni-ui-a-vyber-databaze"
 post_id: 150892746.vyvoj-herni-ui-a-vyber-databaze
 title: "Game UI Development and Database Selection"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-27 11:01:32 +02:00
-slug: one-million-checkboxes
+slug: "one-million-checkboxes"
 post_id: 146038236.one-million-checkboxes
 title: "A game for checkbox lovers. A million checkboxes!"
 description: ""

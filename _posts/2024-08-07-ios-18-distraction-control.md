@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-07 10:15:47 +02:00
-slug: ios-18-distraction-control
+slug: "ios-18-distraction-control"
 post_id: 147440217.ios-18-distraction-control
 title: "Safari in iOS 18 rids the web of annoying clutter"
 description: ""

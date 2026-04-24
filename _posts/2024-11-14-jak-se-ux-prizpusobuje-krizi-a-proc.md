@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-14 11:57:03 +01:00
-slug: jak-se-ux-prizpusobuje-krizi-a-proc
+slug: "jak-se-ux-prizpusobuje-krizi-a-proc"
 post_id: 151642738.jak-se-ux-prizpusobuje-krizi-a-proc
 title: "How UX Adapts to Crisis and Why You Need to Know More"
 description: ""

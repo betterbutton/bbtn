@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-09 16:47:34 +02:00
-slug: dobre-spatne-ux-netflix
+slug: "dobre-spatne-ux-netflix"
 post_id: 150012451.dobre-spatne-ux-netflix
 title: "What works and what spoils the experience in Netflix UX"
 description: ""

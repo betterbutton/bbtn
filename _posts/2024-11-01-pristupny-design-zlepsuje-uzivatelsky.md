@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-01 07:01:08 +01:00
-slug: pristupny-design-zlepsuje-uzivatelsky
+slug: "pristupny-design-zlepsuje-uzivatelsky"
 post_id: 151006003.pristupny-design-zlepsuje-uzivatelsky
 title: "Accessible Design Improves User Experience for Everyone"
 description: ""

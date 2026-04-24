@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-12 09:30:41 +01:00
-slug: responzivni-tabulky-v-figme-auto
+slug: "responzivni-tabulky-v-figme-auto"
 post_id: 151542190.responzivni-tabulky-v-figme-auto
 title: "Responsive tables in Figma with auto-layout"
 description: ""

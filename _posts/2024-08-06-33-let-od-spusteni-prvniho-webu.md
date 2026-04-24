@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-06 00:54:00 +02:00
-slug: 33-let-od-spusteni-prvniho-webu
+slug: "33-let-od-spusteni-prvniho-webu"
 post_id: 147467009.33-let-od-spusteni-prvniho-webu
 title: "33 Years Since Launching the First Website"
 description: ""

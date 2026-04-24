@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-05 08:01:18 +01:00
-slug: porovnani-chatgpt-search-a-google
+slug: "porovnani-chatgpt-search-a-google"
 post_id: 151184542.porovnani-chatgpt-search-a-google
 title: "Comparison of ChatGPT Search and Google"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-14 12:05:33 +02:00
-slug: deck-of-brilliance-52-zpusobu-pro
+slug: "deck-of-brilliance-52-zpusobu-pro"
 post_id: 148882510.deck-of-brilliance-52-zpusobu-pro
 title: "Deck of Brilliance: 52 Ways to Generate Ideas"
 description: ""

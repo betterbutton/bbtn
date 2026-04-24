@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-12 11:06:34 +02:00
-slug: animovany-favicon
+slug: "animovany-favicon"
 post_id: 148799533.animovany-favicon
 title: "Animated Favicon"
 description: ""

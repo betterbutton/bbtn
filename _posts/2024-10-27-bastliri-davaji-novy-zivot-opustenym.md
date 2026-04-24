@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-27 07:01:04 +01:00
-slug: bastliri-davaji-novy-zivot-opustenym
+slug: "bastliri-davaji-novy-zivot-opustenym"
 post_id: 150521842.bastliri-davaji-novy-zivot-opustenym
 title: "Tinkerers Give New Life to Abandoned Vending Machines"
 description: ""

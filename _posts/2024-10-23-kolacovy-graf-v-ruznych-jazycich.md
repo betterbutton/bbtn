@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-23 07:01:30 +02:00
-slug: kolacovy-graf-v-ruznych-jazycich
+slug: "kolacovy-graf-v-ruznych-jazycich"
 post_id: 150508086.kolacovy-graf-v-ruznych-jazycich
 title: "What do you call a pie chart?"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-16 06:01:13 +01:00
-slug: marek-prokop-radi-co-delat-kdyz-nejakou
+slug: "marek-prokop-radi-co-delat-kdyz-nejakou"
 post_id: 151717027.marek-prokop-radi-co-delat-kdyz-nejakou
 title: "Marek Prokop advises what to do when you don't need a page in search results"
 description: ""

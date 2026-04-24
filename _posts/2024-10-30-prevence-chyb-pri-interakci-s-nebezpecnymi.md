@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-30 11:01:22 +01:00
-slug: prevence-chyb-pri-interakci-s-nebezpecnymi
+slug: "prevence-chyb-pri-interakci-s-nebezpecnymi"
 post_id: 150885603.prevence-chyb-pri-interakci-s-nebezpecnymi
 title: "Preventing Errors During Interaction with Dangerous Actions in UI"
 description: ""

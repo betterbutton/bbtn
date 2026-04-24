@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-28 09:01:52 +01:00
-slug: jednoduche-landing-pages-konvertuji
+slug: "jednoduche-landing-pages-konvertuji"
 post_id: 150798600.jednoduche-landing-pages-konvertuji
 title: "Simple landing pages convert better"
 description: ""

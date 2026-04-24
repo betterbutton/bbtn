@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-08 06:00:58 +02:00
-slug: andy-budd-book-growth-equation
+slug: "andy-budd-book-growth-equation"
 post_id: 148622428.andy-budd-book-growth-equation
 title: "Andy Budd knows the growth equation for startups"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-05 06:00:34 +01:00
-slug: umeni-empatie-v-ux-designu
+slug: "umeni-empatie-v-ux-designu"
 post_id: 151132122.umeni-empatie-v-ux-designu
 title: "The Art of Empathy in UX Design"
 description: ""

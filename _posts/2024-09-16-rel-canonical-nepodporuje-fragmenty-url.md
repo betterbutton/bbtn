@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-16 13:03:10 +02:00
-slug: rel-canonical-nepodporuje-fragmenty-url
+slug: "rel-canonical-nepodporuje-fragmenty-url"
 post_id: 148952124.rel-canonical-nepodporuje-fragmenty-url
 title: "URL fragments don't belong in canonical addresses"
 description: ""

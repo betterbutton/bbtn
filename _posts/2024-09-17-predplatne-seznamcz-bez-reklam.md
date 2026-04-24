@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-17 09:25:17 +02:00
-slug: predplatne-seznamcz-bez-reklam
+slug: "predplatne-seznamcz-bez-reklam"
 post_id: 148994150.predplatne-seznamcz-bez-reklam
 title: "Seznam.cz without ads for 179 CZK monthly"
 description: ""

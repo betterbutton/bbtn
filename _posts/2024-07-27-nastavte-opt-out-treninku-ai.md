@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-27 08:00:07 +02:00
-slug: nastavte-opt-out-treninku-ai
+slug: "nastavte-opt-out-treninku-ai"
 post_id: 146989016.nastavte-opt-out-treninku-ai
 title: "Why to set up AI training opt-out in Figma"
 description: ""

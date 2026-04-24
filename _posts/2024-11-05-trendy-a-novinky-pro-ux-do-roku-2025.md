@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-05 11:00:54 +01:00
-slug: trendy-a-novinky-pro-ux-do-roku-2025
+slug: "trendy-a-novinky-pro-ux-do-roku-2025"
 post_id: 151186297.trendy-a-novinky-pro-ux-do-roku-2025
 title: "Trends and News for UX Until 2025"
 description: ""

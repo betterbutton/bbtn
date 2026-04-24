@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-03 09:53:18 +02:00
-slug: webova-pisma-jak-je-nastavit-a-optimalizovat
+slug: "webova-pisma-jak-je-nastavit-a-optimalizovat"
 post_id: 149745700.webova-pisma-jak-je-nastavit-a-optimalizovat
 title: "Web fonts: how to set up and optimize"
 description: ""

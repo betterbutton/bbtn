@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-09 11:02:54 +01:00
-slug: efekt-ramovani-v-ux-designu-ovlivnuje
+slug: "efekt-ramovani-v-ux-designu-ovlivnuje"
 post_id: 151377977.efekt-ramovani-v-ux-designu-ovlivnuje
 title: "The Framing Effect in UX Design Influences User Decisions"
 description: ""

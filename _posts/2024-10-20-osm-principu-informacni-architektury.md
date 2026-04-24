@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-20 06:01:16 +02:00
-slug: osm-principu-informacni-architektury
+slug: "osm-principu-informacni-architektury"
 post_id: 150295615.osm-principu-informacni-architektury
 title: "8 Fundamental Principles of Information Architecture"
 description: ""

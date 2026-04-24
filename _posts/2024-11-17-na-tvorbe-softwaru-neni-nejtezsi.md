@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-17 07:01:34 +01:00
-slug: na-tvorbe-softwaru-neni-nejtezsi
+slug: "na-tvorbe-softwaru-neni-nejtezsi"
 post_id: 151758844.na-tvorbe-softwaru-neni-nejtezsi
 title: "In software development, the hardest part is not programming, but preparing the specification."
 description: ""

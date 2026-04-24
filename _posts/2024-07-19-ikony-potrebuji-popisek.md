@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-19 11:01:42 +02:00
-slug: ikony-potrebuji-popisek
+slug: "ikony-potrebuji-popisek"
 post_id: 146779849.ikony-potrebuji-popisek
 title: "Which Icons (Don't) Need a Label"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-19 10:01:08 +01:00
-slug: take-mastodon-roste-diky-odlivu-uzivatelu
+slug: "take-mastodon-roste-diky-odlivu-uzivatelu"
 post_id: 151849686.take-mastodon-roste-diky-odlivu-uzivatelu
 title: "Mastodon also grows thanks to the exodus of users from X"
 description: ""

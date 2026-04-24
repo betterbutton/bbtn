@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-17 11:01:41 +01:00
-slug: automatizace-usnadnuje-marketing
+slug: "automatizace-usnadnuje-marketing"
 post_id: 151760607.automatizace-usnadnuje-marketing
 title: "Automation makes marketing easier even for small entrepreneurs"
 description: ""

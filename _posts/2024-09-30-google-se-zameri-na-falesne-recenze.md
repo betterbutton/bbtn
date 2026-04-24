@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-30 08:43:46 +02:00
-slug: google-se-zameri-na-falesne-recenze
+slug: "google-se-zameri-na-falesne-recenze"
 post_id: 149595497.google-se-zameri-na-falesne-recenze
 title: "Google will focus on fake reviews in Maps"
 description: ""

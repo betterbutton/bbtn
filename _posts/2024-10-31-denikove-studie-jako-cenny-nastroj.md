@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-31 11:02:19 +01:00
-slug: denikove-studie-jako-cenny-nastroj
+slug: "denikove-studie-jako-cenny-nastroj"
 post_id: 150893371.denikove-studie-jako-cenny-nastroj
 title: "Diary studies as a valuable tool for user research"
 description: ""

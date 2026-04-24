@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-14 00:13:42 +02:00
-slug: prinosy-a-jednoduchost-job-story
+slug: "prinosy-a-jednoduchost-job-story"
 post_id: 148869892.prinosy-a-jednoduchost-job-story
 title: "Benefits and Simplicity of Job Story Mapping"
 description: ""

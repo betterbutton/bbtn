@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-19 10:00:43 +02:00
-slug: out-of-office-message
+slug: "out-of-office-message"
 post_id: 146746986.out-of-office-message
 title: "OOO: Out of Office"
 description: ""

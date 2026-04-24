@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-01 09:01:19 +01:00
-slug: evropska-komise-zahajila-oficialni
+slug: "evropska-komise-zahajila-oficialni"
 post_id: 151006578.evropska-komise-zahajila-oficialni
 title: "European Commission has launched an official investigation into Temu"
 description: ""

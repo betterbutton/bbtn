@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-16 23:52:09 +02:00
-slug: canvas-pro-efektivnejsi-spolupraci
+slug: "canvas-pro-efektivnejsi-spolupraci"
 post_id: 148981411.canvas-pro-efektivnejsi-spolupraci
 title: "Canvas as the key to more effective collaboration"
 description: ""

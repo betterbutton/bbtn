@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-07 18:36:55 +02:00
-slug: duolingo-ma-nemocnou-ikonu
+slug: "duolingo-ma-nemocnou-ikonu"
 post_id: 148617226.duolingo-ma-nemocnou-ikonu
 title: "Duolingo faces criticism over sick mascot icon"
 description: ""

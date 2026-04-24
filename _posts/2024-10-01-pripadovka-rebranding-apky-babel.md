@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-01 08:01:20 +02:00
-slug: pripadovka-rebranding-apky-babel
+slug: "pripadovka-rebranding-apky-babel"
 post_id: 149600321.pripadovka-rebranding-apky-babel
 title: "Case Study: Rebranding of the Babbel App"
 description: ""

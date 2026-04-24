@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-18 18:00:00 +01:00
-slug: pozvanka-od-zadani-k-prototypu
+slug: "pozvanka-od-zadani-k-prototypu"
 post_id: 151497255.pozvanka-od-zadani-k-prototypu
 title: "Invitation: From Specification to Prototype in Two Hours"
 description: ""

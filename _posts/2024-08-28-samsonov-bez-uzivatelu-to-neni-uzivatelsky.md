@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-28 09:00:03 +02:00
-slug: samsonov-bez-uzivatelu-to-neni-uzivatelsky
+slug: "samsonov-bez-uzivatelu-to-neni-uzivatelsky"
 post_id: 148162112.samsonov-bez-uzivatelu-to-neni-uzivatelsky
 title: "Samsonov: Without Users, It's Not User Research and AI Can't Replace It"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-29 08:00:46 +02:00
-slug: google-muze-ve-vysledcich-hledani
+slug: "google-muze-ve-vysledcich-hledani"
 post_id: 148244820.google-muze-ve-vysledcich-hledani
 title: "Google can display og:title in search results"
 description: ""

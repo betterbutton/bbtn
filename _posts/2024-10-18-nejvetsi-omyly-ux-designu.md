@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-18 06:00:41 +02:00
-slug: nejvetsi-omyly-ux-designu
+slug: "nejvetsi-omyly-ux-designu"
 post_id: 150248177.nejvetsi-omyly-ux-designu
 title: "The Biggest UX Design Myths"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-26 10:01:35 +02:00
-slug: co-kdyz-kvantitativni-a-kvalitativni
+slug: "co-kdyz-kvantitativni-a-kvalitativni"
 post_id: 150627524.co-kdyz-kvantitativni-a-kvalitativni
 title: "What if quantitative and qualitative data disagree"
 description: ""

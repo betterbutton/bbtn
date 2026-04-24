@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-03 06:00:45 +02:00
-slug: zprava-se-po-precteni-sama-znici
+slug: "zprava-se-po-precteni-sama-znici"
 post_id: 148264099.zprava-se-po-precteni-sama-znici
 title: "Message self-destructs after reading…"
 description: ""

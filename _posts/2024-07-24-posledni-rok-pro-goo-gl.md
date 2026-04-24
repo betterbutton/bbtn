@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-24 09:01:50 +02:00
-slug: posledni-rok-pro-goo-gl
+slug: "posledni-rok-pro-goo-gl"
 post_id: 146916346.posledni-rok-pro-goo-gl
 title: "The goo.gl URL shortener has one year left"
 description: ""

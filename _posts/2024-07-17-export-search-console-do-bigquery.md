@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-17 09:01:03 +02:00
-slug: export-search-console-do-bigquery
+slug: "export-search-console-do-bigquery"
 post_id: 146689803.export-search-console-do-bigquery
 title: "Export from Search Console to BigQuery"
 description: ""

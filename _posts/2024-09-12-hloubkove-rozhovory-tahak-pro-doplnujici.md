@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-12 11:55:44 +02:00
-slug: hloubkove-rozhovory-tahak-pro-doplnujici
+slug: "hloubkove-rozhovory-tahak-pro-doplnujici"
 post_id: 148803039.hloubkove-rozhovory-tahak-pro-doplnujici
 title: "In-depth Interviews: Cheat Sheet for Follow-up Questions"
 description: ""

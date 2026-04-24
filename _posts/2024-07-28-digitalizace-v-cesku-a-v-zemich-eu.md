@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-28 09:01:19 +02:00
-slug: digitalizace-v-cesku-a-v-zemich-eu
+slug: "digitalizace-v-cesku-a-v-zemich-eu"
 post_id: 147036904.digitalizace-v-cesku-a-v-zemich-eu
 title: "Digitalization in Czechia and EU Countries"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-02 08:01:24 +01:00
-slug: augmented-analytics-s-ai-meni-praci
+slug: "augmented-analytics-s-ai-meni-praci"
 post_id: 151050176.augmented-analytics-s-ai-meni-praci
 title: "Augmented analytics with AI changes data work"
 description: ""

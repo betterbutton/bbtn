@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-20 08:01:37 +02:00
-slug: reseni-penalizace-googlem
+slug: "reseni-penalizace-googlem"
 post_id: 146803515.reseni-penalizace-googlem
 title: "Google Penalty: A Story with a Happy Ending?"
 description: ""

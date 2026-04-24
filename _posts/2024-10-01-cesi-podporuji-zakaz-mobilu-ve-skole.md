@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-01 10:38:16 +02:00
-slug: cesi-podporuji-zakaz-mobilu-ve-skole
+slug: "cesi-podporuji-zakaz-mobilu-ve-skole"
 post_id: 149652968.cesi-podporuji-zakaz-mobilu-ve-skole
 title: "Survey: Czechs support ban on mobile phones in schools"
 description: ""

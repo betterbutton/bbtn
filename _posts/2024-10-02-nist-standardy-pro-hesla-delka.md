@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-02 06:00:59 +02:00
-slug: nist-standardy-pro-hesla-delka
+slug: "nist-standardy-pro-hesla-delka"
 post_id: 149654269.nist-standardy-pro-hesla-delka
 title: "Passwords should be long and uncomplicated – says the new NIST standard"
 description: ""

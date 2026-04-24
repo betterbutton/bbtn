@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-26 11:56:52 +02:00
-slug: vip-domena-cz
+slug: "vip-domena-cz"
 post_id: 146008016.vip-domena-cz
 title: "VIP domain protects and secures Czech domains"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-18 14:42:53 +02:00
-slug: digitalni-stopy-zatezuji-planetu
+slug: "digitalni-stopy-zatezuji-planetu"
 post_id: 147843334.digitalni-stopy-zatezuji-planetu
 title: "Digital footprints burden the planet"
 description: ""

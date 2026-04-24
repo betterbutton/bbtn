@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-09 09:00:39 +01:00
-slug: od-domnenek-k-hypotezam
+slug: "od-domnenek-k-hypotezam"
 post_id: 151383967.od-domnenek-k-hypotezam
 title: "From Assumptions to Hypotheses"
 description: ""

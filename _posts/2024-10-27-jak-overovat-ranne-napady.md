@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-27 09:01:19 +01:00
-slug: jak-overovat-ranne-napady
+slug: "jak-overovat-ranne-napady"
 post_id: 150528374.jak-overovat-ranne-napady
 title: "How to validate early ideas "
 description: ""

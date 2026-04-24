@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-17 09:02:08 +01:00
-slug: chyby-v-ux-ktere-zabiji-konverze
+slug: "chyby-v-ux-ktere-zabiji-konverze"
 post_id: 151759564.chyby-v-ux-ktere-zabiji-konverze
 title: "UX Errors That Kill Conversions"
 description: ""

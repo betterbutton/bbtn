@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-08 07:00:10 +02:00
-slug: petr-kral-je-prima
+slug: "petr-kral-je-prima"
 post_id: 148622814.petr-kral-je-prima
 title: "Petr Král will lead Prima+"
 description: ""

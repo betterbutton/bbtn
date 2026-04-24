@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-16 06:00:04 +02:00
-slug: doructe-produkt-s-uzivatelskym-vyzkumem
+slug: "doructe-produkt-s-uzivatelskym-vyzkumem"
 post_id: 150247995.doructe-produkt-s-uzivatelskym-vyzkumem
 title: "Deliver a quality product with user research"
 description: ""

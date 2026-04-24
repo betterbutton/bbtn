@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-30 06:00:57 +01:00
-slug: proc-lide-poslouchaji-podcasty-ctyrnasobnou
+slug: "proc-lide-poslouchaji-podcasty-ctyrnasobnou"
 post_id: 150859206.proc-lide-poslouchaji-podcasty-ctyrnasobnou
 title: "Why do people listen to podcasts at 4x and half speed?"
 description: ""

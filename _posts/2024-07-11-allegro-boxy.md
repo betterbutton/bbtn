@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-11 09:00:35 +02:00
-slug: allegro-boxy
+slug: "allegro-boxy"
 post_id: 146489135.allegro-boxy
 title: "WeDo is changing to One by Allegro and is setting up delivery boxes"
 description: ""

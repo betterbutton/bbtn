@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-16 09:02:02 +01:00
-slug: jak-zachranit-soukromi-v-dobe-algoritmu
+slug: "jak-zachranit-soukromi-v-dobe-algoritmu"
 post_id: 151718596.jak-zachranit-soukromi-v-dobe-algoritmu
 title: "How to Save Privacy in the Age of Algorithms"
 description: ""

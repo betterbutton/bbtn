@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-04 06:00:36 +02:00
-slug: dia-varuje-pred-falesnymi-weby
+slug: "dia-varuje-pred-falesnymi-weby"
 post_id: 148373400.dia-varuje-pred-falesnymi-weby
 title: "DIA warns: Fake websites threaten citizens and their money"
 description: ""

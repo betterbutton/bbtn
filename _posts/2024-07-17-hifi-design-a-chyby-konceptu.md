@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-17 10:01:50 +02:00
-slug: hifi-design-a-chyby-konceptu
+slug: "hifi-design-a-chyby-konceptu"
 post_id: 146690028.hifi-design-a-chyby-konceptu
 title: "Polished Designs Cover Up Conceptual Flaws"
 description: ""

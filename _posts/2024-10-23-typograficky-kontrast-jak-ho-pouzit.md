@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-23 09:01:31 +02:00
-slug: typograficky-kontrast-jak-ho-pouzit
+slug: "typograficky-kontrast-jak-ho-pouzit"
 post_id: 150509181.typograficky-kontrast-jak-ho-pouzit
 title: "Typographic Contrast: How to Use It for Perfect Design"
 description: ""

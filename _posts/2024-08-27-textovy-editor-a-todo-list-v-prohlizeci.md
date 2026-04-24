@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-27 07:01:32 +02:00
-slug: textovy-editor-a-todo-list-v-prohlizeci
+slug: "textovy-editor-a-todo-list-v-prohlizeci"
 post_id: 148140412.textovy-editor-a-todo-list-v-prohlizeci
 title: "Text editor and todo list in the browser with local storage saving"
 description: ""

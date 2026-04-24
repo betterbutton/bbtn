@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-18 06:01:06 +01:00
-slug: cesti-osmaci-vali-v-it-nejlip-v-eu
+slug: "cesti-osmaci-vali-v-it-nejlip-v-eu"
 post_id: 151786639.cesti-osmaci-vali-v-it-nejlip-v-eu
 title: "Czech 8th Graders Lead in IT Skills in the EU"
 description: ""

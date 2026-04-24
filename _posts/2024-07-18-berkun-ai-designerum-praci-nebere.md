@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-18 10:32:28 +02:00
-slug: berkun-ai-designerum-praci-nebere
+slug: "berkun-ai-designerum-praci-nebere"
 post_id: 146742862.berkun-ai-designerum-praci-nebere
 title: "Scott Berkun: Not Yet. AI Still Won't Take Designers' Jobs"
 description: ""

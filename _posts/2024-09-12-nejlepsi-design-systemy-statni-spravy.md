@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-12 11:37:20 +02:00
-slug: nejlepsi-design-systemy-statni-spravy
+slug: "nejlepsi-design-systemy-statni-spravy"
 post_id: 148802586.nejlepsi-design-systemy-statni-spravy
 title: "Best design systems in public administration"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-24 09:01:28 +02:00
-slug: don-norman-apple-zapomnel-na-uzivatelskou
+slug: "don-norman-apple-zapomnel-na-uzivatelskou"
 post_id: 150510193.don-norman-apple-zapomnel-na-uzivatelskou
 title: "Don Norman: Apple forgot about user-friendliness"
 description: ""

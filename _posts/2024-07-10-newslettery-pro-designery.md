@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-10 12:02:23 +02:00
-slug: newslettery-pro-designery
+slug: "newslettery-pro-designery"
 post_id: 146453757.newslettery-pro-designery
 title: "Useful newsletters for designers"
 description: ""

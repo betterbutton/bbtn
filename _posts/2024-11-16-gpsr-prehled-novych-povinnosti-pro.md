@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-16 11:01:01 +01:00
-slug: gpsr-prehled-novych-povinnosti-pro
+slug: "gpsr-prehled-novych-povinnosti-pro"
 post_id: 151719699.gpsr-prehled-novych-povinnosti-pro
 title: "GPSR: Overview of new obligations for manufacturers, importers, and distributors"
 description: ""

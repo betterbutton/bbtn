@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-26 06:01:08 +02:00
-slug: 21-strategii-jak-udrzet-uzivatele
+slug: "21-strategii-jak-udrzet-uzivatele"
 post_id: 150512006.21-strategii-jak-udrzet-uzivatele
 title: "21 strategies to retain users"
 description: ""

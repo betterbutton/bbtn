@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-26 07:00:55 +02:00
-slug: zavrit-zrusit-ukoncit-jak-spravne
+slug: "zavrit-zrusit-ukoncit-jak-spravne"
 post_id: 150512619.zavrit-zrusit-ukoncit-jak-spravne
 title: "Close, Cancel, Exit: How to Choose the Right Words for Ending Interactions"
 description: ""

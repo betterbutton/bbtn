@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-26 07:01:02 +02:00
-slug: pozvanka-na-frontkon-2024
+slug: "pozvanka-na-frontkon-2024"
 post_id: 146965492.pozvanka-na-frontkon-2024
 title: "Invitation to FrontKon 2024"
 description: ""

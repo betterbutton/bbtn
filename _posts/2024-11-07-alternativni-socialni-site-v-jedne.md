@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-07 07:01:20 +01:00
-slug: alternativni-socialni-site-v-jedne
+slug: "alternativni-socialni-site-v-jedne"
 post_id: 151299915.alternativni-socialni-site-v-jedne
 title: "Alternative Social Networks in One App: Openvibe"
 description: ""

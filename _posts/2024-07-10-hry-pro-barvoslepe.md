@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-10 10:01:21 +02:00
-slug: hry-pro-barvoslepe
+slug: "hry-pro-barvoslepe"
 post_id: 146452626.hry-pro-barvoslepe
 title: "Mattel modifies games for the color-blind"
 description: ""

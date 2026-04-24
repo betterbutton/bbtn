@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-24 10:01:13 +02:00
-slug: jak-na-papirove-wireframy
+slug: "jak-na-papirove-wireframy"
 post_id: 146916965.jak-na-papirove-wireframy
 title: "How to Create Paper Wireframes"
 description: ""

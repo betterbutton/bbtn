@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-25 07:01:02 +02:00
-slug: uber-ovladl-ux-design
+slug: "uber-ovladl-ux-design"
 post_id: 150507889.uber-ovladl-ux-design
 title: "The Magic of UX: How Uber Turned Its Failure into Success"
 description: ""

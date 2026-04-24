@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-18 07:01:15 +01:00
-slug: seznam-newsfeed-propousti-vice-zobrazeni
+slug: "seznam-newsfeed-propousti-vice-zobrazeni"
 post_id: 151794579.seznam-newsfeed-propousti-vice-zobrazeni
 title: "Seznam news feed is driving more views to smaller websites"
 description: ""

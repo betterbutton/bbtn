@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-21 06:01:25 +02:00
-slug: karierni-switch-ux-produktu
+slug: "karierni-switch-ux-produktu"
 post_id: 150313759.karierni-switch-ux-produktu
 title: "Career change from UX to product management"
 description: ""

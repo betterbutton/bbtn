@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-10 10:31:02 +01:00
-slug: orca-treti-diamant-ux-designu
+slug: "orca-treti-diamant-ux-designu"
 post_id: 151448555.orca-treti-diamant-ux-designu
 title: "ORCA: The Third Diamond in UX Design"
 description: ""

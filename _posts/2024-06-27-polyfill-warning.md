@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-27 11:56:58 +02:00
-slug: polyfill-warning
+slug: "polyfill-warning"
 post_id: 146039733.polyfill-warning
 title: "Security experts warn: Do not use polyfill.io"
 description: ""

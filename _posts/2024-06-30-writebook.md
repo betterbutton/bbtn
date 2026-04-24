@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-30 23:43:47 +02:00
-slug: writebook
+slug: "writebook"
 post_id: 146144913.writebook
 title: "Writebook – free tool for writing and publishing e-books"
 description: ""

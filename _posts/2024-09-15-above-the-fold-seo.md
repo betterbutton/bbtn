@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-15 00:17:48 +02:00
-slug: above-the-fold-seo
+slug: "above-the-fold-seo"
 post_id: 148901170.above-the-fold-seo
 title: "Above the Fold SEO"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-19 07:00:29 +02:00
-slug: youtube-hype-nova-sance-pro-zacinajici
+slug: "youtube-hype-nova-sance-pro-zacinajici"
 post_id: 149081240.youtube-hype-nova-sance-pro-zacinajici
 title: "YouTube Hype: A New Chance for Budding Creators"
 description: ""

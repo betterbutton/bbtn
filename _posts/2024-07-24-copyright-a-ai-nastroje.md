@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-24 13:01:33 +02:00
-slug: copyright-a-ai-nastroje
+slug: "copyright-a-ai-nastroje"
 post_id: 146934963.copyright-a-ai-nastroje
 title: "Dolejšová: Artificial Intelligence and Copyright Protection"
 description: ""

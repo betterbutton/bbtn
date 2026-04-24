@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-27 06:00:19 +02:00
-slug: marik-ai-neni-bytost
+slug: "marik-ai-neni-bytost"
 post_id: 147011369.marik-ai-neni-bytost
 title: "Professor Mařík: AI is not a being, but a tool"
 description: ""

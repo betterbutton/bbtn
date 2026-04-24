@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-14 07:01:22 +01:00
-slug: jak-se-lisi-ucd-a-gdd-v-tvorbe-produktu
+slug: "jak-se-lisi-ucd-a-gdd-v-tvorbe-produktu"
 post_id: 151591076.jak-se-lisi-ucd-a-gdd-v-tvorbe-produktu
 title: "How UCD and GDD differ in product development"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-24 07:00:37 +02:00
-slug: vyroci-knihy
+slug: "vyroci-knihy"
 post_id: 146161995.vyroci-knihy
 title: "A year ago, the book '75 tips on how to get a website' was published"
 description: ""

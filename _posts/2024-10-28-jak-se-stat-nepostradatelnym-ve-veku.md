@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-28 06:00:52 +01:00
-slug: jak-se-stat-nepostradatelnym-ve-veku
+slug: "jak-se-stat-nepostradatelnym-ve-veku"
 post_id: 150534480.jak-se-stat-nepostradatelnym-ve-veku
 title: "How to Become Indispensable in the Age of AI"
 description: ""

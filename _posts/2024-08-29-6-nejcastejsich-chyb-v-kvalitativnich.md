@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-29 06:00:01 +02:00
-slug: 6-nejcastejsich-chyb-v-kvalitativnich
+slug: "6-nejcastejsich-chyb-v-kvalitativnich"
 post_id: 148162313.6-nejcastejsich-chyb-v-kvalitativnich
 title: "6 most common mistakes in qualitative interviews and how to avoid them"
 description: ""

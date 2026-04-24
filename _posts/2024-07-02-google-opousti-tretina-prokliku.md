@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-02 23:46:15 +02:00
-slug: google-opousti-tretina-prokliku
+slug: "google-opousti-tretina-prokliku"
 post_id: 146220968.google-opousti-tretinu-prokliku
 title: "Google lets only just over a third of searches proceed to the web"
 description: ""

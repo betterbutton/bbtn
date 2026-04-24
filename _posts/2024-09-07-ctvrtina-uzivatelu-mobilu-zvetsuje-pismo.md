@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-07 12:41:17 +02:00
-slug: ctvrtina-uzivatelu-mobilu-zvetsuje-pismo
+slug: "ctvrtina-uzivatelu-mobilu-zvetsuje-pismo"
 post_id: 148608127.ctvrtina-uzivatelu-mobilu-zvetsuje-pismo
 title: "Every fourth mobile user enlarges text"
 description: ""

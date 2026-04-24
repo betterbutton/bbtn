@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-31 19:25:20 +02:00
-slug: kam-mizi-brazilci-z-twitteru
+slug: "kam-mizi-brazilci-z-twitteru"
 post_id: 148333480.kam-mizi-brazilci-z-twitteru
 title: "Where are Brazilians going after Twitter's ban?"
 description: ""

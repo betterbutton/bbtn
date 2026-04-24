@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-10 01:44:37 +02:00
-slug: freelance-pricing
+slug: "freelance-pricing"
 post_id: 146452206.freelance-pricing
 title: "Setting the Right Price for Freelancers"
 description: ""

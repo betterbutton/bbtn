@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-29 13:46:20 +02:00
-slug: google-docs-umoznuji-elektronicky
+slug: "google-docs-umoznuji-elektronicky"
 post_id: 148261245.google-docs-umoznuji-elektronicky
 title: "Google Docs allow electronic signing of a document"
 description: ""

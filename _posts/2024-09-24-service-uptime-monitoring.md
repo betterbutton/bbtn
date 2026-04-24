@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-24 16:58:23 +02:00
-slug: service-uptime-monitoring
+slug: "service-uptime-monitoring"
 post_id: 149351708.service-uptime-monitoring
 title: "Is your website down, or is it just me?"
 description: ""

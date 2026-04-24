@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-23 13:32:42 +02:00
-slug: mzdy-ux-specialistu-v-usa
+slug: "mzdy-ux-specialistu-v-usa"
 post_id: 146914479.mzdy-ux-specialistu-v-usa
 title: "UX Specialist Salaries in the USA: Inflation and Its Impact"
 description: ""

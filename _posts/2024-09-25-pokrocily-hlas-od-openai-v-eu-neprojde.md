@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-25 23:49:38 +02:00
-slug: pokrocily-hlas-od-openai-v-eu-neprojde
+slug: "pokrocily-hlas-od-openai-v-eu-neprojde"
 post_id: 149418613.pokrocily-hlas-od-openai-v-eu-neprojde
 title: "(Updated) OpenAI's Advanced Voice Won't Comply with EU AI Act"
 description: ""

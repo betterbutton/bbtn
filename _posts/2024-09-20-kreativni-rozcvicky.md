@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-20 06:01:06 +02:00
-slug: kreativni-rozcvicky
+slug: "kreativni-rozcvicky"
 post_id: 149092421.kreativni-rozcvicky
 title: "52 cards for creators: Creative warm-ups that inspire"
 description: ""

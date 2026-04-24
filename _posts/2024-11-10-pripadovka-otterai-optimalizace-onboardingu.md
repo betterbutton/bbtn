@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-10 06:00:56 +01:00
-slug: pripadovka-otterai-optimalizace-onboardingu
+slug: "pripadovka-otterai-optimalizace-onboardingu"
 post_id: 151395065.pripadovka-otterai-optimalizace-onboardingu
 title: "Case Study Otter.ai: Optimizing Onboarding and Increasing User Activation"
 description: ""

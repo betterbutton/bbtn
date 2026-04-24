@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-08 09:00:19 +02:00
-slug: samsonov-prestante-vyhorsovat-produkty
+slug: "samsonov-prestante-vyhorsovat-produkty"
 post_id: 148624237.samsonov-prestante-vyhorsovat-produkty
 title: "Samsonov: Stop Worsening Products"
 description: ""

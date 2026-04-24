@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-19 08:00:54 +02:00
-slug: novinky-ktere-zefektivnily-praci
+slug: "novinky-ktere-zefektivnily-praci"
 post_id: 147847114.novinky-ktere-zefektivnily-praci
 title: "Features that streamlined work in Figma"
 description: ""

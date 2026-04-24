@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-25 10:41:08 +02:00
-slug: kvalita-design-leadershipu
+slug: "kvalita-design-leadershipu"
 post_id: 149386420.kvalita-design-leadershipu
 title: "How to Recognize Quality Leadership in Design?"
 description: ""

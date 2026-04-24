@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-01 06:01:15 +02:00
-slug: drobnosti-ktere-delaji-v-designu
+slug: "drobnosti-ktere-delaji-v-designu"
 post_id: 148163515.drobnosti-ktere-delaji-v-designu
 title: "Small Details That Make a Big Difference in Design"
 description: ""

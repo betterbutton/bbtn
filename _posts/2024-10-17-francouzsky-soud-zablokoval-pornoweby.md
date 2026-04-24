@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 21:30:00 +02:00
-slug: francouzsky-soud-zablokoval-pornoweby
+slug: "francouzsky-soud-zablokoval-pornoweby"
 post_id: 150368682.francouzsky-soud-zablokoval-pornoweby
 title: "French court blocked pornographic websites for insufficient age verification"
 description: ""

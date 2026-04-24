@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-25 10:00:51 +02:00
-slug: prechod-z-velke-firmy-do-male-jaky
+slug: "prechod-z-velke-firmy-do-male-jaky"
 post_id: 150623553.prechod-z-velke-firmy-do-male-jaky
 title: "Transition from a large company to a small one: what is the difference?"
 description: ""

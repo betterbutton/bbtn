@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-03 06:00:56 +01:00
-slug: ux-design-je-investici-do-rustu-firmy
+slug: "ux-design-je-investici-do-rustu-firmy"
 post_id: 151076288.ux-design-je-investici-do-rustu-firmy
 title: "UX design is an investment in the company's growth"
 description: ""

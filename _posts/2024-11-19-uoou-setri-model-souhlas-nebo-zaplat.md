@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-19 06:01:10 +01:00
-slug: uoou-setri-model-souhlas-nebo-zaplat
+slug: "uoou-setri-model-souhlas-nebo-zaplat"
 post_id: 151848022.uoou-setri-model-souhlas-nebo-zaplat
 title: "The Office for Personal Data Protection is investigating the 'consent or pay' model. Seznam.cz received an injunction"
 description: ""

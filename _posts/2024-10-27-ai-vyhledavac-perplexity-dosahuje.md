@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-27 12:35:38 +01:00
-slug: ai-vyhledavac-perplexity-dosahuje
+slug: "ai-vyhledavac-perplexity-dosahuje"
 post_id: 150795567.ai-vyhledavac-perplexity-dosahuje
 title: "AI search engine Perplexity reaches one hundred million queries per week"
 description: ""

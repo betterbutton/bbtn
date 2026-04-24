@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-15 19:01:54 +02:00
-slug: zemrel-ward-christensen
+slug: "zemrel-ward-christensen"
 post_id: 150267304.zemrel-ward-christensen
 title: "Ward Christensen, Pioneer of Digital BBS Forums, Has Died"
 description: ""

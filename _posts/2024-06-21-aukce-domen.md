@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-21 07:30:52 +02:00
-slug: aukce-domen
+slug: "aukce-domen"
 post_id: 145844400.aukce-domen
 title: "CZ.NIC: The Most Expensive Auctioned Domain Cost 55,600 CZK"
 description: ""

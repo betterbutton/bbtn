@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-07 08:01:34 +01:00
-slug: prakticke-tipy-pro-eticky-ux-vyzkum
+slug: "prakticke-tipy-pro-eticky-ux-vyzkum"
 post_id: 151300309.prakticke-tipy-pro-eticky-ux-vyzkum
 title: "Practical Tips for Ethical UX Research"
 description: ""

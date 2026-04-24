@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-15 10:15:54 +02:00
-slug: kyberutok-na-internetovy-archiv
+slug: "kyberutok-na-internetovy-archiv"
 post_id: 150246569.kyberutok-na-internetovy-archiv
 title: "Cyberattack Paralyzed the Internet Archive"
 description: ""

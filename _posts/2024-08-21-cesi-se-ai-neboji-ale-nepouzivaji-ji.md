@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-21 10:30:01 +02:00
-slug: cesi-se-ai-neboji-ale-nepouzivaji-ji
+slug: "cesi-se-ai-neboji-ale-nepouzivaji-ji"
 post_id: 147955367.cesi-se-ai-neboji-ale-nepouzivaji-ji
 title: "In the Czech Republic, we are not afraid of AI, but we don't use it"
 description: ""

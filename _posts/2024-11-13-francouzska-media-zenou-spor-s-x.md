@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-13 07:01:35 +01:00
-slug: francouzska-media-zenou-spor-s-x
+slug: "francouzska-media-zenou-spor-s-x"
 post_id: 151561840.francouzska-media-zenou-spor-s-x
 title: "French media take dispute with X over payments for news previews to court"
 description: ""

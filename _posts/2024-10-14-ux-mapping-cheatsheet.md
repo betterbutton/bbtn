@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-14 07:01:34 +02:00
-slug: ux-mapping-cheatsheet
+slug: "ux-mapping-cheatsheet"
 post_id: 150179823.ux-mapping-cheatsheet
 title: "Cheat Sheet for UX Mapping Techniques"
 description: ""

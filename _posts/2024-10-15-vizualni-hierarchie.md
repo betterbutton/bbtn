@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-15 09:02:56 +02:00
-slug: vizualni-hierarchie
+slug: "vizualni-hierarchie"
 post_id: 150204292.vizualni-hierarchie
 title: "Improve UI Design with Visual Hierarchy"
 description: ""

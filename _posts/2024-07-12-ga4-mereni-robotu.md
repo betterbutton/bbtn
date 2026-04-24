@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-12 14:52:05 +02:00
-slug: ga4-mereni-robotu
+slug: "ga4-mereni-robotu"
 post_id: 146541615.ga4-mereni-robotu
 title: "Tracking robots on the web: PHP script for Google Analytics 4"
 description: ""

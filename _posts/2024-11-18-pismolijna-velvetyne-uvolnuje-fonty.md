@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-18 08:01:37 +01:00
-slug: pismolijna-velvetyne-uvolnuje-fonty
+slug: "pismolijna-velvetyne-uvolnuje-fonty"
 post_id: 151795233.pismolijna-velvetyne-uvolnuje-fonty
 title: "Velvetyne Type Foundry Releases Fonts as Open Source"
 description: ""

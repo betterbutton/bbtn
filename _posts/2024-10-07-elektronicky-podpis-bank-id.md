@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-07 17:05:07 +02:00
-slug: elektronicky-podpis-bank-id
+slug: "elektronicky-podpis-bank-id"
 post_id: 149919589.elektronicky-podpis-bank-id
 title: "Electronic Signature from Bank-iD"
 description: ""

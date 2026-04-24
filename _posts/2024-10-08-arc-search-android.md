@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-08 06:00:02 +02:00
-slug: arc-search-android
+slug: "arc-search-android"
 post_id: 149907445.arc-search-android
 title: "Arc is not just a browser, but now also a search engine"
 description: ""

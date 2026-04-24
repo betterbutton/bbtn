@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-22 07:00:31 +02:00
-slug: freelance-od-prvotni-nabidky
+slug: "freelance-od-prvotni-nabidky"
 post_id: 147979471.freelance-od-prvotni-nabidky
 title: "Freelance Designer: From Initial Offer to Final Project Proposal"
 description: ""

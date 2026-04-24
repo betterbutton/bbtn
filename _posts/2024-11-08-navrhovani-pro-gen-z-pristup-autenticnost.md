@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-08 10:02:06 +01:00
-slug: navrhovani-pro-gen-z-pristup-autenticnost
+slug: "navrhovani-pro-gen-z-pristup-autenticnost"
 post_id: 151302785.navrhovani-pro-gen-z-pristup-autenticnost
 title: "Designing for Gen Z: Approach, Authenticity, UX"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-25 12:53:29 +02:00
-slug: nails-buttons
+slug: "nails-buttons"
 post_id: 145976982.nails-buttons
 title: "Consider users with long nails when designing buttons"
 description: ""

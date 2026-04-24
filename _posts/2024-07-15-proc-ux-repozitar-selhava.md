@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-15 17:28:51 +02:00
-slug: proc-ux-repozitar-selhava
+slug: "proc-ux-repozitar-selhava"
 post_id: 146637673.proc-ux-repozitar-selhava
 title: "Why research repositories fail"
 description: ""

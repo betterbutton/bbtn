@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-23 08:00:09 +02:00
-slug: jilkova-service-design-management-
+slug: "jilkova-service-design-management-"
 post_id: 148014315.jilkova-service-design-management-
 title: "New book on service design"
 description: ""

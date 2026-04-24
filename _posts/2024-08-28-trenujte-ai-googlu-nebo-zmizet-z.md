@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-28 07:01:23 +02:00
-slug: trenujte-ai-googlu-nebo-zmizet-z
+slug: "trenujte-ai-googlu-nebo-zmizet-z"
 post_id: 148203405.trenujte-ai-googlu-nebo-zmizet-z
 title: "Train Google's AI, or disappear from search?"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-14 06:01:01 +02:00
-slug: knihy-o-ux-vyzkumu-ktere-stoji-za-to
+slug: "knihy-o-ux-vyzkumu-ktere-stoji-za-to"
 post_id: 150179350.knihy-o-ux-vyzkumu-ktere-stoji-za-to
 title: "Books on UX Research Worth Reading"
 description: ""

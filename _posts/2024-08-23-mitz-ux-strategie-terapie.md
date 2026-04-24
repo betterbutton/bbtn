@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-23 09:01:00 +02:00
-slug: mitz-ux-strategie-terapie
+slug: "mitz-ux-strategie-terapie"
 post_id: 148014637.mitz-ux-strategie-terapie
 title: "Mitz: UX Strategy is Therapy"
 description: ""

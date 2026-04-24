@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-15 07:02:25 +02:00
-slug: pruzkum-na-volne-noze-2024
+slug: "pruzkum-na-volne-noze-2024"
 post_id: 150203882.pruzkum-na-volne-noze-2024
 title: "Czech freelancers are thriving"
 description: ""

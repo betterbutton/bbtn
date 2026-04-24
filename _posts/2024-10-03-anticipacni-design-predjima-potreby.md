@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-03 11:03:47 +02:00
-slug: anticipacni-design-predjima-potreby
+slug: "anticipacni-design-predjima-potreby"
 post_id: 149747081.anticipacni-design-predjima-potreby
 title: "Anticipatory Design Anticipates User Needs"
 description: ""

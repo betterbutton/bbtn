@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-08 06:01:30 +01:00
-slug: prodeje-tabletu-rostou
+slug: "prodeje-tabletu-rostou"
 post_id: 151301745.prodeje-tabletu-rostou
 title: "Tablet Sales Are Growing"
 description: ""

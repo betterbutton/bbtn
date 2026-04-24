@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-31 07:01:01 +02:00
-slug: markdown-v-google-dokumentech
+slug: "markdown-v-google-dokumentech"
 post_id: 147015296.markdown-v-google-dokumentech
 title: "Markdown in Google Docs"
 description: ""

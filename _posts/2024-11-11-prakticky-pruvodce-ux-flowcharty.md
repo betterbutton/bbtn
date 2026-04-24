@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-11 08:01:50 +01:00
-slug: prakticky-pruvodce-ux-flowcharty
+slug: "prakticky-pruvodce-ux-flowcharty"
 post_id: 151477152.prakticky-pruvodce-ux-flowcharty
 title: "Practical Guide to UX Flowcharts"
 description: ""

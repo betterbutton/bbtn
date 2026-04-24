@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-19 07:01:40 +02:00
-slug: google-vytvari-duplicity-parametrem-srsltid
+slug: "google-vytvari-duplicity-parametrem-srsltid"
 post_id: 147846223.google-vytvari-duplicity-parametrem-srsltid
 title: "Google Creates Duplicate URLs with the srsltid Parameter in Product Search"
 description: ""

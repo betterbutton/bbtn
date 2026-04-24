@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-25 07:00:55 +02:00
-slug: fat32-pro-disky-do-2tb
+slug: "fat32-pro-disky-do-2tb"
 post_id: 148085100.fat32-pro-disky-do-2tb
 title: "You can format disks larger than 32 GB in FAT32"
 description: ""

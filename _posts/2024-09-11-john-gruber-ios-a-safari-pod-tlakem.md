@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-11 10:55:22 +02:00
-slug: john-gruber-ios-a-safari-pod-tlakem
+slug: "john-gruber-ios-a-safari-pod-tlakem"
 post_id: 148758085.john-gruber-ios-a-safari-pod-tlakem
 title: "John Gruber: iOS and Safari under DMA pressure"
 description: ""

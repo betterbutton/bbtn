@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-15 06:01:17 +01:00
-slug: cinsky-baidu-ma-chytre-bryle-a-ai
+slug: "cinsky-baidu-ma-chytre-bryle-a-ai"
 post_id: 151673175.cinsky-baidu-ma-chytre-bryle-a-ai
 title: "Chinese Baidu has smart glasses and AI chat"
 description: ""

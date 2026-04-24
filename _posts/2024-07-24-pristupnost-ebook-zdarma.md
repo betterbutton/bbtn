@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-07-24 11:01:46 +02:00
-slug: pristupnost-ebook-zdarma
+slug: "pristupnost-ebook-zdarma"
 post_id: 146933948.pristupnost-ebook-zdarma
 title: "Accessibility: Practical Free Ebook"
 description: ""

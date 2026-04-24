@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-09-26 09:10:31 +02:00
-slug: meta-ziskala-domenu-threadscom
+slug: "meta-ziskala-domenu-threadscom"
 post_id: 149436109.meta-ziskala-domenu-threadscom
 title: "The threads.com domain now belongs to Meta"
 description: ""

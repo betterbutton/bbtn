@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-04 08:02:03 +02:00
-slug: pokrocile-techniky-prace-s-komponentami
+slug: "pokrocile-techniky-prace-s-komponentami"
 post_id: 149749126.pokrocile-techniky-prace-s-komponentami
 title: "Advanced Component Techniques in Figma"
 description: ""

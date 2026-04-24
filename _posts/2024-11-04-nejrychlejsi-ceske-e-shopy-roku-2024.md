@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-04 08:01:51 +01:00
-slug: nejrychlejsi-ceske-e-shopy-roku-2024
+slug: "nejrychlejsi-ceske-e-shopy-roku-2024"
 post_id: 151080972.nejrychlejsi-ceske-e-shopy-roku-2024
 title: "Fastest Czech e-shops of 2024"
 description: ""

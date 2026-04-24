@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-06-25 18:43:53 +02:00
-slug: 20-variable-fonts
+slug: "20-variable-fonts"
 post_id: 145987314.20-variable-fonts
 title: "20 free variable fonts for web design"
 description: ""

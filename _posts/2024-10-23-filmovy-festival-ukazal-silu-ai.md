@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-23 08:01:36 +02:00
-slug: filmovy-festival-ukazal-silu-ai
+slug: "filmovy-festival-ukazal-silu-ai"
 post_id: 150508935.filmovy-festival-ukazal-silu-ai
 title: "Brno festival showcased the power of AI in short films"
 description: ""

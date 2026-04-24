@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-08-03 07:00:35 +02:00
-slug: mobile-friendly-web
+slug: "mobile-friendly-web"
 post_id: 147035939.mobile-friendly-web
 title: "Mobile friendly web, but how?"
 description: ""

@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-10 10:39:31 +01:00
-slug: generative-ai-scripting-od-microsoftu
+slug: "generative-ai-scripting-od-microsoftu"
 post_id: 151448726.generative-ai-scripting-od-microsoftu
 title: "Generative AI Scripting from Microsoft"
 description: ""

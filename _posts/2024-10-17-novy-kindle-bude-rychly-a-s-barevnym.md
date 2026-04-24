@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-17 11:01:31 +02:00
-slug: novy-kindle-bude-rychly-a-s-barevnym
+slug: "novy-kindle-bude-rychly-a-s-barevnym"
 post_id: 150316884.novy-kindle-bude-rychly-a-s-barevnym
 title: "New Kindle will be fast and with a color display"
 description: ""

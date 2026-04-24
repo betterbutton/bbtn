@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-13 08:01:33 +01:00
-slug: eu-nuti-meta-k-mensi-personalizaci
+slug: "eu-nuti-meta-k-mensi-personalizaci"
 post_id: 151562261.eu-nuti-meta-k-mensi-personalizaci
 title: "EU forces Meta to reduce ad personalization"
 description: ""

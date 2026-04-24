@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-13 10:01:48 +01:00
-slug: jak-navrhovat-pro-deti-ktere-se-naucily
+slug: "jak-navrhovat-pro-deti-ktere-se-naucily"
 post_id: 151563912.jak-navrhovat-pro-deti-ktere-se-naucily
 title: "How to design for children who learned to click before they talked?"
 description: ""

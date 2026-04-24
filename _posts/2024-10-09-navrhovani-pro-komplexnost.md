@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-09 16:35:47 +02:00
-slug: navrhovani-pro-komplexnost
+slug: "navrhovani-pro-komplexnost"
 post_id: 150011973.navrhovani-pro-komplexnost
 title: "Designing for High Complexity"
 description: ""

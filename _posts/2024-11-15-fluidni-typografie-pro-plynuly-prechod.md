@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-15 09:02:01 +01:00
-slug: fluidni-typografie-pro-plynuly-prechod
+slug: "fluidni-typografie-pro-plynuly-prechod"
 post_id: 151674816.fluidni-typografie-pro-pplynuly-prechod
 title: "Fluid Typography for a Smooth Transition Between Different Screen Widths"
 description: ""

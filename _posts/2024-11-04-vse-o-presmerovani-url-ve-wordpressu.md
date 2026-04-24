@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-11-04 09:02:15 +01:00
-slug: vse-o-presmerovani-url-ve-wordpressu
+slug: "vse-o-presmerovani-url-ve-wordpressu"
 post_id: 151081591.vse-o-presmerovani-url-ve-wordpressu
 title: "All about URL redirection in WordPress"
 description: ""

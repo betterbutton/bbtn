@@ -3,7 +3,7 @@ authors:
   - martin
   - jakub
 date: 2024-10-16 08:00:14 +02:00
-slug: darkmode-setri-az-29-procent-energie
+slug: "darkmode-setri-az-29-procent-energie"
 post_id: 150248745.darkmode-setri-az-29-procent-energie
 title: "Dark mode saves up to 29% energy"
 description: ""
