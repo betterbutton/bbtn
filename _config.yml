@@ -65,6 +65,8 @@ exclude:
 include:
   - export.xml
   - _index.html
+  - __index.html
+  - __index.md
 
 # Volitelné: formát data pro šablony
 date_format: "%d. %m. %Y"
