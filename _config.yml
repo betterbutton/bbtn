@@ -1,0 +1,72 @@
+# Základní metadata
+title: Better Button
+description: Lots of useful knowledge conveyed with humor, just like that. 
+url: "https://betterbutton.github.io/bbtn"
+baseurl: "https://betterbutton.github.io/bbtn"   # u project page např. "/repo"
+lang: cs-CZ
+timezone: Europe/Prague
+
+# Autor
+authors:
+  martin:
+    name: Martin Kopta
+    email: martin.kopta@garcon.cz
+  jakub:
+    name: Jakub Goldmann
+    email: jakub@svejda-goldmann.cz
+
+# Struktura URL
+permalink: :title
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Výchozí nastavení pro posty
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# Pluginy podporované GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 🔽 RSS / Atom feed (standardní)
+feed:
+  path: feed.xml
+  posts_limit: 10   # GitHub Pages to stejně ignorují, ale dokumentačně OK
+
+# 🔽 Sitemap
+# (není potřeba explicitní konfigurace, plugin ji generuje automaticky)
+
+# Kolekce (pokud budeš chtít rozšířit web)
+collections:
+  posts:
+    output: true
+
+# Vyloučení souborů z buildu
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# Include (pokud bys měl speciální soubory)
+include:
+  - export.xml
+
+# Volitelné: formát data pro šablony
+date_format: "%d. %m. %Y"
+
+# SEO (pro jekyll-seo-tag)
+
+
+# Volitelné: výchozí hodnoty sitemap (omezené možnosti)
+# detailní kontrola vyžaduje vlastní sitemap.xml
