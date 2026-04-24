@@ -1,8 +1,8 @@
 # Základní metadata
 title: Better Button
 description: Lots of useful knowledge conveyed with humor, just like that. 
-url: "https://betterbutton.github.io/bbtn"
-baseurl: ""   # u project page např. "/repo"
+url: "https://betterbutton.github.io"
+baseurl: "/bbtn"   # u project page např. "/repo"
 lang: en-GB
 timezone: Europe/Prague
 
