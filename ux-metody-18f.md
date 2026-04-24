@@ -1,0 +1,15 @@
+---
+post_id: 148372028.ux-metody-18f
+title: "UX methods of the US government agency"
+subtitle: ""
+published: "2024-09-03T05:01:20.423Z"
+is_published: true
+---
+# UX methods of the US government agency
+> 
+
+A hundred employees work for American government organizations at the digital agency [18F](https://18f.gsa.gov/), founded ten years ago. Among other things, the agency also handles education and publishes various guides. One such guide is an [overview of methods for UX design](https://guides.18f.gov/methods/). The agency also offers it in the form of [32 printable cards](https://guides.18f.gov/methods/assets/downloads/18F-Method-Cards-Print-at-Home.pdf).
+
+![Introductory card from the package with an overview of UX methods from the US government digital agency 18F.](https://substack-post-media.s3.amazonaws.com/public/images/7f125950-2466-42b8-822f-5647ff33c289_962x722.png "962x722")
+
+If you don't manage with English, try a similar page from the Brno-based KISK, which trains service designers. KISK even offers [100 methods](https://kisk.phil.muni.cz/100metod) carefully sorted by project phase.
