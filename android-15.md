@@ -1,0 +1,15 @@
+---
+post_id: 150368110.android-15
+title: "Android 15 brings new security features and multitasking"
+subtitle: ""
+published: "2024-10-18T06:01:33.468Z"
+is_published: true
+---
+# Android 15 brings new security features and multitasking
+> 
+
+[Android 15](https://blog.google/products/android/android-15/) starts with updates for Pixel devices, with the main novelty being protection against theft. The new feature Theft Detection Lock recognizes when the device is stolen and automatically locks it. Android 15 also offers a private space for sensitive apps, which increases the security of personal data.
+
+On devices with larger screens, such as foldable phones and tablets, multitasking is enabled with the ability to pair apps and customize the workspace. Improvements also concern cameras and satellite communication for sending messages without network connection. [Android 15 news at a glance](https://mobilmania.zive.cz/clanky/15-nejvetsich-novinek-android-15/sc-3-a-1361172/default.aspx) summarizes Mobilmania.
+
+(Image from the teaser: [Mohamed Nohassi](https://unsplash.com/@coopery?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash), [Unsplash](https://unsplash.com/photos/an-image-of-a-green-android-phone-0bm7FWhg7zY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash))
