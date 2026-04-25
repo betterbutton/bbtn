@@ -42,8 +42,8 @@ plugins:
 
 # 🔽 RSS / Atom feed (standardní)
 feed:
-  path: feed.xml
-  posts_limit: 10   # GitHub Pages to stejně ignorují, ale dokumentačně OK
+  path: export.xml
+  ## posts_limit: 10   # GitHub Pages to stejně ignorují, ale dokumentačně OK
 
 # 🔽 Sitemap
 # (není potřeba explicitní konfigurace, plugin ji generuje automaticky)
